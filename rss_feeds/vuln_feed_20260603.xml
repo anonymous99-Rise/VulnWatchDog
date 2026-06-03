@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>VulnWatchdog每日漏洞订阅</title>
+    <description>2026-06-03安全漏洞信息</description>
+    <link>http://vulnwatchdog.local</link>
+    <lastBuildDate>Wed, 03 Jun 2026 04:19:49 +0800</lastBuildDate>
+    <generator>VulnWatchdog</generator>
+    <item>
+      <title>CVE-2026-29198 - CVE-2026-29198 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/hieuminhnv/CVE-2026-29198-POC'&gt;CVE-2026-29198-POC&lt;/a&gt;: Rocket.Chat OAuth2 NoSQL Injection</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-29198</link>
+      <guid isPermaLink="false">CVE-2026-29198</guid>
+      <pubDate>2026-06-03T04:19:49.309855</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-31431 - CVE-2026-31431 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Dullpurple-sloop726/CVE-2026-31431-Linux-Copy-Fail'&gt;CVE-2026-31431-Linux-Copy-Fail&lt;/a&gt;: Exploit CVE-2026-31431 on Linux using a Rust implementation to achieve local privilege escalation via an arbitrary page cache write primitive.&lt;br&gt;&lt;a href='https://github.com/Liverwortenuresis371/copyfail-rs'&gt;copyfail-rs&lt;/a&gt;: Exploit and detect CVE-2026-31431 vulnerabilities using a static binary that monitors system integrity and bypasses PAM authentication.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-31431</link>
+      <guid isPermaLink="false">CVE-2026-31431</guid>
+      <pubDate>2026-06-03T04:19:49.309865</pubDate>
+    </item>
+  </channel>
+</rss>
