@@ -4,42 +4,49 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-06-03安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Wed, 03 Jun 2026 09:35:03 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 14:47:09 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-46300 - CVE-2026-46300 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/1neptune/Fragnesia'&gt;Fragnesia&lt;/a&gt;: Add go CVE-2026-46300 (Fragnesia) local privilege escalation exploit</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-46300</link>
-      <guid isPermaLink="false">CVE-2026-46300</guid>
-      <pubDate>2026-06-03T09:35:03.399068</pubDate>
+      <title>CVE-2025-32463 - CVE-2025-32463 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/ashardev002/CVE-2025-32463_chwoot'&gt;CVE-2025-32463_chwoot&lt;/a&gt;: 🔍 Demonstrate the CVE-2025-32463 privilege-escalation flaw in sudo's chroot feature with this minimal, reproducible proof of concept environment.&lt;br&gt;&lt;a href='https://github.com/mihnasdsad/CVE-2025-32463'&gt;CVE-2025-32463&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-32463</link>
+      <guid isPermaLink="false">CVE-2025-32463</guid>
+      <pubDate>2026-06-03T14:47:09.291443</pubDate>
     </item>
     <item>
-      <title>CVE-2026-43500 - CVE-2026-43500 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/1neptune/DirtyFrag'&gt;DirtyFrag&lt;/a&gt;: Add go CVE-2026-43284 / CVE-2026-43500  (dirtyfrag) local privilege escalation exploit</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43500</link>
-      <guid isPermaLink="false">CVE-2026-43500</guid>
-      <pubDate>2026-06-03T09:35:03.399076</pubDate>
+      <title>CVE-2025-49144 - CVE-2025-49144 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/ammarm0010/CVE-2025-49144_PoC'&gt;CVE-2025-49144_PoC&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-49144</link>
+      <guid isPermaLink="false">CVE-2025-49144</guid>
+      <pubDate>2026-06-03T14:47:09.291453</pubDate>
     </item>
     <item>
-      <title>CVE-2026-43284 - CVE-2026-43284 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/1neptune/DirtyFrag'&gt;DirtyFrag&lt;/a&gt;: Add go CVE-2026-43284 / CVE-2026-43500  (dirtyfrag) local privilege escalation exploit</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43284</link>
-      <guid isPermaLink="false">CVE-2026-43284</guid>
-      <pubDate>2026-06-03T09:35:03.399082</pubDate>
+      <title>CVE-2025-31258 - CVE-2025-31258 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/sureshkumarsat/CVE-2025-31258-PoC'&gt;CVE-2025-31258-PoC&lt;/a&gt;: 🔓 Explore CVE-2025-31258 with this PoC demonstrating partial sandbox escape using RemoteViewServices for practical 1-day security practice.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-31258</link>
+      <guid isPermaLink="false">CVE-2025-31258</guid>
+      <pubDate>2026-06-03T14:47:09.291460</pubDate>
     </item>
     <item>
-      <title>CVE-2026-31431 - CVE-2026-31431 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/1neptune/CopyFail'&gt;CopyFail&lt;/a&gt;: go CVE-2026-31431 (CopyFail) local privilege escalation exploit</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-31431</link>
-      <guid isPermaLink="false">CVE-2026-31431</guid>
-      <pubDate>2026-06-03T09:35:03.399087</pubDate>
+      <title>CVE-2025-59536 - CVE-2025-59536 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/DBarr3/AETHER-PROTOCOL-P'&gt;AETHER-PROTOCOL-P&lt;/a&gt;: Working implementation: cryptographically verified short-lived identities for AI decision authentication — CVE-2025-59536 (Patent Pending US 64/006,746)</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-59536</link>
+      <guid isPermaLink="false">CVE-2025-59536</guid>
+      <pubDate>2026-06-03T14:47:09.291466</pubDate>
     </item>
     <item>
-      <title>CVE-2026-0257 - CVE-2026-0257 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/tushargurav28/CVE-2026-0257'&gt;CVE-2026-0257&lt;/a&gt;: Palo Alto Networks PAN-OS contains an authentication bypass caused by flaws in the GlobalProtect portal and gateway, letting attackers establish unauthorized VPN connections, exploit requires network access to the portal or gateway.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-0257</link>
-      <guid isPermaLink="false">CVE-2026-0257</guid>
-      <pubDate>2026-06-03T09:35:03.399092</pubDate>
+      <title>CVE-2025-54253 - CVE-2025-54253 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/jm7knz/CVE-2025-54253-Exploit-Demo'&gt;CVE-2025-54253-Exploit-Demo&lt;/a&gt;: 🐙 CVE-2025-54253 exploit demo for Adobe AEM Forms on JEE: OGNL injection to RCE with PoC, Python 3.10 exploit code, reproducer and mitigation guidance.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-54253</link>
+      <guid isPermaLink="false">CVE-2025-54253</guid>
+      <pubDate>2026-06-03T14:47:09.291472</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-54424 - CVE-2025-54424 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/hophtien/CVE-2025-54424'&gt;CVE-2025-54424&lt;/a&gt;: CVE-2025-54424: 1Panel TLS client cert bypass enables RCE via forged CN 'panel_client' using a bundled scanning and exploitation tool. Affected: &lt;= v2.0.5. 🔐</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-54424</link>
+      <guid isPermaLink="false">CVE-2025-54424</guid>
+      <pubDate>2026-06-03T14:47:09.291478</pubDate>
     </item>
   </channel>
 </rss>
