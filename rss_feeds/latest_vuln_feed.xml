@@ -4,35 +4,35 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-06-09安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Tue, 09 Jun 2026 12:41:01 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 15:58:37 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2025-54253 - CVE-2025-54253 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/jm7knz/CVE-2025-54253-Exploit-Demo'&gt;CVE-2025-54253-Exploit-Demo&lt;/a&gt;: 🐙 CVE-2025-54253 exploit demo for Adobe AEM Forms on JEE: OGNL injection to RCE with PoC, Python 3.10 exploit code, reproducer and mitigation guidance.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-54253</link>
-      <guid isPermaLink="false">CVE-2025-54253</guid>
-      <pubDate>2026-06-09T12:41:01.360259</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-54424 - CVE-2025-54424 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/hophtien/CVE-2025-54424'&gt;CVE-2025-54424&lt;/a&gt;: CVE-2025-54424: 1Panel TLS client cert bypass enables RCE via forged CN 'panel_client' using a bundled scanning and exploitation tool. Affected: &lt;= v2.0.5. 🔐</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-54424</link>
-      <guid isPermaLink="false">CVE-2025-54424</guid>
-      <pubDate>2026-06-09T12:41:01.360269</pubDate>
+      <title>CVE-2025-11262 - CVE-2025-11262 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/rootdirective-sec/CVE-2025-11262-Lab'&gt;CVE-2025-11262-Lab&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-11262</link>
+      <guid isPermaLink="false">CVE-2025-11262</guid>
+      <pubDate>2026-06-09T15:58:37.241721</pubDate>
     </item>
     <item>
       <title>CVE-2025-32463 - CVE-2025-32463 - 未命名漏洞</title>
       <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/yeremeu/CVE-2025-32463_chwoot'&gt;CVE-2025-32463_chwoot&lt;/a&gt;: Demonstrate CVE-2025-32463 with this PoC for sudo's chroot feature. Explore the exploit and its impact on vulnerable sudo versions. 🐱💻🔒</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2025-32463</link>
       <guid isPermaLink="false">CVE-2025-32463</guid>
-      <pubDate>2026-06-09T12:41:01.360274</pubDate>
+      <pubDate>2026-06-09T15:58:37.241730</pubDate>
     </item>
     <item>
-      <title>CVE-2026-48598 - CVE-2026-48598 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/workshops-de/google_gax'&gt;google_gax&lt;/a&gt;: Patched google_gax 0.4.1 for Tesla 1.18.3+ compatibility (CVE-2026-48598)</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-48598</link>
-      <guid isPermaLink="false">CVE-2026-48598</guid>
-      <pubDate>2026-06-09T12:41:01.360280</pubDate>
+      <title>CVE-2026-4480 - CVE-2026-4480 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/0xBlackash/CVE-2026-4480'&gt;CVE-2026-4480&lt;/a&gt;: CVE-2026-4480</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-4480</link>
+      <guid isPermaLink="false">CVE-2026-4480</guid>
+      <pubDate>2026-06-09T15:58:37.241736</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-41089 - CVE-2026-41089 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Coasttruvitalize/CVE-2026-41089-latest'&gt;CVE-2026-41089-latest&lt;/a&gt;: CVE-2026-41089 PoC — Netlogon CLDAP stack buffer overflow (CVSS 9.8 CRITICAL)</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-41089</link>
+      <guid isPermaLink="false">CVE-2026-41089</guid>
+      <pubDate>2026-06-09T15:58:37.241741</pubDate>
     </item>
   </channel>
 </rss>
