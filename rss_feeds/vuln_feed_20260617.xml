@@ -4,21 +4,21 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-06-17安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Wed, 17 Jun 2026 06:14:38 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 15:37:25 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-48907 - CVE-2026-48907 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/HORKimhab/CVE-2026-48907'&gt;CVE-2026-48907&lt;/a&gt;: CVE-2026-48907 - Draft</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-48907</link>
-      <guid isPermaLink="false">CVE-2026-48907</guid>
-      <pubDate>2026-06-17T06:14:38.869639</pubDate>
+      <title>CVE-2026-42945 - CVE-2026-42945 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/hulina9900-boop/DIY-CVE-2026-42945-POC'&gt;DIY-CVE-2026-42945-POC&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-42945</link>
+      <guid isPermaLink="false">CVE-2026-42945</guid>
+      <pubDate>2026-06-17T15:37:25.847600</pubDate>
     </item>
     <item>
-      <title>CVE-2026-25177 - CVE-2026-25177 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/HORKimhab/CVE-2026-25177'&gt;CVE-2026-25177&lt;/a&gt;: CVE-2026-25177 - Draft</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-25177</link>
-      <guid isPermaLink="false">CVE-2026-25177</guid>
-      <pubDate>2026-06-17T06:14:38.869647</pubDate>
+      <title>CVE-2026-48907 - CVE-2026-48907 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/wearehackers160/CVE-2026-48907'&gt;CVE-2026-48907&lt;/a&gt;: CVE-2026-48907 is a critical improper access control vulnerability in the JCE editor extension for Joomla. It allows unauthenticated attackers to create new editor profiles, which can ultimately lead to arbitrary PHP file upload and remote code execution on affected systems</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-48907</link>
+      <guid isPermaLink="false">CVE-2026-48907</guid>
+      <pubDate>2026-06-17T15:37:25.847610</pubDate>
     </item>
   </channel>
 </rss>
