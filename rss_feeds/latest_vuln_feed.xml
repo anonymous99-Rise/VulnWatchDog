@@ -4,21 +4,21 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-06-24安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Wed, 24 Jun 2026 08:29:04 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 11:49:36 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2025-55182 - CVE-2025-55182 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/captain4554/CVE-2025-55182-Scanner'&gt;CVE-2025-55182-Scanner&lt;/a&gt;: 🛡️ Scan and assess vulnerabilities in Next.js/Waku with the CVE-2025-55182-Scanner, combining static and dynamic analysis for robust security.&lt;br&gt;&lt;a href='https://github.com/alyaapm/CVE-2025-55182-shellinteractive'&gt;CVE-2025-55182-shellinteractive&lt;/a&gt;: None&lt;br&gt;&lt;a href='https://github.com/Mayca369/CVE-2025-55182'&gt;CVE-2025-55182&lt;/a&gt;: 🚨 Exploit CVE-2025-55182 to demonstrate RCE in React Server Functions, highlighting risks from insecure prototype references in Next.js applications.&lt;br&gt;&lt;a href='https://github.com/mayank729/CVE-2025-55182-scanner'&gt;CVE-2025-55182-scanner&lt;/a&gt;: 🔍 Scan for CVE-2025-55182 risks in React Server Components with this non-intrusive tool that helps detect critical vulnerabilities in your applications.&lt;br&gt;&lt;a href='https://github.com/Farhan9488/CVE-2025-55182-research'&gt;CVE-2025-55182-research&lt;/a&gt;: 🛡️ Explore CVE-2025-55182, a critical RCE vulnerability in React's Flight Protocol, demonstrating exploitation techniques and mitigation strategies.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-55182</link>
-      <guid isPermaLink="false">CVE-2025-55182</guid>
-      <pubDate>2026-06-24T08:29:04.764866</pubDate>
+      <title>CVE-2026-45585 - CVE-2026-45585 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Desireeontrial76/yellowkey-bitlocker'&gt;yellowkey-bitlocker&lt;/a&gt;: Manage and recover BitLocker encrypted drives with this tool for Windows 11 recovery key management and educational study of CVE-2026-45585.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-45585</link>
+      <guid isPermaLink="false">CVE-2026-45585</guid>
+      <pubDate>2026-06-24T11:49:36.486690</pubDate>
     </item>
     <item>
-      <title>CVE-2025-49844 - CVE-2025-49844 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Zain3311/CVE-2025-49844'&gt;CVE-2025-49844&lt;/a&gt;: 🚨 Exploit the CVE-2025-49844 Redis Lua interpreter UAF vulnerability to execute arbitrary shellcode and gain persistent backdoor access.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-49844</link>
-      <guid isPermaLink="false">CVE-2025-49844</guid>
-      <pubDate>2026-06-24T08:29:04.764876</pubDate>
+      <title>CVE-2026-31431 - CVE-2026-31431 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Dullpurple-sloop726/CVE-2026-31431-Linux-Copy-Fail'&gt;CVE-2026-31431-Linux-Copy-Fail&lt;/a&gt;: Exploit CVE-2026-31431 on Linux using a Rust implementation to achieve local privilege escalation via an arbitrary page cache write primitive.&lt;br&gt;&lt;a href='https://github.com/Liverwortenuresis371/copyfail-rs'&gt;copyfail-rs&lt;/a&gt;: Exploit and detect CVE-2026-31431 vulnerabilities using a static binary that monitors system integrity and bypasses PAM authentication.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-31431</link>
+      <guid isPermaLink="false">CVE-2026-31431</guid>
+      <pubDate>2026-06-24T11:49:36.486700</pubDate>
     </item>
   </channel>
 </rss>
