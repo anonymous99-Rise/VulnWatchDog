@@ -4,35 +4,21 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-06-30安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Tue, 30 Jun 2026 09:44:12 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 12:12:46 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
       <title>CVE-2026-45585 - CVE-2026-45585 - 未命名漏洞</title>
       <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Desireeontrial76/yellowkey-bitlocker'&gt;yellowkey-bitlocker&lt;/a&gt;: Manage and recover BitLocker encrypted drives with this tool for Windows 11 recovery key management and educational study of CVE-2026-45585.</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-45585</link>
       <guid isPermaLink="false">CVE-2026-45585</guid>
-      <pubDate>2026-06-30T09:44:12.728388</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-10580 - CVE-2026-10580 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/0xgh057r3c0n/CVE-2026-10580'&gt;CVE-2026-10580&lt;/a&gt;: PoC exploit for CVE-2026-10580 - Authentication Bypass in Hippoo Mobile App for WooCommerce &lt;= 1.9.4 leading to Admin Account Takeover</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-10580</link>
-      <guid isPermaLink="false">CVE-2026-10580</guid>
-      <pubDate>2026-06-30T09:44:12.728395</pubDate>
+      <pubDate>2026-06-30T12:12:46.861977</pubDate>
     </item>
     <item>
       <title>CVE-2026-31431 - CVE-2026-31431 - 未命名漏洞</title>
       <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Dullpurple-sloop726/CVE-2026-31431-Linux-Copy-Fail'&gt;CVE-2026-31431-Linux-Copy-Fail&lt;/a&gt;: Exploit CVE-2026-31431 on Linux using a Rust implementation to achieve local privilege escalation via an arbitrary page cache write primitive.&lt;br&gt;&lt;a href='https://github.com/Liverwortenuresis371/copyfail-rs'&gt;copyfail-rs&lt;/a&gt;: Exploit and detect CVE-2026-31431 vulnerabilities using a static binary that monitors system integrity and bypasses PAM authentication.</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-31431</link>
       <guid isPermaLink="false">CVE-2026-31431</guid>
-      <pubDate>2026-06-30T09:44:12.728400</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-24257 - CVE-2025-24257 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Learningdisordercapital35/CVE_2025_24257----NOT-MINE'&gt;CVE_2025_24257----NOT-MINE&lt;/a&gt;: Demonstrate CVE-2025-24257 with a public PoC for IOGPUFamily kernel heap OOB read/write and panic analysis</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-24257</link>
-      <guid isPermaLink="false">CVE-2025-24257</guid>
-      <pubDate>2026-06-30T09:44:12.728404</pubDate>
+      <pubDate>2026-06-30T12:12:46.861986</pubDate>
     </item>
   </channel>
 </rss>
