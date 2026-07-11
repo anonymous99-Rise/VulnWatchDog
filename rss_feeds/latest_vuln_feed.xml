@@ -4,28 +4,28 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-07-11安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Sat, 11 Jul 2026 08:53:19 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 10:19:25 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-29145 - CVE-2026-29145 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/gkdgkd123/CVE-2026-29145-Everything'&gt;CVE-2026-29145-Everything&lt;/a&gt;: None</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-29145</link>
-      <guid isPermaLink="false">CVE-2026-29145</guid>
-      <pubDate>2026-07-11T08:53:19.414009</pubDate>
+      <title>CVE-2026-25253 - CVE-2026-25253 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/FrigateCaptain/openclaw_vulnerabilities_and_solutions'&gt;openclaw_vulnerabilities_and_solutions&lt;/a&gt;: &gt; OpenClaw security audit and hardened deployment guide — known vulnerabilities (CVE-2026-25253, malicious skills, credential leakage), architectural mitigations, and a step-by-step VPS deployment plan</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-25253</link>
+      <guid isPermaLink="false">CVE-2026-25253</guid>
+      <pubDate>2026-07-11T10:19:25.872856</pubDate>
     </item>
     <item>
-      <title>CVE-2026-59734 - CVE-2026-59734 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/cybertechajju/CVE-2026-59734-POC'&gt;CVE-2026-59734-POC&lt;/a&gt;: OS Command Injection in Health Check → Remote Code Execution</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-59734</link>
-      <guid isPermaLink="false">CVE-2026-59734</guid>
-      <pubDate>2026-07-11T08:53:19.414018</pubDate>
+      <title>CVE-2025-68921 - CVE-2025-68921 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/kikiuuw/CVE-2025-68921'&gt;CVE-2025-68921&lt;/a&gt;: 🔍 Identify and understand the local privilege escalation vulnerability (CVE-2025-68921) in Nahimic audio software, impacting many gaming laptops.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-68921</link>
+      <guid isPermaLink="false">CVE-2025-68921</guid>
+      <pubDate>2026-07-11T10:19:25.872865</pubDate>
     </item>
     <item>
-      <title>CVE-2025-55182 - CVE-2025-55182 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/alyaapm/CVE-2025-55182-shellinteractive'&gt;CVE-2025-55182-shellinteractive&lt;/a&gt;: None&lt;br&gt;&lt;a href='https://github.com/Mayca369/CVE-2025-55182'&gt;CVE-2025-55182&lt;/a&gt;: 🚨 Exploit CVE-2025-55182 to demonstrate RCE in React Server Functions, highlighting risks from insecure prototype references in Next.js applications.&lt;br&gt;&lt;a href='https://github.com/mayank729/CVE-2025-55182-scanner'&gt;CVE-2025-55182-scanner&lt;/a&gt;: 🔍 Scan for CVE-2025-55182 risks in React Server Components with this non-intrusive tool that helps detect critical vulnerabilities in your applications.&lt;br&gt;&lt;a href='https://github.com/Farhan9488/CVE-2025-55182-research'&gt;CVE-2025-55182-research&lt;/a&gt;: 🛡️ Explore CVE-2025-55182, a critical RCE vulnerability in React's Flight Protocol, demonstrating exploitation techniques and mitigation strategies.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-55182</link>
-      <guid isPermaLink="false">CVE-2025-55182</guid>
-      <pubDate>2026-07-11T08:53:19.414028</pubDate>
+      <title>CVE-2025-14847 - CVE-2025-14847 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/sakthivel10q/CVE-2025-14847'&gt;CVE-2025-14847&lt;/a&gt;: 🛠 Exploit the CVE-2025-14847 vulnerability in MongoDB to disclose sensitive heap memory using a Python script that analyzes responses for new leaked data.&lt;br&gt;&lt;a href='https://github.com/pedrocruz2202/mongobleed-scanner'&gt;mongobleed-scanner&lt;/a&gt;: 🔍 Scan for MongoDB vulnerabilities with MongoBleed, a high-performance tool for detecting CVE-2025-14847 across large networks quickly and efficiently.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-14847</link>
+      <guid isPermaLink="false">CVE-2025-14847</guid>
+      <pubDate>2026-07-11T10:19:25.872872</pubDate>
     </item>
   </channel>
 </rss>
