@@ -4,28 +4,28 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-07-20安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Mon, 20 Jul 2026 06:47:42 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 13:07:36 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-60137 - CVE-2026-60137 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/0xjessie21/wp2shell-checker'&gt;wp2shell-checker&lt;/a&gt;: WordPress Core Unauthenticated RCE (CVE-2026-63030, CVE-2026-60137)</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-60137</link>
-      <guid isPermaLink="false">CVE-2026-60137</guid>
-      <pubDate>2026-07-20T06:47:42.462923</pubDate>
+      <title>CVE-2025-6019 - CVE-2025-6019 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/JM00NJ/CVE-2025-6019-udisks2-XFS-Resize-TOCTOU-Privilege-Escalation'&gt;CVE-2025-6019-udisks2-XFS-Resize-TOCTOU-Privilege-Escalation&lt;/a&gt;: CVE-2025-6019: udisks2 XFS Resize TOCTOU Privilege Escalation</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-6019</link>
+      <guid isPermaLink="false">CVE-2025-6019</guid>
+      <pubDate>2026-07-20T13:07:36.499507</pubDate>
     </item>
     <item>
       <title>CVE-2026-63030 - CVE-2026-63030 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/0xjessie21/wp2shell-checker'&gt;wp2shell-checker&lt;/a&gt;: WordPress Core Unauthenticated RCE (CVE-2026-63030, CVE-2026-60137)&lt;br&gt;&lt;a href='https://github.com/InstaWP/wp2shell-scan'&gt;wp2shell-scan&lt;/a&gt;: Detect &amp; clean up wp2shell (CVE-2026-63030) WordPress compromise — bulk-runnable, read-only by default</description>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/dinosn/wp2shell-lab'&gt;wp2shell-lab&lt;/a&gt;: Non-destructive detector + Docker lab for wp2shell (CVE-2026-63030 REST /batch/v1 route confusion + CVE-2026-60137 author__not_in SQLi) in WordPress core 6.9.0-6.9.4 / 7.0.0-7.0.1</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-63030</link>
       <guid isPermaLink="false">CVE-2026-63030</guid>
-      <pubDate>2026-07-20T06:47:42.462933</pubDate>
+      <pubDate>2026-07-20T13:07:36.499516</pubDate>
     </item>
     <item>
-      <title>CVE-2025-57819 - CVE-2025-57819 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Neobee714/CVE-2025-57819-POC'&gt;CVE-2025-57819-POC&lt;/a&gt;: FreePBX 未认证SQL注入导致远程代码执行，FreePBX 15 (低于 15.0.66)、16 (低于 16.0.89)、17 (低于 17.0.3)。该漏洞位于商业化“endpoint”模块中，因对用户输入过滤不严，允许未认证的攻击者绕过管理员权限，执行SQL注入，并最终实现远程代码执行</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-57819</link>
-      <guid isPermaLink="false">CVE-2025-57819</guid>
-      <pubDate>2026-07-20T06:47:42.462939</pubDate>
+      <title>CVE-2026-60137 - CVE-2026-60137 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/dinosn/wp2shell-lab'&gt;wp2shell-lab&lt;/a&gt;: Non-destructive detector + Docker lab for wp2shell (CVE-2026-63030 REST /batch/v1 route confusion + CVE-2026-60137 author__not_in SQLi) in WordPress core 6.9.0-6.9.4 / 7.0.0-7.0.1</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-60137</link>
+      <guid isPermaLink="false">CVE-2026-60137</guid>
+      <pubDate>2026-07-20T13:07:36.499521</pubDate>
     </item>
   </channel>
 </rss>
