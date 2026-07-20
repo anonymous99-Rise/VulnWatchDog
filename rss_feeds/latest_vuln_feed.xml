@@ -4,14 +4,28 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-07-20安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Mon, 20 Jul 2026 03:54:31 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 06:47:42 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Cxyofficial/x200-cve-2026-43499'&gt;x200-cve-2026-43499&lt;/a&gt;: None</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
-      <guid isPermaLink="false">CVE-2026-43499</guid>
-      <pubDate>2026-07-20T03:54:31.819604</pubDate>
+      <title>CVE-2026-60137 - CVE-2026-60137 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/0xjessie21/wp2shell-checker'&gt;wp2shell-checker&lt;/a&gt;: WordPress Core Unauthenticated RCE (CVE-2026-63030, CVE-2026-60137)</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-60137</link>
+      <guid isPermaLink="false">CVE-2026-60137</guid>
+      <pubDate>2026-07-20T06:47:42.462923</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-63030 - CVE-2026-63030 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/0xjessie21/wp2shell-checker'&gt;wp2shell-checker&lt;/a&gt;: WordPress Core Unauthenticated RCE (CVE-2026-63030, CVE-2026-60137)&lt;br&gt;&lt;a href='https://github.com/InstaWP/wp2shell-scan'&gt;wp2shell-scan&lt;/a&gt;: Detect &amp; clean up wp2shell (CVE-2026-63030) WordPress compromise — bulk-runnable, read-only by default</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-63030</link>
+      <guid isPermaLink="false">CVE-2026-63030</guid>
+      <pubDate>2026-07-20T06:47:42.462933</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-57819 - CVE-2025-57819 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Neobee714/CVE-2025-57819-POC'&gt;CVE-2025-57819-POC&lt;/a&gt;: FreePBX 未认证SQL注入导致远程代码执行，FreePBX 15 (低于 15.0.66)、16 (低于 16.0.89)、17 (低于 17.0.3)。该漏洞位于商业化“endpoint”模块中，因对用户输入过滤不严，允许未认证的攻击者绕过管理员权限，执行SQL注入，并最终实现远程代码执行</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-57819</link>
+      <guid isPermaLink="false">CVE-2025-57819</guid>
+      <pubDate>2026-07-20T06:47:42.462939</pubDate>
     </item>
   </channel>
 </rss>
