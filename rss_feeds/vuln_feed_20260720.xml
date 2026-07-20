@@ -4,28 +4,21 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-07-20安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Mon, 20 Jul 2026 13:07:36 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 15:51:50 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2025-6019 - CVE-2025-6019 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/JM00NJ/CVE-2025-6019-udisks2-XFS-Resize-TOCTOU-Privilege-Escalation'&gt;CVE-2025-6019-udisks2-XFS-Resize-TOCTOU-Privilege-Escalation&lt;/a&gt;: CVE-2025-6019: udisks2 XFS Resize TOCTOU Privilege Escalation</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-6019</link>
-      <guid isPermaLink="false">CVE-2025-6019</guid>
-      <pubDate>2026-07-20T13:07:36.499507</pubDate>
+      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/d224407/CVE-2026-43499'&gt;CVE-2026-43499&lt;/a&gt;: CVE-2026-43499</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
+      <guid isPermaLink="false">CVE-2026-43499</guid>
+      <pubDate>2026-07-20T15:51:50.986567</pubDate>
     </item>
     <item>
-      <title>CVE-2026-63030 - CVE-2026-63030 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/dinosn/wp2shell-lab'&gt;wp2shell-lab&lt;/a&gt;: Non-destructive detector + Docker lab for wp2shell (CVE-2026-63030 REST /batch/v1 route confusion + CVE-2026-60137 author__not_in SQLi) in WordPress core 6.9.0-6.9.4 / 7.0.0-7.0.1</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-63030</link>
-      <guid isPermaLink="false">CVE-2026-63030</guid>
-      <pubDate>2026-07-20T13:07:36.499516</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-60137 - CVE-2026-60137 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/dinosn/wp2shell-lab'&gt;wp2shell-lab&lt;/a&gt;: Non-destructive detector + Docker lab for wp2shell (CVE-2026-63030 REST /batch/v1 route confusion + CVE-2026-60137 author__not_in SQLi) in WordPress core 6.9.0-6.9.4 / 7.0.0-7.0.1</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-60137</link>
-      <guid isPermaLink="false">CVE-2026-60137</guid>
-      <pubDate>2026-07-20T13:07:36.499521</pubDate>
+      <title>CVE-2025-9242 - CVE-2025-9242 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/UnusualGiraffe/PoC-Unauthenticated-RCE-in-WatchGuard-Fireware-12.7-Build-640389-CVE-2025-9242'&gt;PoC-Unauthenticated-RCE-in-WatchGuard-Fireware-12.7-Build-640389-CVE-2025-9242&lt;/a&gt;: Version-pinned archival PoC for CVE-2025-9242 on WatchGuard Fireware 12.7 build 640389. Includes safe detection, offline payload analysis, and an explicitly gated reverse-shell exploit using a caller-supplied IPv4 callback endpoint.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-9242</link>
+      <guid isPermaLink="false">CVE-2025-9242</guid>
+      <pubDate>2026-07-20T15:51:50.986576</pubDate>
     </item>
   </channel>
 </rss>
