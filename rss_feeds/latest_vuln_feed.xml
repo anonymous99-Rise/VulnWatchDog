@@ -4,14 +4,21 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-07-22安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Wed, 22 Jul 2026 00:00:34 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 03:35:25 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2025-64512 - CVE-2025-64512 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/MehdiChyhab/CVE-2025-64512-exploit'&gt;CVE-2025-64512-exploit&lt;/a&gt;: CVE-2025-64512 - pdfminer.six Remote Code Execution Exploit</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-64512</link>
-      <guid isPermaLink="false">CVE-2025-64512</guid>
-      <pubDate>2026-07-22T00:00:34.225064</pubDate>
+      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/gagaltotal/CVE-2026-43499-PoC-Scanner'&gt;CVE-2026-43499-PoC-Scanner&lt;/a&gt;: CVE-2026-43499 PoC Scanner</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
+      <guid isPermaLink="false">CVE-2026-43499</guid>
+      <pubDate>2026-07-22T03:35:25.200226</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-10725 - CVE-2025-10725 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/kaiokmo/cve-2025-10725-eda-demo'&gt;cve-2025-10725-eda-demo&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-10725</link>
+      <guid isPermaLink="false">CVE-2025-10725</guid>
+      <pubDate>2026-07-22T03:35:25.200265</pubDate>
     </item>
   </channel>
 </rss>
