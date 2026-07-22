@@ -4,42 +4,21 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-07-22安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Wed, 22 Jul 2026 11:48:29 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 13:56:57 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2025-69420 - CVE-2025-69420 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Kha-Beleh/PoC-CVE-2025-69420'&gt;PoC-CVE-2025-69420&lt;/a&gt;: None</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-69420</link>
-      <guid isPermaLink="false">CVE-2025-69420</guid>
-      <pubDate>2026-07-22T11:48:29.849340</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-9973 - CVE-2026-9973 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/jaf0rk/CVE-2026-9973-exploit'&gt;CVE-2026-9973-exploit&lt;/a&gt;: None</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-9973</link>
-      <guid isPermaLink="false">CVE-2026-9973</guid>
-      <pubDate>2026-07-22T11:48:29.849350</pubDate>
+      <title>CVE-2026-46215 - CVE-2026-46215 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/bluedragonsecurity/CVE-2026-46215-exploit-linux-7.0-uaf-stable'&gt;CVE-2026-46215-exploit-linux-7.0-uaf-stable&lt;/a&gt;: CVE-2026-46215 DRM GEM UAF Exploit for Linux 7.0 - by Antonius (sw0rdm4n, w1sdom, ev1lut10n)</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-46215</link>
+      <guid isPermaLink="false">CVE-2026-46215</guid>
+      <pubDate>2026-07-22T13:56:57.578416</pubDate>
     </item>
     <item>
       <title>CVE-2026-63030 - CVE-2026-63030 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/dinosn/wp2shell-lab'&gt;wp2shell-lab&lt;/a&gt;: Non-destructive detector + Docker lab for wp2shell (CVE-2026-63030 REST /batch/v1 route confusion + CVE-2026-60137 author__not_in SQLi) in WordPress core 6.9.0-6.9.4 / 7.0.0-7.0.1</description>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/raphy76/wp2shell-poc-fulljs'&gt;wp2shell-poc-fulljs&lt;/a&gt;: full javascript reproduction of CVE-2026-63030 (author_exclude, author__not_in and misalignment between validations and matches)</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-63030</link>
       <guid isPermaLink="false">CVE-2026-63030</guid>
-      <pubDate>2026-07-22T11:48:29.849356</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-60137 - CVE-2026-60137 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/dinosn/wp2shell-lab'&gt;wp2shell-lab&lt;/a&gt;: Non-destructive detector + Docker lab for wp2shell (CVE-2026-63030 REST /batch/v1 route confusion + CVE-2026-60137 author__not_in SQLi) in WordPress core 6.9.0-6.9.4 / 7.0.0-7.0.1</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-60137</link>
-      <guid isPermaLink="false">CVE-2026-60137</guid>
-      <pubDate>2026-07-22T11:48:29.849361</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-45729 - CVE-2026-45729 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/yeahhbean/CVE-2026-45729'&gt;CVE-2026-45729&lt;/a&gt;: ThorVG NULL pointer dereference via malformed SVG — AFL++ fuzzing writeup</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-45729</link>
-      <guid isPermaLink="false">CVE-2026-45729</guid>
-      <pubDate>2026-07-22T11:48:29.849367</pubDate>
+      <pubDate>2026-07-22T13:56:57.578425</pubDate>
     </item>
   </channel>
 </rss>
