@@ -4,28 +4,49 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-07-23安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Thu, 23 Jul 2026 05:56:03 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 08:34:20 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
+      <title>CVE-2026-60137 - CVE-2026-60137 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Icex0/wp2shell-poc'&gt;wp2shell-poc&lt;/a&gt;: wp2shell (CVE-2026-63030 &amp; CVE-2026-60137) - full RCE chain</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-60137</link>
+      <guid isPermaLink="false">CVE-2026-60137</guid>
+      <pubDate>2026-07-23T08:34:20.215109</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-63030 - CVE-2026-63030 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Icex0/wp2shell-poc'&gt;wp2shell-poc&lt;/a&gt;: wp2shell (CVE-2026-63030 &amp; CVE-2026-60137) - full RCE chain</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-63030</link>
+      <guid isPermaLink="false">CVE-2026-63030</guid>
+      <pubDate>2026-07-23T08:34:20.215118</pubDate>
+    </item>
+    <item>
       <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Cxyofficial/x200-cve-2026-43499'&gt;x200-cve-2026-43499&lt;/a&gt;: None</description>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/soralis0912/CVE-2026-43499-aristotle'&gt;CVE-2026-43499-aristotle&lt;/a&gt;: None&lt;br&gt;&lt;a href='https://github.com/soralis0912/CVE-2026-43499-aristotle-apk'&gt;CVE-2026-43499-aristotle-apk&lt;/a&gt;: None</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
       <guid isPermaLink="false">CVE-2026-43499</guid>
-      <pubDate>2026-07-23T05:56:03.998366</pubDate>
+      <pubDate>2026-07-23T08:34:20.215125</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-10097 - CVE-2026-10097 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/007bsd/ml-kem-key-recovery'&gt;ml-kem-key-recovery&lt;/a&gt;: Full ML-KEM-1024 key recovery from a partial Fujisaki-Okamoto comparison in wolfSSL (CVE-2026-6330 NEON, CVE-2026-10097 AVX2)</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-10097</link>
+      <guid isPermaLink="false">CVE-2026-10097</guid>
+      <pubDate>2026-07-23T08:34:20.215131</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-6330 - CVE-2026-6330 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/007bsd/ml-kem-key-recovery'&gt;ml-kem-key-recovery&lt;/a&gt;: Full ML-KEM-1024 key recovery from a partial Fujisaki-Okamoto comparison in wolfSSL (CVE-2026-6330 NEON, CVE-2026-10097 AVX2)</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-6330</link>
+      <guid isPermaLink="false">CVE-2026-6330</guid>
+      <pubDate>2026-07-23T08:34:20.215136</pubDate>
     </item>
     <item>
       <title>CVE-2026-8838 - CVE-2026-8838 - 未命名漏洞</title>
       <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Sana-404/CVE-2026-8838-Mitigation-and-Detection'&gt;CVE-2026-8838-Mitigation-and-Detection&lt;/a&gt;: None</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-8838</link>
       <guid isPermaLink="false">CVE-2026-8838</guid>
-      <pubDate>2026-07-23T05:56:03.998375</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-59287 - CVE-2025-59287 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/owaset55-crypto/CVE-2025-59287'&gt;CVE-2025-59287&lt;/a&gt;: None</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-59287</link>
-      <guid isPermaLink="false">CVE-2025-59287</guid>
-      <pubDate>2026-07-23T05:56:03.998381</pubDate>
+      <pubDate>2026-07-23T08:34:20.215141</pubDate>
     </item>
   </channel>
 </rss>
